@@ -1,0 +1,11 @@
+beautifulsoup4==4.13.3
+httpx==0.28.1
+pandas==2.2.3
+pandas_gbq==0.28.0
+protobuf==6.30.2
+python-dotenv==1.1.0
+rapidfuzz==3.12.2
+Requests==2.32.3
+rich==13.9.4
+selenium==4.30.0
+seleniumbase==4.35.7
