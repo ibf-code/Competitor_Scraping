@@ -2,3 +2,7 @@
 config/service_key.json
 __pycache__/
 
+.env
+config/service_key.json
+__pycache__/
+*.pyc
