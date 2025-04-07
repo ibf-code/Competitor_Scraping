@@ -2,7 +2,7 @@ from datetime import datetime
 import pandas as pd
 
 #Reads Productgroups.csv to map their productgroup id's on our productgroup KEY
-product_group_mapping = pd.read_csv("mapping/productgroups.csv")
+product_group_mapping = pd.read_csv("mapping/mayesh_productgroups.csv")
 mapping_dict = dict(zip(product_group_mapping['competitor_product_group'].astype(str), 
                        product_group_mapping['ibf_product_group']))
 
@@ -10,7 +10,7 @@ def get_ibf_product_group(category_id):
     return mapping_dict.get(str(category_id))
   
 #Reads Varieties.csv to map their Variety id's on our Variety _KEYS
-variety_mapping = pd.read_csv("mapping/varieties.csv")
+variety_mapping = pd.read_csv("mapping/mayesh_varieties.csv")
 variety_mapping_dict = dict(zip(variety_mapping['competitor_variety'].astype(str),
                                 variety_mapping['ibf_variety']))
 
