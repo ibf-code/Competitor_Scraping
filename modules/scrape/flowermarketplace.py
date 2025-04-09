@@ -61,7 +61,7 @@ async def process_page(client, page_number, product_key, eta_date):
     try:
         print(f"Processing page {page_number}...")
         formatted_date = datetime.strptime(eta_date, '%Y-%m-%d').strftime('%m/%d/%Y')
-        url = f'https://flowermarketplace.com/wp-admin/admin-ajax.php?action=wpf_product_listings&model=landed&date_text={formatted_date}&page_no={page_number}'
+        url = f'https://flowermarketplace.com/wp-admin/admin-ajax.php?action=wpf_product_listings&model=landed&date_text={formatted_date}&page_no={page_number}' #formatted date is filled with ETA date from Mayesh 
         
         response = await client.get(url)
         
@@ -155,7 +155,7 @@ async def process_page(client, page_number, product_key, eta_date):
         return None
 
 async def main():
-    # First get the eta_date from Mayesh
+    # login using Mayesh Credentials to fetch the most recent ETA date used to construct the URL accordingly
     email = os.getenv("EMAIL")
     password = os.getenv("PASSWORD")
     session, headers = authenticate(email, password)
