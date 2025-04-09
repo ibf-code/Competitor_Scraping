@@ -8,7 +8,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from dotenv import load_dotenv
 import os
-from modules.stealth import get_random_user_agent
+from modules.stealth import get_random_user_agent 
+from modules.auth import authenticate
+from modules.scrape.mayesh import fetch_available_dates # used for earliest_eta
 
 load_dotenv()
 
@@ -52,11 +54,11 @@ async def fetch_page(client, url):
 product_group_mapping = pd.read_csv("Mapping/petaljet_productgroups.csv")
 mapping_dict = dict(zip(product_group_mapping['competitor_product_group'].astype(str), 
                        product_group_mapping['ibf_product_group']))
-
+ 
 def get_ibf_product_group(product_type):
     return mapping_dict.get(str(product_type))
 
-variety_mapping = pd.read_csv("Mapping/petaljet_varieties.csv") # Not yet in place /mapping missing
+variety_mapping = pd.read_csv("Mapping/petaljet_varieties.csv")
 variety_mapping_dict = dict(zip(variety_mapping['competitor_variety'].astype(str),
                                  variety_mapping['ibf_variety']))
 
@@ -64,15 +66,15 @@ def get_ibf_variety(variety_name):
     return variety_mapping_dict.get(str(variety_name))
 
 
-def extract_variant_data(product):
+def extract_variant_data(product, eta_date):
     variants = []
     today = datetime.date.today().strftime("%Y-%m-%d")
     for v in product.get("variants", []):
         full_name = v.get("name", "")
         petaljet_product_type = product.get("type", "")
         ibf_product_group = get_ibf_product_group(petaljet_product_type)
-        petaljet_variety = product.get("product_id", 0)
-        ibf_variety = get_ibf_variety(petaljet_variety)
+        petaljet_variant_id = v.get("id", 0)
+        ibf_variety = get_ibf_variety(petaljet_variant_id)
         price = round(v.get("price", 0) / 100, 2)
         length_match = re.search(r"(\d{2})[cC][mM]", full_name)
         stems_match = re.search(r"(\d+)\s+Stems", full_name)
@@ -82,11 +84,11 @@ def extract_variant_data(product):
         price_per_stem = float(price_per_match.group(1)) if price_per_match else ""
         base_name = re.sub(r"-.*", "", full_name).strip()
 
-
         variants.append({
             "created_at": today,
+            "eta_date": eta_date,
             "competitor_product_id": product.get("id"),
-            "competitor_name": "PetalJet",
+            "competitor": "PetalJet",
             "competitor_variant_id": v.get("id"),
             "product_group_key": ibf_product_group,
             "variety_key": ibf_variety,
@@ -101,22 +103,32 @@ def extract_variant_data(product):
     return variants
 
 async def main():
+    email = os.getenv("EMAIL")
+    password = os.getenv("PASSWORD")
+    session, headers = authenticate(email, password)
+    eta_date = fetch_available_dates(session, headers) if session else None
+
+    if not eta_date:
+        print("Failed to fetch eta_date from Mayesh. Exiting.")
+        return
+    
+    print(f"Using eta_date from Mayesh: {eta_date}")
     all_items = []
     async with httpx.AsyncClient(headers=HEADERS, cookies=COOKIES, follow_redirects=True) as client:
         tasks = [fetch_page(client, url) for url in PAGES]
         results = await asyncio.gather(*tasks)
         for product_list in results:
             for product in product_list:
-                all_items.extend(extract_variant_data(product))
+                all_items.extend(extract_variant_data(product, eta_date))
 
     df = pd.DataFrame(all_items)
     grouped = df.groupby(["competitor_product_name", "stem_length"])["stems_per_unit"]
-    # df["min_stems_each"] = grouped.transform("min")
     df["max_stems_each"] = grouped.transform("max")
-
     df.sort_values(by=["competitor_product_name", "stem_length", "stems_per_unit"], inplace=True)
-    df.to_csv(OUTPUT_FILE, index=False)
-    print(f"\u2705 Scraped {len(df)} product variants to {OUTPUT_FILE}")
+
+    output_file = f"output/petaljet/PetalJet_inventory_{eta_date}.csv"
+    df.to_csv(output_file, index=False)
+    print(f"✅ Scraped {len(df)} product variants to {output_file}")
 
 if __name__ == "__main__":
     asyncio.run(main())

@@ -1,0 +1,1109 @@
+competitor,competitor_product_group_name,competitor_product_id,competitor_product_name,created_at,eta_date,grower_country,product_group_key,stem_length,stem_price,unit,variety_key
+Flowermarketplace,Achillea Yarrow,2160538,ACHILLEA,2025-04-09,2025-04-18,Ecuador,a457ca34-3e66-41ba-8ddc-16e793044ce3,60,10.23,Bunch,
+Flowermarketplace,Alstroemerias,2160540,ALSTROEMERIA ASSORTED,2025-04-09,2025-04-18,Ecuador,ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,,5.0,Bunch,c93bbc06-a172-494d-b352-4ad50f082de1
+Flowermarketplace,Alstroemerias,2160542,ALSTROEMERIA HOT PINK,2025-04-09,2025-04-18,Ecuador,ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,,8.33,Bunch,dce8402b-0c6f-425d-964a-dbd363e3c5c3
+Flowermarketplace,Alstroemerias,2160544,ALSTROEMERIA LAVENDER,2025-04-09,2025-04-18,Ecuador,ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,,8.33,Bunch,766d1c52-bd9e-433d-8ad2-568178b0db70
+Flowermarketplace,Alstroemerias,2160546,ALSTROEMERIA ORANGE QUEEN,2025-04-09,2025-04-18,Ecuador,ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,,8.33,Bunch,835ce0a8-e3c1-49d3-9817-ea99a6597404
+Flowermarketplace,Alstroemerias,2160548,ALSTROEMERIA PRIMA DONNA,2025-04-09,2025-04-18,Ecuador,ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,,8.33,Bunch,
+Flowermarketplace,Alstroemerias,2160550,ALSTROEMERIA PURPLE,2025-04-09,2025-04-18,Ecuador,ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,,8.33,Bunch,1c8d54fb-3d5c-4a4d-a381-d617a69db23f
+Flowermarketplace,Alstroemerias,2160552,ALSTROEMERIA RED,2025-04-09,2025-04-18,Ecuador,ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,,8.33,Bunch,56cfbb87-dabe-4071-b3db-e2ac521a610f
+Flowermarketplace,Alstroemerias,2160554,ALSTROEMERIA WHITE,2025-04-09,2025-04-18,Ecuador,ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,,8.33,Bunch,92c8392a-1f77-4782-8a7c-4082f369cdcb
+Flowermarketplace,Alstroemerias,2160556,ALSTROEMERIA YELLOW,2025-04-09,2025-04-18,Ecuador,ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,,8.33,Bunch,71962e5e-eba3-4a5a-b902-efb4a4529703
+Flowermarketplace,Amaranthus,2160558,AMARANTHUS HANGING ASSORTED,2025-04-09,2025-04-18,Ecuador,83a8817f-88b8-45a9-bc11-f9e3868e1882,,3.13,Stems,
+Flowermarketplace,Amaranthus,2160560,AMARANTHUS HANGING GREEN,2025-04-09,2025-04-18,Ecuador,83a8817f-88b8-45a9-bc11-f9e3868e1882,,3.13,Stems,a035bd55-23af-4c21-83b0-baef07669984
+Flowermarketplace,Amaranthus,2160562,AMARANTHUS HANGING RED,2025-04-09,2025-04-18,Ecuador,83a8817f-88b8-45a9-bc11-f9e3868e1882,,3.13,Stems,ac7dc5a8-e6bf-4940-85e2-81eeaeeb7722
+Flowermarketplace,Anemone Coronaria,2160564,ANEMONE ASSORTED,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,17.25,Bunch,e7d33bc5-2eb2-4663-839a-8909742dde40
+Flowermarketplace,Anemone Coronaria,2160566,ANEMONE BLUSH,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,22.25,Bunch,10f4a9a5-4b05-47b1-8c32-0ee8a250f3b9
+Flowermarketplace,Anemone Coronaria,2236674,ANEMONE BURGUNDY,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,25.0,Bunch,
+Flowermarketplace,Anemone Coronaria,2160568,ANEMONE HOT PINK,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,22.25,Bunch,1da10f06-1878-4537-8646-a5074c0b5743
+Flowermarketplace,Anemone Coronaria,2236623,ANEMONE LEVANTE BLUE,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,25.0,Bunch,a8aeeeb0-cbf9-43f8-823d-0f4e86c5f9b4
+Flowermarketplace,Anemone Coronaria,2236627,ANEMONE LEVANTE HOT PINK,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,25.0,Bunch,
+Flowermarketplace,Anemone Coronaria,2236625,ANEMONE LEVANTE PINK,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,25.0,Bunch,
+Flowermarketplace,Anemone Coronaria,2236626,ANEMONE LEVANTE RED,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,25.0,Bunch,
+Flowermarketplace,Anemone Coronaria,2236624,ANEMONE LEVANTE WHITE,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,25.0,Bunch,7b6fb0c0-643a-436f-b712-cc5ee4ad2b8a
+Flowermarketplace,Anemone Coronaria,2160570,ANEMONE MARIANNE PANDA,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,22.25,Bunch,6b49dff5-14bd-4184-b027-c46d869d7351
+Flowermarketplace,Anemone Coronaria,2160572,ANEMONE NOVELTY PURPLE,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,22.25,Bunch,fb7b8740-e49b-4470-b4c5-f1eb4282b2dd
+Flowermarketplace,Anemone Coronaria,2160574,ANEMONE RED,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,22.25,Bunch,f94664ba-fd1a-4c84-af02-92761b5d6451
+Flowermarketplace,Anemone Coronaria,2160576,ANEMONE WINE RED,2025-04-09,2025-04-18,Ecuador,0b6221f4-9306-4e15-9949-d403524c3a7d,,22.25,Bunch,
+Flowermarketplace,Green,2162219,ARALIA EX,2025-04-09,2025-04-18,Italy,unmapped,,1.11,Stems,
+Flowermarketplace,Green,2162220,ARALIA I,2025-04-09,2025-04-18,Italy,unmapped,,0.8,Stems,
+Flowermarketplace,Green,2162221,ARALIA II,2025-04-09,2025-04-18,Italy,unmapped,,0.6,Stems,
+Flowermarketplace,Green,2162222,ARALIA III,2025-04-09,2025-04-18,Italy,unmapped,,0.57,Stems,
+Flowermarketplace,Green,2162223,ARALIA IV,2025-04-09,2025-04-18,Italy,unmapped,,0.49,Stems,
+Flowermarketplace,Green,2162218,ARALIA SUPER,2025-04-09,2025-04-18,Italy,unmapped,,1.23,Stems,
+Flowermarketplace,Orchid,2177154,ARANTHERA ANNE BLACK,2025-04-09,2025-04-18,Thailand,unmapped,,30.16,Bunch,bd1a20cb-d4f3-469e-abc6-e31d7af52723
+Flowermarketplace,Orchid,2177155,ARANTHERA AZIMAH,2025-04-09,2025-04-18,Thailand,unmapped,,36.66,Bunch,
+Flowermarketplace,Orchid,2177156,ARANTHERA JAME RED,2025-04-09,2025-04-18,Thailand,unmapped,,30.16,Bunch,3262b0be-a494-4d33-ac03-a4b3e5f08b3f
+Flowermarketplace,Orchid,2177157,ARANTHERA MAGIE OIE,2025-04-09,2025-04-18,Thailand,unmapped,,30.16,Bunch,
+Flowermarketplace,Green,2162224,ASPIDISTRIA,2025-04-09,2025-04-18,Italy,unmapped,100,1.43,Stems,
+Flowermarketplace,Green,2162230,ASPIDISTRIA,2025-04-09,2025-04-18,Italy,unmapped,40,0.06,Stems,
+Flowermarketplace,Green,2162229,ASPIDISTRIA,2025-04-09,2025-04-18,Italy,unmapped,50,0.66,Stems,
+Flowermarketplace,Green,2162228,ASPIDISTRIA,2025-04-09,2025-04-18,Italy,unmapped,60,0.71,Stems,
+Flowermarketplace,Green,2162227,ASPIDISTRIA,2025-04-09,2025-04-18,Italy,unmapped,70,1.03,Stems,
+Flowermarketplace,Green,2162226,ASPIDISTRIA,2025-04-09,2025-04-18,Italy,unmapped,80,1.11,Stems,
+Flowermarketplace,Green,2162225,ASPIDISTRIA,2025-04-09,2025-04-18,Italy,unmapped,90,1.17,Stems,
+Flowermarketplace,Aster,2160614,ASTER MATSUMOTO HOT PINK,2025-04-09,2025-04-18,Ecuador,edf288cd-9ad2-4367-8fe3-2d47494ab2f9,,11.25,Bunch,
+Flowermarketplace,Aster,2160616,ASTER MATSUMOTO PINK,2025-04-09,2025-04-18,Ecuador,edf288cd-9ad2-4367-8fe3-2d47494ab2f9,,11.25,Bunch,
+Flowermarketplace,Aster,2160618,ASTER PINK,2025-04-09,2025-04-18,Ecuador,edf288cd-9ad2-4367-8fe3-2d47494ab2f9,,6.5,Bunch,2bfb011d-b16c-437b-904a-6621f75fa270
+Flowermarketplace,Aster,2160620,ASTER PURPLE,2025-04-09,2025-04-18,Ecuador,edf288cd-9ad2-4367-8fe3-2d47494ab2f9,,6.5,Bunch,8a888e5d-5b55-41d9-863e-c26cfe3fdd78
+Flowermarketplace,Aster,2160622,ASTER SOLIDAGO,2025-04-09,2025-04-18,Ecuador,edf288cd-9ad2-4367-8fe3-2d47494ab2f9,,6.5,Bunch,6069b93c-fe61-4d03-8ee8-8935735ac7bd
+Flowermarketplace,Aster,2160624,ASTER WHITE,2025-04-09,2025-04-18,Ecuador,edf288cd-9ad2-4367-8fe3-2d47494ab2f9,,6.5,Bunch,94982803-c4db-4dcc-8f95-82d92ae8ab32
+Flowermarketplace,Lily,2162052,Aziatic Lily Blackout,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162053,Aziatic Lily Tress Chic,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Tropical,2261200,BIRD OF PARADISE,2025-04-09,2025-04-18,Ecuador,unmapped,,1.88,Stems,
+Flowermarketplace,Tropical,2163740,BOUQUET MEDIUM CONFETI,2025-04-09,2025-04-18,Ecuador,unmapped,,24.98,Bunch,88141e1c-fac5-46b9-ad4c-29fffe88c64e
+Flowermarketplace,Tropical,2163742,BOUQUET MEDIUM LUA PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,24.98,Bunch,af43a742-4313-4d2c-82fd-cd8f3415eed6
+Flowermarketplace,Tropical,2163744,BOUQUET MEDIUM MAUI,2025-04-09,2025-04-18,Ecuador,unmapped,,24.98,Bunch,9965d4d9-71fb-4547-bc40-2fe6577399ab
+Flowermarketplace,Tropical,2163746,BOUQUET MEDIUM PARROT,2025-04-09,2025-04-18,Ecuador,unmapped,,24.98,Bunch,5ae75553-c3f8-445c-b6bb-bb374d36315f
+Flowermarketplace,Tropical,2163748,BOUQUET MEDIUM RAINBOW,2025-04-09,2025-04-18,Ecuador,unmapped,,24.98,Bunch,43355b34-87a9-4a54-b60f-b020e4bf9c7c
+Flowermarketplace,Bouquet,2261264,Bouquets BRIGHT STAR BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,29.5,Bunch,
+Flowermarketplace,Bouquet,2261262,Bouquets CANDY KISS BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,22.5,Bunch,
+Flowermarketplace,Bouquet,2261263,Bouquets FOREVER BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,23.5,Bunch,50631ecf-8dab-45db-b587-9bf390b6e797
+Flowermarketplace,Bouquet,2261267,Bouquets GREY LOOK BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,25.25,Bunch,35a91371-92e8-4e3a-9dc6-1ef0689e525d
+Flowermarketplace,Bouquet,2261266,Bouquets MAGIC DAY BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,22.5,Bunch,
+Flowermarketplace,Bouquet,2261269,Bouquets MAGICAL BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,19.0,Bunch,59ea30a0-6986-4fae-ae35-5561e6b611ec
+Flowermarketplace,Bouquet,2261270,Bouquets PARADISE BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,25.0,Bunch,6c7f0385-a111-4ee9-94c2-d34d774472da
+Flowermarketplace,Bouquet,2261271,Bouquets PEACH RAIN BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,23.75,Bunch,
+Flowermarketplace,Bouquet,2261265,Bouquets PINKIE PIE BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,3304e030-26af-41a1-b519-352a9afc8cf3
+Flowermarketplace,Bouquet,2261268,Bouquets SOFT BREEZE BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,21.75,Bunch,da58247a-fc18-4fd3-ad39-3890db6a0fba
+Flowermarketplace,Bouquet,2261273,Bouquets SUNRISE BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,19.75,Bunch,283434ed-a13f-4b42-b3d0-e51e107cfc9a
+Flowermarketplace,Bouquet,2261272,Bouquets WHITE LOVE BQT 15ST,2025-04-09,2025-04-18,Ecuador,unmapped,,23.75,Bunch,c22d5ba2-49bb-47e7-a281-6ec383e25987
+Flowermarketplace,Brassica Kale,2160626,BRASSICA ASSORTED,2025-04-09,2025-04-18,Ecuador,a06f225f-b6ca-4dc8-8b80-f3cb014b1794,,2.0,Stems,
+Flowermarketplace,Brassica Kale,2160628,BRASSICA LAVENDER CRANE,2025-04-09,2025-04-18,Ecuador,a06f225f-b6ca-4dc8-8b80-f3cb014b1794,,2.0,Stems,4744b51a-16ef-4c05-abf5-8ec60aaf58da
+Flowermarketplace,Brassica Kale,2160630,BRASSICA RED CRANE,2025-04-09,2025-04-18,Ecuador,a06f225f-b6ca-4dc8-8b80-f3cb014b1794,,2.0,Stems,
+Flowermarketplace,Brassica Kale,2160632,BRASSICA WHITE CRANE,2025-04-09,2025-04-18,Ecuador,a06f225f-b6ca-4dc8-8b80-f3cb014b1794,,2.0,Stems,d83a7445-641f-4c88-bf9e-60eb15551bf3
+Flowermarketplace,Calla,2160634,CALLAS ALEGRIA,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160636,CALLAS ASPEN,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160638,CALLAS ASPEN BLUSH,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,b1e601a3-5511-4f38-8cd0-bedde5ded98b
+Flowermarketplace,Calla,2160640,CALLAS ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2161245,CALLAS ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,1.98,Stems,
+Flowermarketplace,Calla,2160642,CALLAS BLACK FOREST,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160644,CALLAS BOUTONNIERE,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160646,CALLAS BRIDESMAID BOUQUETS,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160648,CALLAS CALLA LEAVES,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160650,CALLAS CASCADE BOUQUET OPEN CUT,2025-04-09,2025-04-18,Ecuador,unmapped,,15.0,Bunch,97871982-673d-443f-8dc5-10b2f9e1e84d
+Flowermarketplace,Calla,2160652,CALLAS CRANBERRY,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,09fd5eea-d4e2-4507-aec6-8795b07613c7
+Flowermarketplace,Calla,2160654,CALLAS CRYSTAL BLUSH,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160656,CALLAS CRYSTAL PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160658,CALLAS CRYSTAL WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,ed68bbd3-8723-41eb-86f6-4116fed66e09
+Flowermarketplace,Calla,2160660,CALLAS DARK CAPTAIN ROMANCE,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,c4fc0cd4-b405-44ea-bb9b-145df6df9ed6
+Flowermarketplace,Calla,2160662,CALLAS DARK SCHWARZWALDER,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,d03cb580-06b8-4839-bb3d-187c0c70d3f3
+Flowermarketplace,Calla,2160664,CALLAS DENVER,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160666,CALLAS FANTASIA,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160668,CALLAS FLAME,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160670,CALLAS FLOREX GOLD,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160672,CALLAS GRAN PARADISO,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160674,CALLAS HAWAIIAN PAPAYA,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160676,CALLAS OPEN CCUT,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160678,CALLAS PACO,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160680,CALLAS PERLE ROSE,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160682,CALLAS PICASSO,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160684,CALLAS PINK PANTHER,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,77f4e9a6-28f6-4da2-ab40-f2060541cef0
+Flowermarketplace,Calla,2160686,CALLAS PURPLE STAR,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,54852d98-7dc9-4027-8f64-d4a478bb47ab
+Flowermarketplace,Calla,2160688,CALLAS RASPBERRY,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,7426de29-c91b-4b7a-9fca-bb9b4bae40c2
+Flowermarketplace,Calla,2160690,CALLAS RED ARANAL,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,acf50033-5f99-43eb-b747-6501997eee84
+Flowermarketplace,Calla,2160692,CALLAS RUBYLITE ROSE,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,5215a506-655b-44b4-872c-94917a09e573
+Flowermarketplace,Calla,2160694,CALLAS SCHWARZWALDER,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160696,CALLAS SIAMESE CALLA,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160698,CALLAS STRAUSS,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Stems,
+Flowermarketplace,Calla,2160700,CALLAS TEQUILA SUNRISE,2025-04-09,2025-04-18,Ecuador,unmapped,,5.48,Stems,0b1b98ac-ebbe-414c-bcd4-58e54ec95eca
+Flowermarketplace,Carnation,2160702,CARNATION ANTIGUA FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.55,Stems,
+Flowermarketplace,Carnation,2192246,Carnation Apple Tea,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.86,Stems,eb7a11d5-c238-4d02-9a9d-5cf51790998a
+Flowermarketplace,Carnation,2160704,CARNATION ASSORTED FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,
+Flowermarketplace,Carnation,2192254,Carnation Ayame,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,
+Flowermarketplace,Carnation,2160706,CARNATION BURGUNDY FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,42cd2b3f-3968-4c31-a5a3-ad6a9fca0601
+Flowermarketplace,Carnation,2192251,Carnation Cheerio,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,
+Flowermarketplace,Carnation,2160708,CARNATION CREAM FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,0328d60c-8301-466a-8291-0772bc6e1ac6
+Flowermarketplace,Carnation,2160710,CARNATION DARK PINK FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,
+Flowermarketplace,Carnation,2192237,Carnation Fabulous,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,
+Flowermarketplace,Carnation,2192249,Carnation Farida,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,9543b07a-1958-4fb1-b397-d2d95adbd3e8
+Flowermarketplace,Carnation,2192253,Carnation Fiesta Komachi,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,c12fdaaf-a7ad-4b88-9489-f6912edf061f
+Flowermarketplace,Carnation,2220930,Carnation Fiesta Komachi,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,c12fdaaf-a7ad-4b88-9489-f6912edf061f
+Flowermarketplace,Carnation,2160712,CARNATION GREEN FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,aac3938f-2de1-4f73-945b-ad9dca027473
+Flowermarketplace,Carnation,2160714,CARNATION HOT PINK FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,
+Flowermarketplace,Carnation,2192247,Carnation Illusion,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,
+Flowermarketplace,Carnation,2192239,Carnation Lege Marrone,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.86,Stems,
+Flowermarketplace,Carnation,2192244,Carnation Megan,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,997bb63c-09a0-4ba3-8524-9aaf3b129b2e
+Flowermarketplace,Carnation,2192250,Carnation Minerva,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,cc95baa3-f410-4c49-ad88-2ca102485660
+Flowermarketplace,Mini Carnations,2160716,CARNATION MINI ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,
+Flowermarketplace,Mini Carnations,2160718,CARNATION MINI CREAM,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,4680589e-4077-45e0-980f-eaac00f5e7e5
+Flowermarketplace,Mini Carnations,2160720,CARNATION MINI GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,723744d1-75d6-4326-bb8a-a9e0da2753e8
+Flowermarketplace,Mini Carnations,2160722,CARNATION MINI HOT PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,
+Flowermarketplace,Mini Carnations,2160724,CARNATION MINI LAVENDER,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,8619e99f-be72-43ba-8c98-d1e692ca152a
+Flowermarketplace,Mini Carnations,2160726,CARNATION MINI LIGHT PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,a39870b0-e896-4c1b-bbec-bf53bbf98c9a
+Flowermarketplace,Mini Carnations,2160728,CARNATION MINI LILAC,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,c01e0b01-effb-42a9-85c8-5765ec1d61cf
+Flowermarketplace,Mini Carnations,2160730,CARNATION MINI MOON SERIES,2025-04-09,2025-04-18,Ecuador,unmapped,,1.13,Stems,
+Flowermarketplace,Mini Carnations,2160732,CARNATION MINI NOVELTY,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,adebc370-4123-4bf4-b2b3-6563b2d33781
+Flowermarketplace,Mini Carnations,2160734,CARNATION MINI ORANGE,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,b59a43f5-e6e3-4d35-878e-06a6efe6c702
+Flowermarketplace,Mini Carnations,2160736,CARNATION MINI PEACH,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,5de9e8a5-4ed4-4767-9c60-e7c2b5b25ba3
+Flowermarketplace,Mini Carnations,2160738,CARNATION MINI PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,761eb3d0-4d87-4597-8c7e-6dee90ff7ef0
+Flowermarketplace,Mini Carnations,2160740,CARNATION MINI PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,aed7af48-92aa-4224-8dd2-1c2915b33d04
+Flowermarketplace,Mini Carnations,2160742,CARNATION MINI RED,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,10b23582-414f-43e2-bb8e-e34d3a3d9b26
+Flowermarketplace,Mini Carnations,2160744,CARNATION MINI WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,b9a8b807-6771-4f5d-bd00-e4984e08cf3b
+Flowermarketplace,Mini Carnations,2160746,CARNATION MINI YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,0.45,Stems,a89a5ffd-f1a4-4d0e-a59f-e3de4a2db5e0
+Flowermarketplace,Carnation,2161251,CARNATION MOON SERIES ASSORTED,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.88,Bunch,
+Flowermarketplace,Carnation,2160748,CARNATION MOONAQUA,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,1.05,Stems,05b3e28a-2c0a-4064-9130-1e53d132ce61
+Flowermarketplace,Carnation,2160750,CARNATION MOONSHADE,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,1.05,Stems,
+Flowermarketplace,Carnation,2192241,Carnation Moonshade,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,1.2,Stems,
+Flowermarketplace,Carnation,2192243,Carnation Nobbio,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,863702ac-82b2-4f12-a228-18602a64b1ec
+Flowermarketplace,Carnation,2160752,CARNATION NOVELTY FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,662d86f9-a874-4d93-9bf0-26021fe24294
+Flowermarketplace,Carnation,2160754,CARNATION ORANGE FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,a1a3331a-c01c-4f0d-96b6-aafc9c1d6916
+Flowermarketplace,Carnation,2160756,CARNATION PEACH FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,7930d085-6b9d-4ed5-9ea4-30b0e9367ffd
+Flowermarketplace,Carnation,2192242,Carnation Peppermint,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,92b0e80d-9e76-44fd-9ddc-6d09c4d7d258
+Flowermarketplace,Carnation,2160758,CARNATION PINK FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,099afe34-5d77-4e3d-ad1b-9de715fb92cd
+Flowermarketplace,Carnation,2192248,Carnation Prado,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,
+Flowermarketplace,Carnation,2160760,CARNATION PURPLE FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,fb8b6922-4224-411c-9394-af6158a59086
+Flowermarketplace,Carnation,2160762,CARNATION RED FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,24b9d4a7-3e41-48a8-b10a-37af8341388a
+Flowermarketplace,Carnation,2192245,Carnation Rodas,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,
+Flowermarketplace,Carnation,2192252,Carnation Viana,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.66,Stems,73ec087c-4d00-4751-a299-3ae08aa01b00
+Flowermarketplace,Carnation,2192238,Carnation Vintage Copper,2025-04-09,2025-04-18,Colombia,3322369c-cdde-479c-a465-e03c0826111e,,0.86,Stems,5f81e3d4-e368-4e63-bd84-a85bcd9952ab
+Flowermarketplace,Carnation,2160764,CARNATION VINTAGE MIX FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,2f900fd8-a318-4ce4-b4b8-3b912d3e4f52
+Flowermarketplace,Carnation,2160766,CARNATION WHITE FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,091560ba-78a3-4c6c-b0f6-3729d9a26b38
+Flowermarketplace,Carnation,2160768,CARNATION YELLOW FANCY,2025-04-09,2025-04-18,Ecuador,3322369c-cdde-479c-a465-e03c0826111e,,0.45,Stems,7d5112c6-516a-44b4-bcb6-e2e6331ca10f
+Flowermarketplace,Dried Flowers,2162243,CINEREA METAL COPPER 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Dried Flowers,2162241,CINEREA METAL GOLD 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Dried Flowers,2162244,CINEREA METAL RED 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Dried Flowers,2162242,CINEREA METAL SILVER 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Dried Flowers,2162245,CINEREA SILVER 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Combo Boxes,2163768,COMBO BOX ARUBA,2025-04-09,2025-04-18,Ecuador,,,102.48,Bunch,
+Flowermarketplace,Combo Boxes,2163762,COMBO BOX CAPRICHO,2025-04-09,2025-04-18,Ecuador,,,99.98,Bunch,
+Flowermarketplace,Combo Boxes,2193802,COMBO BOX CAPRICHO,2025-04-09,2025-04-18,Ecuador,,,87.5,Bunch,
+Flowermarketplace,Combo Boxes,2163770,COMBO BOX CARIBE X10,2025-04-09,2025-04-18,Ecuador,,,102.48,Bunch,
+Flowermarketplace,Combo Boxes,2193804,COMBO BOX ESCARLATA,2025-04-09,2025-04-18,Ecuador,,,87.5,Bunch,
+Flowermarketplace,Combo Boxes,2163760,COMBO BOX FIESTA 52ST,2025-04-09,2025-04-18,Ecuador,,,107.48,Bunch,
+Flowermarketplace,Combo Boxes,2163772,COMBO BOX JUNGLE MIX 115ST,2025-04-09,2025-04-18,Ecuador,,,77.48,Box,
+Flowermarketplace,Combo Boxes,2163766,COMBO BOX LIMBO,2025-04-09,2025-04-18,Ecuador,,,114.98,Bunch,
+Flowermarketplace,Combo Boxes,2163752,COMBO BOX MINI FIESTA,2025-04-09,2025-04-18,Ecuador,,,77.48,Box,a0486322-247f-4f00-9935-92c3a8c95365
+Flowermarketplace,Combo Boxes,2163764,COMBO BOX TABASCO,2025-04-09,2025-04-18,Ecuador,,,112.48,Bunch,
+Flowermarketplace,Combo Boxes,2163758,COMBO BOX ZAPARA,2025-04-09,2025-04-18,Ecuador,,,77.48,Bunch,
+Flowermarketplace,Disbuds,2227852,CREMON PEACH,2025-04-09,2025-04-18,Ecuador,unmapped,,9.5,Bunch,
+Flowermarketplace,Green,2161273,CURLY WILLOW TIPS,2025-04-09,2025-04-18,Ecuador,unmapped,,9.38,Bunch,02e76043-8a0c-40d4-a967-f4fdce9dc260
+Flowermarketplace,Dahlia,2163478,DAHLIA AMORA 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163504,DAHLIA ASSORTED 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163480,DAHLIA CAFé AULAIT 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163482,DAHLIA FOX MAROON 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163484,DAHLIA FOX ORANGE 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163486,DAHLIA GARNET 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163488,DAHLIA KARMA CHOCOLATE 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163492,DAHLIA KARMA CORONA 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163490,DAHLIA KARMA CORONA PINK 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,5997eb2b-3458-4090-a139-71d00deb6e4d
+Flowermarketplace,Dahlia,2163494,DAHLIA MOON STONE 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163496,DAHLIA MOONLADY 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163498,DAHLIA ORANGE QUARTZ 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163500,DAHLIA PINK QUARTZ 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Dahlia,2163502,DAHLIA PROSPERO 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,4.86,Stems,
+Flowermarketplace,Delphinium,2161195,DELPHINIUM ASSORTED,2025-04-09,2025-04-18,Ecuador,decde47b-6c08-4330-88cd-78d642cf8823,70,15.4,Bunch,
+Flowermarketplace,Delphinium,2161197,DELPHINIUM DARK BLUE,2025-04-09,2025-04-18,Ecuador,decde47b-6c08-4330-88cd-78d642cf8823,70,15.4,Bunch,84c9b43d-cff1-49eb-a3e2-e4a218c76cc2
+Flowermarketplace,Delphinium,2161464,DELPHINIUM ELATUM MANUELA 70/,2025-04-09,2025-04-18,Ecuador,decde47b-6c08-4330-88cd-78d642cf8823,80,15.38,Bunch,6522b6bd-d3bf-4e9a-86df-24dfa22b5f33
+Flowermarketplace,Delphinium,2148562,DELPHINIUM SEA WALTZ DARK BLUE,2025-04-09,2025-04-18,Ecuador,decde47b-6c08-4330-88cd-78d642cf8823,,1.4,Stems,
+Flowermarketplace,Delphinium,2148563,DELPHINIUM SEA WALTZ LIGHT BLUE,2025-04-09,2025-04-18,Ecuador,decde47b-6c08-4330-88cd-78d642cf8823,,1.4,Stems,e0089c8c-6245-41a3-b61c-9c07e0642f2d
+Flowermarketplace,Delphinium,2161199,DELPHINIUM WHITE,2025-04-09,2025-04-18,Ecuador,decde47b-6c08-4330-88cd-78d642cf8823,70,15.4,Bunch,b6e5557e-8267-49cc-94ba-0d24a1643fde
+Flowermarketplace,Orchid,2177158,DENDROBIUM 5N,2025-04-09,2025-04-18,Thailand,unmapped,,28.08,Bunch,
+Flowermarketplace,Orchid,2177159,DENDROBIUM ANNA,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177160,DENDROBIUM APPLE GREEN,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177161,DENDROBIUM ARIKA,2025-04-09,2025-04-18,Thailand,unmapped,,30.16,Bunch,
+Flowermarketplace,Orchid,2177164,DENDROBIUM BEAUTY PINK,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177162,DENDROBIUM BELLA PURPLE,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,5c3eed43-8132-4b96-970f-b1ba6ebbc987
+Flowermarketplace,Orchid,2177163,DENDROBIUM BIG PINK,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,
+Flowermarketplace,Orchid,2177165,DENDROBIUM BIG WHITE JUMBO BLUE,2025-04-09,2025-04-18,Thailand,unmapped,,28.86,Bunch,481c977c-ffb3-4bfc-bf7b-2bb22fc7a68f
+Flowermarketplace,Orchid,2177166,DENDROBIUM BIG WHITE JUMBO GREEN,2025-04-09,2025-04-18,Thailand,unmapped,,28.86,Bunch,
+Flowermarketplace,Orchid,2177167,DENDROBIUM BIG WHITE JUMBO RED,2025-04-09,2025-04-18,Thailand,unmapped,,28.86,Bunch,
+Flowermarketplace,Orchid,2177168,DENDROBIUM BIG WHITE JUMBO YELLOW,2025-04-09,2025-04-18,Thailand,unmapped,,28.86,Bunch,
+Flowermarketplace,Orchid,2177169,DENDROBIUM BURANA JADE,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177170,DENDROBIUM BUTTERFLY,2025-04-09,2025-04-18,Thailand,unmapped,,31.46,Bunch,
+Flowermarketplace,Orchid,2177171,DENDROBIUM CHALERM PORN,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177172,DENDROBIUM CHARAK RED,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177173,DENDROBIUM CHID CHOM,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177175,DENDROBIUM DAHILA PINK,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,077bed46-6baa-4531-9623-389e15345499
+Flowermarketplace,Orchid,2177174,DENDROBIUM DIANA GREEN,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,5eabad3a-d399-4e82-bc83-8c27c7341ab8
+Flowermarketplace,Orchid,2177176,DENDROBIUM JINDA SWEET,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177177,DENDROBIUM JUREE RED,2025-04-09,2025-04-18,Thailand,unmapped,,29.38,Bunch,
+Flowermarketplace,Orchid,2177178,DENDROBIUM KAMILA,2025-04-09,2025-04-18,Thailand,unmapped,,31.46,Bunch,
+Flowermarketplace,Orchid,2177180,DENDROBIUM KATHY PINK,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177179,DENDROBIUM KING DRAGON,2025-04-09,2025-04-18,Thailand,unmapped,,31.46,Bunch,
+Flowermarketplace,Orchid,2177181,DENDROBIUM LERVIA,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177183,DENDROBIUM LOVELY PINK,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177184,DENDROBIUM LUCY PINK,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,
+Flowermarketplace,Orchid,2177185,DENDROBIUM MADAM,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177187,DENDROBIUM MALI WHITE,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177188,DENDROBIUM MARY RED,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,
+Flowermarketplace,Orchid,2177197,DENDROBIUM METAS RED,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,5660285c-5a5c-455f-b664-5d3261709922
+Flowermarketplace,Orchid,2177186,DENDROBIUM MICKY PINK,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,83aa6d12-12a3-4af0-a5de-ebd5a5a5007c
+Flowermarketplace,Orchid,2177189,DENDROBIUM MISS PINK,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,
+Flowermarketplace,Orchid,2177190,DENDROBIUM MISS TEEN,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,b683ea36-649a-466b-b272-4b7018d89408
+Flowermarketplace,Orchid,2177191,DENDROBIUM MISS TEEN BLUE,2025-04-09,2025-04-18,Thailand,unmapped,,30.42,Bunch,
+Flowermarketplace,Orchid,2177192,DENDROBIUM MISS TEEN GREEN,2025-04-09,2025-04-18,Thailand,unmapped,,30.42,Bunch,
+Flowermarketplace,Orchid,2177193,DENDROBIUM MISS TEEN RED,2025-04-09,2025-04-18,Thailand,unmapped,,30.42,Bunch,
+Flowermarketplace,Orchid,2177194,DENDROBIUM MISS TEEN YELLOW,2025-04-09,2025-04-18,Thailand,unmapped,,30.42,Bunch,
+Flowermarketplace,Orchid,2177195,DENDROBIUM MISS WORLD,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177196,DENDROBIUM MORNING PINK,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177199,DENDROBIUM NATURE WHITE,2025-04-09,2025-04-18,Thailand,unmapped,,31.46,Bunch,a4737547-7d7d-44bf-986f-8ef2b1c6f4fd
+Flowermarketplace,Orchid,2177200,DENDROBIUM NEW WASANA,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,
+Flowermarketplace,Orchid,2177198,DENDROBIUM NOPPORN PINK,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177201,DENDROBIUM PENNAPHA,2025-04-09,2025-04-18,Thailand,unmapped,,31.46,Bunch,
+Flowermarketplace,Orchid,2177202,DENDROBIUM PRAMOTE,2025-04-09,2025-04-18,Thailand,unmapped,,31.46,Bunch,
+Flowermarketplace,Orchid,2177203,DENDROBIUM PURPLE JOE,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,
+Flowermarketplace,Orchid,2177204,DENDROBIUM QUEEN PINK,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177205,DENDROBIUM RAINY PINK,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,
+Flowermarketplace,Orchid,2177206,DENDROBIUM RED BULL,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177207,DENDROBIUM RED SONIA,2025-04-09,2025-04-18,Thailand,unmapped,,28.08,Bunch,
+Flowermarketplace,Orchid,2177208,DENDROBIUM RED SONIA   BLUE,2025-04-09,2025-04-18,Thailand,unmapped,,28.86,Bunch,cdd9552f-4b02-48dd-90ef-f84c43236d41
+Flowermarketplace,Orchid,2177209,DENDROBIUM RED SONIA   GREEN,2025-04-09,2025-04-18,Thailand,unmapped,,28.86,Bunch,
+Flowermarketplace,Orchid,2177210,DENDROBIUM RED SONIA   RED,2025-04-09,2025-04-18,Thailand,unmapped,,28.86,Bunch,
+Flowermarketplace,Orchid,2177211,DENDROBIUM RED SONIA   YELLOW,2025-04-09,2025-04-18,Thailand,unmapped,,28.86,Bunch,cf4cbfb1-97f2-4976-a5c7-e7fc82642254
+Flowermarketplace,Orchid,2177212,DENDROBIUM ROSY RED,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177213,DENDROBIUM SAKURA,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177214,DENDROBIUM SANAN,2025-04-09,2025-04-18,Thailand,unmapped,,28.08,Bunch,
+Flowermarketplace,Orchid,2177216,DENDROBIUM STARLIGHT,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,
+Flowermarketplace,Orchid,2177215,DENDROBIUM SUGAR PINK,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,1928bf42-a360-4e87-9289-77f1ecb046b6
+Flowermarketplace,Orchid,2177217,DENDROBIUM SUPINYA,2025-04-09,2025-04-18,Thailand,unmapped,,29.9,Bunch,
+Flowermarketplace,Orchid,2177218,DENDROBIUM SUREE PEACH,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,907ec021-08c3-48ca-a503-993c96d81b29
+Flowermarketplace,Orchid,2177220,DENDROBIUM TAWAN PINK,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177221,DENDROBIUM TWOTONE,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177222,DENDROBIUM VAILAI,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,
+Flowermarketplace,Orchid,2177219,DENDROBIUM VAILAI JINDA,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Orchid,2177223,DENDROBIUM YING PINK,2025-04-09,2025-04-18,Thailand,unmapped,,30.68,Bunch,
+Flowermarketplace,Dianthus,2161201,DIANTHUS GREEN WICKY 5 ST,2025-04-09,2025-04-18,Ecuador,unmapped,,7.0,Bunch,13318cc5-9cdf-4821-a8c7-2a5b37c5069c
+Flowermarketplace,Disbuds,2160770,DISBUDS CREMON ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,7.5,Bunch,
+Flowermarketplace,Disbuds,2160772,DISBUDS CREMON BRONZE,2025-04-09,2025-04-18,Ecuador,unmapped,,11.0,Bunch,7b680ba4-0d6b-4bae-a141-dddf9b2be2bf
+Flowermarketplace,Disbuds,2160774,DISBUDS CREMON GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,11.0,Bunch,
+Flowermarketplace,Disbuds,2160776,DISBUDS CREMON PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,11.0,Bunch,18e1cf7f-d62d-4eb2-aa8a-986f0e6552e2
+Flowermarketplace,Disbuds,2160778,DISBUDS CREMON PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,9.5,Bunch,f97a1c7a-2aca-4774-a4c5-13e31060f199
+Flowermarketplace,Disbuds,2160780,DISBUDS CREMON RED,2025-04-09,2025-04-18,Ecuador,unmapped,,11.0,Bunch,
+Flowermarketplace,Disbuds,2160782,DISBUDS CREMON RED MORGAN,2025-04-09,2025-04-18,Ecuador,unmapped,,11.0,Bunch,
+Flowermarketplace,Disbuds,2160784,DISBUDS CREMON VIRGINIA,2025-04-09,2025-04-18,Ecuador,unmapped,,11.0,Bunch,
+Flowermarketplace,Disbuds,2160786,DISBUDS CREMON WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,10.0,Bunch,
+Flowermarketplace,Disbuds,2160788,DISBUDS CREMON YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,10.0,Bunch,d892a206-d066-4193-9b19-9f040a0009b7
+Flowermarketplace,Disbuds,2161077,DISBUDS SPIDER ANASTASIA GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,10.48,Bunch,
+Flowermarketplace,Disbuds,2161079,DISBUDS SPIDER ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,10.48,Bunch,
+Flowermarketplace,Disbuds,2161081,DISBUDS SPIDER DARK GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,10.48,Bunch,
+Flowermarketplace,Disbuds,2161083,DISBUDS SPIDER LAVENDER,2025-04-09,2025-04-18,Ecuador,unmapped,,10.48,Bunch,9061a0e8-177d-40da-8e80-e0832e720198
+Flowermarketplace,Disbuds,2161085,DISBUDS SPIDER ORANGE,2025-04-09,2025-04-18,Ecuador,unmapped,,10.48,Bunch,
+Flowermarketplace,Disbuds,2161087,DISBUDS SPIDER PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,10.48,Bunch,
+Flowermarketplace,Disbuds,2161089,DISBUDS SPIDER PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,9.63,Bunch,
+Flowermarketplace,Disbuds,2161091,DISBUDS SPIDER WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,9.63,Bunch,
+Flowermarketplace,Disbuds,2161093,DISBUDS SPIDER YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,9.63,Bunch,
+Flowermarketplace,Dried Flowers,2163706,DRIED ANDEAN ASTER BLEACH 60CM 6ST,2025-04-09,2025-04-18,Ecuador,,,13.13,Bunch,
+Flowermarketplace,Dried Flowers,2161203,DRIED BISMARK PALM ROUND,2025-04-09,2025-04-18,Ecuador,,,24.98,Bunch,4675ab1b-4a21-47e2-a4b8-6b9403dab9bc
+Flowermarketplace,Dried Flowers,2163736,DRIED BOUQUET ETERNAL LARGE 55CM 26ST,2025-04-09,2025-04-18,Ecuador,,,37.48,Bunch,
+Flowermarketplace,Dried Flowers,2161205,DRIED BOUQUET MAGICAL ASSORTED,2025-04-09,2025-04-18,Ecuador,,,22.48,Bunch,3bdcbab1-3fc7-4ded-8692-eff38909bf20
+Flowermarketplace,Dried Flowers,2163738,DRIED BOUQUET MARIEL 45CM 6ST,2025-04-09,2025-04-18,Ecuador,,,24.98,Bunch,
+Flowermarketplace,Dried Flowers,2161207,DRIED ERYNGIUM BLEACHED,2025-04-09,2025-04-18,Ecuador,,50,19.98,Bunch,
+Flowermarketplace,Dried Flowers,2163712,DRIED EUCALYPTUS LEAVES RED 60CM 4ST,2025-04-09,2025-04-18,Ecuador,,,18.13,Bunch,f0bf3f77-4c92-4460-ab1b-d7a0d6691510
+Flowermarketplace,Dried Flowers,2161209,DRIED FANTASY ASSORTED BOUQUET,2025-04-09,2025-04-18,Ecuador,,35,24.98,Bunch,
+Flowermarketplace,Dried Flowers,2161211,DRIED FOXTAIL GRASS 70CM 150GRAM,2025-04-09,2025-04-18,Ecuador,,,21.23,Bunch,
+Flowermarketplace,Dried Flowers,2161213,DRIED GINGER,2025-04-09,2025-04-18,Ecuador,,,8.73,Bunch,9f031ec9-ae01-4d6c-bb76-733334a42020
+Flowermarketplace,Dried Flowers,2163734,DRIED GINGER DRY NATURAL 50CM 5ST,2025-04-09,2025-04-18,Ecuador,,,1.63,Bunch,
+Flowermarketplace,Dried Flowers,2163702,DRIED GYPSO BLEACH 60CM 6ST,2025-04-09,2025-04-18,Ecuador,,,16.25,Bunch,
+Flowermarketplace,Dried Flowers,2163716,DRIED HELICONIA CARIOCA  BLEACHED 60CM 1ST,2025-04-09,2025-04-18,Ecuador,,,9.23,Bunch,
+Flowermarketplace,Dried Flowers,2161215,DRIED HELICONIA CARIOCA HANGING,2025-04-09,2025-04-18,Ecuador,,,12.48,Bunch,
+Flowermarketplace,Dried Flowers,2163722,DRIED HELICONIA SHE KONG L 90CM 1ST,2025-04-09,2025-04-18,Ecuador,,,14.75,Bunch,
+Flowermarketplace,Dried Flowers,2163718,DRIED HELICONIA SHE KONG XL 120CM 1ST,2025-04-09,2025-04-18,Ecuador,,,13.13,Bunch,
+Flowermarketplace,Dried Flowers,2163720,DRIED HELICONIA SHE KONG XL 90CM 1ST,2025-04-09,2025-04-18,Ecuador,,,13.13,Bunch,
+Flowermarketplace,Dried Flowers,2161217,DRIED HELICONIA UPRIGHT,2025-04-09,2025-04-18,Ecuador,,,12.48,Bunch,51e548f1-4836-4895-a52b-ce33cc43cfb5
+Flowermarketplace,Dried Flowers,2161219,DRIED IXODIA,2025-04-09,2025-04-18,Ecuador,,,32.48,Bunch,
+Flowermarketplace,Dried Flowers,2161221,DRIED JUNGLE APPLE BLEACHED,2025-04-09,2025-04-18,Ecuador,,,32.48,Bunch,
+Flowermarketplace,Dried Flowers,2161223,DRIED LAGURUS BLEACHED,2025-04-09,2025-04-18,Ecuador,,,19.98,Bunch,
+Flowermarketplace,Dried Flowers,2163704,DRIED LINUM BLEACH 60CM 25ST,2025-04-09,2025-04-18,Ecuador,,,13.13,Bunch,
+Flowermarketplace,Dried Flowers,2161225,DRIED LOAFA SPONGE ASSORTED,2025-04-09,2025-04-18,Ecuador,,,12.48,Bunch,73fc2bd5-fd6a-4ff9-b7eb-9f754500c09d
+Flowermarketplace,Dried Flowers,2161227,DRIED LOAFA SPONGE BLEACHED,2025-04-09,2025-04-18,Ecuador,,,12.48,Bunch,31efd714-6264-4f7f-88d2-e792760e065d
+Flowermarketplace,Dried Flowers,2161229,DRIED NIGELLA ORIENTALIS BLEACHED,2025-04-09,2025-04-18,Ecuador,,,19.98,Bunch,
+Flowermarketplace,Dried Flowers,2163714,DRIED OATS BLEACH 60CM 25ST,2025-04-09,2025-04-18,Ecuador,,,13.75,Bunch,
+Flowermarketplace,Dried Flowers,2163708,DRIED ORCHARD GRASS BLEACH 60CM 40ST,2025-04-09,2025-04-18,Ecuador,,,13.13,Bunch,
+Flowermarketplace,Dried Flowers,2163710,DRIED ORCHARD GRASS TINTED 60CM 40ST,2025-04-09,2025-04-18,Ecuador,,,14.13,Bunch,
+Flowermarketplace,Dried Flowers,2163726,DRIED PAMPAS FAT  NATURAL 100CM 10ST,2025-04-09,2025-04-18,Ecuador,,,2.38,Stems,
+Flowermarketplace,Dried Flowers,2163728,DRIED PAMPAS FAT  PINK 100CM 10ST,2025-04-09,2025-04-18,Ecuador,,,2.48,Stems,
+Flowermarketplace,Dried Flowers,2163730,DRIED PAMPAS SLIM  NATURAL 100CM 10ST,2025-04-09,2025-04-18,Ecuador,,,1.38,Stems,
+Flowermarketplace,Dried Flowers,2163732,DRIED PAMPAS SLIM  PINK 100CM 10ST,2025-04-09,2025-04-18,Ecuador,,,1.75,Stems,a5ab3ab4-62bc-47ad-b91e-d1d59ecc1f4e
+Flowermarketplace,Dried Flowers,2161231,DRIED PHALARIS BLEACHED,2025-04-09,2025-04-18,Ecuador,,,17.48,Bunch,
+Flowermarketplace,Dried Flowers,2161381,DRIED RUSCUS ITALY BLEACHED,2025-04-09,2025-04-18,Ecuador,,80,19.88,Bunch,3b5b288d-68d5-474f-a6b7-6d6c343f7866
+Flowermarketplace,Dried Flowers,2161383,DRIED RUSCUS ITALY BLEACHED ASSORTED,2025-04-09,2025-04-18,Ecuador,,80,19.88,Bunch,
+Flowermarketplace,Dried Flowers,2163724,DRIED SORGHUM BLEACHED  80CM 5ST,2025-04-09,2025-04-18,Ecuador,,,4.05,Bunch,
+Flowermarketplace,Dried Flowers,2161233,DRIED STOPA,2025-04-09,2025-04-18,Ecuador,,,12.48,Bunch,
+Flowermarketplace,Dried Flowers,2161235,DRIED STRAW PALM BLEACHED,2025-04-09,2025-04-18,Ecuador,,,19.98,Bunch,
+Flowermarketplace,Dried Flowers,2161237,DRIED SUMMER BLEACHED BOX,2025-04-09,2025-04-18,Ecuador,,,99.98,Bunch,
+Flowermarketplace,Dried Flowers,2161239,DRIED VINES INGA BLEACHED,2025-04-09,2025-04-18,Ecuador,,,4.73,Bunch,
+Flowermarketplace,Dried Flowers,2161241,DRIED WASHINTONIAN PALM ROUND,2025-04-09,2025-04-18,Ecuador,,,22.48,Bunch,
+Flowermarketplace,Dusty Miller,2160790,DUSTY MILLER,2025-04-09,2025-04-18,Ecuador,unmapped,,9.88,Bunch,77698051-620e-41f0-83c6-fc7093641d9e
+Flowermarketplace,Combo Boxes,2271455,EASTER COMBO BOX LARGE,2025-04-09,2025-04-18,Ecuador,,,419.0,Box,
+Flowermarketplace,Combo Boxes,2271454,EASTER COMBO BOX SMALL,2025-04-09,2025-04-18,Ecuador,,,209.0,Box,
+Flowermarketplace,Eryngium Thistle,2161243,ERYNGIUM BLUE LAGOON,2025-04-09,2025-04-18,Ecuador,,60,13.73,Bunch,6472aed1-0759-4593-a049-8a9c3c4b690a
+Flowermarketplace,Green,2162200,EUCALYPTUS Baby blue 200 gr,2025-04-09,2025-04-18,Italy,unmapped,,15.4,Bunch,4f96e615-17b3-4d1e-b8ba-1951d585fd2d
+Flowermarketplace,Green,2162201,EUCALYPTUS Baby blue 300gr,2025-04-09,2025-04-18,Italy,unmapped,,22.63,Bunch,
+Flowermarketplace,Green,2162202,EUCALYPTUS Cinerea 200 gr,2025-04-09,2025-04-18,Italy,unmapped,,16.03,Bunch,
+Flowermarketplace,Green,2162203,EUCALYPTUS Cinerea 300gr,2025-04-09,2025-04-18,Italy,unmapped,,23.26,Bunch,
+Flowermarketplace,Green,2162204,EUCALYPTUS Parvifolia 200 gr,2025-04-09,2025-04-18,Italy,unmapped,,12.89,Bunch,d7c8efe6-7491-4a6b-9ba1-d769537ccfea
+Flowermarketplace,Green,2162205,EUCALYPTUS Parvifolia 300gr,2025-04-09,2025-04-18,Italy,unmapped,,18.09,Bunch,
+Flowermarketplace,Green,2162206,EUCALYPTUS Populus 200 gr,2025-04-09,2025-04-18,Italy,unmapped,,13.51,Bunch,
+Flowermarketplace,Green,2162207,EUCALYPTUS Populus 300gr,2025-04-09,2025-04-18,Italy,unmapped,,20.11,Bunch,
+Flowermarketplace,Green,2162208,EUCALYPTUS Stuartiana 200 gr,2025-04-09,2025-04-18,Italy,unmapped,,14.46,Bunch,
+Flowermarketplace,Green,2162209,EUCALYPTUS Stuartiana 300gr,2025-04-09,2025-04-18,Italy,unmapped,,21.37,Bunch,
+Flowermarketplace,Green,2162210,EUCALYPTUS Stuartiana fall 200 gr,2025-04-09,2025-04-18,Italy,unmapped,,18.09,Bunch,
+Flowermarketplace,Green,2162211,EUCALYPTUS Stuartiana fall 300gr,2025-04-09,2025-04-18,Italy,unmapped,,26.4,Bunch,
+Flowermarketplace,Combo Boxes,2263586,EXOTIC BOX,2025-04-09,2025-04-18,Miami,,,150.0,Box,
+Flowermarketplace,Combo Boxes,2193417,FLOWER ASSORTED,2025-04-09,2025-04-18,Miami,,,6.25,Bunch,
+Flowermarketplace,Bouquet,2170949,FLOWER BQT 10ST,2025-04-09,2025-04-18,Colombia,unmapped,,14.0,Bunch,
+Flowermarketplace,Bouquet,2170950,FLOWER BQT 12ST,2025-04-09,2025-04-18,Colombia,unmapped,,18.57,Bunch,
+Flowermarketplace,Bouquet,2170951,FLOWER BQT 15ST,2025-04-09,2025-04-18,Colombia,unmapped,,22.86,Bunch,
+Flowermarketplace,Bouquet,2271452,FLOWER BQT 5ST,2025-04-09,2025-04-18,Colombia,unmapped,,7.14,Bunch,
+Flowermarketplace,Bouquet,2271453,FLOWER BQT 7ST,2025-04-09,2025-04-18,Colombia,unmapped,,10.0,Bunch,
+Flowermarketplace,Disbuds,2161257,FOOTBALL ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,12.5,Bunch,
+Flowermarketplace,Disbuds,2161259,FOOTBALL LAVENDER,2025-04-09,2025-04-18,Ecuador,unmapped,,16.25,Bunch,
+Flowermarketplace,Disbuds,2161261,FOOTBALL PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,16.25,Bunch,d0fbd457-f108-4707-a7c7-0690dd41f714
+Flowermarketplace,Disbuds,2161263,FOOTBALL WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,16.25,Bunch,
+Flowermarketplace,Disbuds,2161265,FOOTBALL YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,16.25,Bunch,
+Flowermarketplace,Garden Rose,2158394,GARDEN ROSE AIKO,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,
+Flowermarketplace,Garden Rose,2158396,GARDEN ROSE ALABASTER,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.97,Stems,2aa7d01b-76f2-4753-b19b-6a35b201771a
+Flowermarketplace,Garden Rose,2158398,GARDEN ROSE ASHLEY,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.69,Stems,17a7647b-c9e3-44da-a4ba-7dca1b38b6ab
+Flowermarketplace,Garden Rose,2158400,GARDEN ROSE BARONESSE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,f36906f3-c41b-43e1-85c5-3f436428b97e
+Flowermarketplace,Garden Rose,2158402,GARDEN ROSE BRIDAL PIANO,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.69,Stems,dcb54dcf-cff2-4cd2-99bf-3ec2be2e2593
+Flowermarketplace,Garden Rose,2158404,GARDEN ROSE CARAMEL ANTIKE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,040ffa1d-cb2e-4e4f-913b-a49dee8e32df
+Flowermarketplace,Garden Rose,2158406,GARDEN ROSE CATALINA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,06a5831f-2d31-4a36-969f-15554b8c0434
+Flowermarketplace,Garden Rose,2157720,GARDEN ROSE COQUETA,2025-04-09,2025-04-18,Ecuador,85e5624a-3128-4892-a306-3e060dd1c8fe,40,1.75,Stems,b0a10ce7-00c7-4a4f-9596-ccde5a82849c
+Flowermarketplace,Garden Rose,2158408,GARDEN ROSE DAVID AUSTIN CAPABILITY,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,94c3d990-6b90-4f4e-98ad-483e95671b73
+Flowermarketplace,Garden Rose,2158410,GARDEN ROSE DAVID AUSTIN CHARITY,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,b1b38833-0d82-4370-b9d8-41b576b483fa
+Flowermarketplace,Garden Rose,2158412,GARDEN ROSE DAVID AUSTIN CONSTANCE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,2599e1c4-da18-4742-9317-1b08cb834f29
+Flowermarketplace,Garden Rose,2158414,GARDEN ROSE DAVID AUSTIN DARCEY,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,0389f65d-9ccc-4b3c-b424-ffa984bd596c
+Flowermarketplace,Garden Rose,2158416,GARDEN ROSE DAVID AUSTIN EDITH,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,cad4656d-3d86-4698-b6c0-45c5d561a87b
+Flowermarketplace,Garden Rose,2158418,GARDEN ROSE DAVID AUSTIN EFFIE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,b1fa8e95-3c5e-46ec-b0f2-7f51973be36f
+Flowermarketplace,Garden Rose,2158420,GARDEN ROSE DAVID AUSTIN EUGENIE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,5e229501-6b4b-48e9-9745-2c906375fba5
+Flowermarketplace,Garden Rose,2158422,GARDEN ROSE DAVID AUSTIN JULIET,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,c5866dfc-e0bb-4dda-ab04-ab1eba9a8e76
+Flowermarketplace,Garden Rose,2158424,GARDEN ROSE DAVID AUSTIN KEIRA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,4dfc9999-3ef0-446a-93c1-7e3808b056fc
+Flowermarketplace,Garden Rose,2158426,GARDEN ROSE DAVID AUSTIN LEONORA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,99e7fba8-ec92-48fc-a845-fd2aed2d69b8
+Flowermarketplace,Garden Rose,2158428,GARDEN ROSE DAVID AUSTIN MIRANDA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,34dd2902-c212-4c2a-bc24-3f35da9fd640
+Flowermarketplace,Garden Rose,2158430,GARDEN ROSE DAVID AUSTIN PATIENCE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,e08c0269-1ff1-4e03-a77d-d1dcf72582ff
+Flowermarketplace,Garden Rose,2216106,GARDEN ROSE DAVID AUSTIN PURITY,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,0ed220c8-fe58-4f10-aa7f-e31836b5138e
+Flowermarketplace,Garden Rose,2158434,GARDEN ROSE DAVID AUSTIN TESS,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,bcee72f7-9640-4088-b125-33573d679ef8
+Flowermarketplace,Garden Rose,2158436,GARDEN ROSE GOLDEN MUSTARD,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,31052087-5e26-4a35-a1ad-fbdfacf7b674
+Flowermarketplace,Garden Rose,2158438,GARDEN ROSE HITOMI,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,04ae416e-dc35-4544-ba77-1c434c7afbcf
+Flowermarketplace,Garden Rose,2158440,GARDEN ROSE KAORI,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,34c0978e-f927-409d-927c-ba986f844ed1
+Flowermarketplace,Garden Rose,2158442,GARDEN ROSE LAVENDER BOUQUET,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,a6ae0b39-0837-4513-9264-e75cb1710a6d
+Flowermarketplace,Garden Rose,2158444,GARDEN ROSE MARIATHERESIA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,
+Flowermarketplace,Garden Rose,2158446,GARDEN ROSE MAYA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,bb3732d4-1386-4165-9764-fcc972a572e5
+Flowermarketplace,Garden Rose,2158448,GARDEN ROSE MAYRA BRIDAL PINK,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,2.57,Stems,44e65fa0-1676-4d10-8b8b-fa8ddea43f96
+Flowermarketplace,Garden Rose,2219838,GARDEN ROSE MAYRA HOT PINK Garden Roses,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,,2.57,Stems,474d4571-5b4c-4efc-921b-6c1e9feae83a
+Flowermarketplace,Garden Rose,2219808,GARDEN ROSE MAYRA PEACH,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,,2.57,Stems,e42fa7cd-cc27-4fff-95ed-28fd7715ecf1
+Flowermarketplace,Garden Rose,2219810,GARDEN ROSE MAYRA RED,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,,2.57,Stems,59ffa0fc-74ea-4719-89f7-8144f48c0a4d
+Flowermarketplace,Garden Rose,2158450,GARDEN ROSE MAYRA ROSE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,
+Flowermarketplace,Garden Rose,2219806,GARDEN ROSE MAYRA WHITE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,,2.57,Stems,e37b6275-5723-446c-a101-becc9486686d
+Flowermarketplace,Garden Rose,2158454,GARDEN ROSE MIYUKI,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.97,Stems,f7bfae99-ee27-421d-ae8b-f4d85ac82725
+Flowermarketplace,Garden Rose,2158456,GARDEN ROSE PIANO,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,4.83,Stems,8544ebdf-4bee-484b-a4c4-087fff6941a4
+Flowermarketplace,Garden Rose,2158458,GARDEN ROSE PINK OHARA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,094aabaf-7503-4e24-b7a8-e8b8c984b95d
+Flowermarketplace,Garden Rose,2158460,GARDEN ROSE PINK PIANO,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.69,Stems,99c8bf60-10ec-4886-a247-fea026017662
+Flowermarketplace,Garden Rose,2158462,GARDEN ROSE PRECIOUS MOMENTS,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,5e15a64f-e19e-4a00-8243-da65e4b743a6
+Flowermarketplace,Garden Rose,2158464,GARDEN ROSE QUICKSAND,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,12a5d6ab-de33-4820-898c-f4087830082f
+Flowermarketplace,Garden Rose,2158466,GARDEN ROSE ROMANTIC ANTIKE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,4f6c9885-69da-4575-879a-8e9b778b3111
+Flowermarketplace,Garden Rose,2158472,GARDEN ROSE SAHARA SENSATION,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,
+Flowermarketplace,Garden Rose,2158474,GARDEN ROSE SAHARA SENSATION SPRAY,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,f1054086-f972-40a6-ba8e-79d747fb7deb
+Flowermarketplace,Garden Rose,2158476,GARDEN ROSE SPECIAL BRIDE,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.86,Stems,
+Flowermarketplace,Garden Rose,2210614,GARDEN ROSE VDAY ASSORTED,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,,3.29,Stems,
+Flowermarketplace,Garden Rose,2158480,GARDEN ROSE VITALITY,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.97,Stems,28838ab2-db64-497b-ac49-afc4b73f086d
+Flowermarketplace,Garden Rose,2158488,GARDEN ROSE WABARA SENLITSU,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,c520db4e-fd3e-46c3-b6f6-9481473c62d1
+Flowermarketplace,Garden Rose,2158492,GARDEN ROSE WABARA TSUMUGI,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,592f1447-939b-43ca-86e4-11de5cbabfff
+Flowermarketplace,Garden Rose,2158496,GARDEN ROSE WEDDING ROSEVER SPRAY,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,f6769a05-7117-4fd3-ad66-ffb01a2c5c41
+Flowermarketplace,Garden Rose,2216107,GARDEN ROSE WESTMINSTER ABBEY,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,5.69,Stems,
+Flowermarketplace,Garden Rose,2158500,GARDEN ROSE WHITE CLOUD,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.97,Stems,15ef4ce5-4dd6-452b-b93b-37c8edffab46
+Flowermarketplace,Garden Rose,2158502,GARDEN ROSE WHITE OHARA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.97,Stems,305aab46-72f9-461d-afc7-98d901c13243
+Flowermarketplace,Garden Rose,2158518,GARDEN ROSES LEA ROMANTICA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.69,Stems,
+Flowermarketplace,Garden Rose,2158534,GARDEN ROSES WHITE OHARA,2025-04-09,2025-04-18,Colombia,85e5624a-3128-4892-a306-3e060dd1c8fe,40,3.69,Stems,
+Flowermarketplace,Garland,2200508,GARLAND GYP BLUE 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Garland,2200506,GARLAND GYP BROWN 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Garland,2200515,GARLAND GYP CORAL 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Garland,2200510,GARLAND GYP GREEN 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,b2fbab35-86ce-462a-89dc-467d1e19e590
+Flowermarketplace,Garland,2200503,GARLAND GYP HOT PINK 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Garland,2200500,GARLAND GYP INDIAN SUMMER 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,106.4,Bunch,
+Flowermarketplace,Garland,2200502,GARLAND GYP LAVENDER 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Garland,2200512,GARLAND GYP LIGHT BLUE 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Garland,2200511,GARLAND GYP LIGHT GREEN 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,b44fef2d-cd87-42d4-a0b2-4e5f88afeebe
+Flowermarketplace,Garland,2200498,GARLAND GYP NATURAL  5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,75.6,Bunch,
+Flowermarketplace,Garland,2200514,GARLAND GYP ORANGE 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Garland,2200504,GARLAND GYP PINK 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Garland,2200509,GARLAND GYP PURPLE 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,db1d5e71-3845-4916-805f-72129024d9ba
+Flowermarketplace,Garland,2200499,GARLAND GYP RAINBOW 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,106.4,Bunch,
+Flowermarketplace,Garland,2200505,GARLAND GYP RED 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Garland,2200501,GARLAND GYP SWEET CANDY 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,106.4,Bunch,
+Flowermarketplace,Garland,2200507,GARLAND GYP YELLOW 5FT,2025-04-09,2025-04-18,Ecuador,unmapped,,91.0,Bunch,
+Flowermarketplace,Gerbera,2160792,GERBERA ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,0.88,Stems,
+Flowermarketplace,Gerbera,2160794,GERBERA HOT PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,1.25,Stems,
+Flowermarketplace,Gerbera,2160796,GERBERA ORANGE,2025-04-09,2025-04-18,Ecuador,unmapped,,1.25,Stems,c186749e-78bc-403d-8be0-853db57477c2
+Flowermarketplace,Gerbera,2160798,GERBERA PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,1.25,Stems,dc12ea85-2be7-4b75-b2ab-4db1fec10907
+Flowermarketplace,Gerbera,2160800,GERBERA RED,2025-04-09,2025-04-18,Ecuador,unmapped,,1.25,Stems,4f07eed7-98b8-4c20-9af9-746e64107da5
+Flowermarketplace,Gerbera,2160802,GERBERA WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,1.25,Stems,7a57dab4-16eb-4a04-b9f1-fe28ce5d9782
+Flowermarketplace,Gerbera,2160804,GERBERA YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,1.25,Stems,988e6bb4-dea5-41fe-8957-3246dae96c5a
+Flowermarketplace,Tropical,2163754,GINGER RED MEDIUM,2025-04-09,2025-04-18,Ecuador,unmapped,80,3.73,Bunch,06456705-894f-4608-8417-d943b4a83f25
+Flowermarketplace,Gladiolus,2161267,GLADIOLUS ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,17.48,Bunch,
+Flowermarketplace,Dianthus,2148557,GREEN DIANTHUS,2025-04-09,2025-04-18,Ecuador,unmapped,,3.5,Stems,5600b344-6f44-4071-8d2b-0651f4ed50b8
+Flowermarketplace,Green,2190656,GREEN SMILAX 10 POUNDS,2025-04-09,2025-04-18,Colombia,unmapped,,151.43,Box,
+Flowermarketplace,Green,2161269,GREENS ASPIDISTRA,2025-04-09,2025-04-18,Ecuador,unmapped,,4.25,Bunch,4bc3006d-c2c3-4f27-9725-9d5033c6568a
+Flowermarketplace,Green,2161271,GREENS ASPIDISTRA VARIEGATED,2025-04-09,2025-04-18,Ecuador,unmapped,,11.23,Bunch,36b75d67-defd-4b5e-a3df-218a67d52d21
+Flowermarketplace,Tropical,2163750,GREENS BOUQUET AMAZONAS FARM CHOICE MIX,2025-04-09,2025-04-18,Ecuador,unmapped,50,7.73,Bunch,02b015ce-5e94-4e33-843a-f69c2c8e07a3
+Flowermarketplace,Green,2161275,GREENS EMERALD MEDIUM,2025-04-09,2025-04-18,Ecuador,unmapped,,3.48,Bunch,8c7a542d-6be6-4c90-8f0f-abb10507eee1
+Flowermarketplace,Green,2161277,GREENS EUCALYPTUS BABY BLUE,2025-04-09,2025-04-18,Ecuador,unmapped,,15.0,Bunch,7d8ce12e-2d95-4d61-8534-2d6a40b83470
+Flowermarketplace,Green,2161279,GREENS EUCALYPTUS SEEDED,2025-04-09,2025-04-18,Ecuador,unmapped,,12.38,Bunch,c3fc1f21-7ce7-4142-8b57-189bc1d070b5
+Flowermarketplace,Green,2161249,GREENS EUCALYPTUS SILVER DOLLAR,2025-04-09,2025-04-18,Ecuador,unmapped,,14.63,Bunch,9518d2d8-d613-4e76-8cbc-67715053315b
+Flowermarketplace,Green,2161281,GREENS GALAX LEAVES,2025-04-09,2025-04-18,Ecuador,unmapped,,2.38,Bunch,
+Flowermarketplace,Green,2161283,GREENS ISRAELI RUSCUS,2025-04-09,2025-04-18,Ecuador,unmapped,,4.38,Bunch,85fa7098-487a-48cb-957e-4b323f1b637d
+Flowermarketplace,Green,2161285,GREENS ITALIAN RUSCUS,2025-04-09,2025-04-18,Ecuador,unmapped,,9.88,Bunch,d7583b3b-5a47-42ca-b83d-9cb4f880a768
+Flowermarketplace,Green,2161287,GREENS ITALIAN VARIEGATED PITTOSPORUM,2025-04-09,2025-04-18,Ecuador,unmapped,,16.48,Bunch,fc33a789-193f-4f7e-b875-575715b90d8b
+Flowermarketplace,Green,2161289,GREENS IVY GREEN PREMIUM,2025-04-09,2025-04-18,Ecuador,unmapped,,15.0,Bunch,
+Flowermarketplace,Green,2161291,GREENS JADE REGULAR,2025-04-09,2025-04-18,Ecuador,unmapped,,3.48,Bunch,
+Flowermarketplace,Green,2161293,GREENS LEATHER LEAF GERMAN,2025-04-09,2025-04-18,Ecuador,unmapped,,5.73,Bunch,
+Flowermarketplace,Green,2161295,GREENS LEATHER LEAF PREMIUM,2025-04-09,2025-04-18,Ecuador,unmapped,,6.23,Bunch,5233d093-4636-409e-bb20-d383b9d3ba20
+Flowermarketplace,Green,2163700,GREENS MAGNOLIA,2025-04-09,2025-04-18,Ecuador,unmapped,,9.75,Bunch,bd58c382-f5a8-4347-b063-1d77048ffbc7
+Flowermarketplace,Green,2161297,GREENS MING FERN,2025-04-09,2025-04-18,Ecuador,unmapped,,12.38,Bunch,93d6a187-1b51-4c57-a8e9-2cb1dbad7456
+Flowermarketplace,Green,2161973,GREENS MONSTERA  SMALL LEAVES,2025-04-09,2025-04-18,Ecuador,unmapped,,1.88,Stems,57bb979a-0621-44f7-b114-9aa35d716a3a
+Flowermarketplace,Green,2161299,GREENS MONSTERA ASSORTED LEAVES,2025-04-09,2025-04-18,Ecuador,unmapped,,2.4,Stems,
+Flowermarketplace,Green,2161971,GREENS MONSTERA LARGE LEAVES,2025-04-09,2025-04-18,Ecuador,unmapped,,2.38,Stems,8e0ac26c-7e61-4063-9f0b-27ec5c7c3365
+Flowermarketplace,Green,2161969,GREENS MONSTERA MEDIUM LEAVES,2025-04-09,2025-04-18,Ecuador,unmapped,,2.13,Stems,376c4c96-da49-45c5-ba11-061340f647d6
+Flowermarketplace,Green,2161301,GREENS MYRTLE,2025-04-09,2025-04-18,Ecuador,unmapped,,11.25,Bunch,4a76c8c7-a02b-4f15-9fa6-5e7c73c1105b
+Flowermarketplace,Green,2161303,GREENS PITTOSPORUM GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,8.75,Bunch,0f9e9469-a6d2-4ab4-b929-06ccae998cbe
+Flowermarketplace,Green,2161305,GREENS PITTOSPORUM VARIAGATED,2025-04-09,2025-04-18,Ecuador,unmapped,,11.25,Bunch,
+Flowermarketplace,Green,2161307,GREENS PLUMOSUS,2025-04-09,2025-04-18,Ecuador,unmapped,,10.73,Bunch,00bf6a7a-367a-41b5-81e0-644a4ffd4c98
+Flowermarketplace,Green,2161385,GREENS PODOCARPUS,2025-04-09,2025-04-18,Ecuador,unmapped,,9.75,Bunch,2af8351f-e674-41ab-99a9-70cbcbe3e1b9
+Flowermarketplace,Green,2163756,GREENS PODOCARPUS,2025-04-09,2025-04-18,Ecuador,unmapped,40,16.25,Bunch,2af8351f-e674-41ab-99a9-70cbcbe3e1b9
+Flowermarketplace,Green,2161309,GREENS ROBELLINI PALMS,2025-04-09,2025-04-18,Ecuador,unmapped,,6.48,Bunch,
+Flowermarketplace,Green,2161311,GREENS SALAL,2025-04-09,2025-04-18,Ecuador,unmapped,,13.75,Bunch,239f9b66-f621-45d5-8eda-50fb91d7c753
+Flowermarketplace,Green,2161313,GREENS SALAL TIPS,2025-04-09,2025-04-18,Ecuador,unmapped,,6.88,Bunch,7ba2b9f4-4ea4-4620-946d-d9228d4adff0
+Flowermarketplace,Green,2161315,GREENS SPRENGERI,2025-04-09,2025-04-18,Ecuador,unmapped,,7.38,Bunch,ecaa9679-8011-44f1-863d-5bd6be5025cc
+Flowermarketplace,Green,2161317,GREENS SWORD FERN,2025-04-09,2025-04-18,Ecuador,unmapped,,6.88,Bunch,
+Flowermarketplace,Green,2161319,GREENS TI LEAVES BLACK,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Bunch,
+Flowermarketplace,Green,2161321,GREENS TI LEAVES GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Bunch,8d4d4465-d918-4275-aa9d-4a676bdd5bca
+Flowermarketplace,Green,2161323,GREENS TI LEAVES RED,2025-04-09,2025-04-18,Ecuador,unmapped,,2.48,Bunch,
+Flowermarketplace,Green,2161325,GREENS TREE FERN,2025-04-09,2025-04-18,Ecuador,unmapped,,5.75,Bunch,12f0a153-0e30-492d-bf04-7dcdb3f964cc
+Flowermarketplace,Dried Flowers,2162262,GREVILLEA METAL COPPER 150 gr,2025-04-09,2025-04-18,Italy,,,16.03,Bunch,
+Flowermarketplace,Dried Flowers,2162260,GREVILLEA METAL GOLD 150 gr,2025-04-09,2025-04-18,Italy,,,16.03,Bunch,
+Flowermarketplace,Dried Flowers,2162263,GREVILLEA METAL RED 150 gr,2025-04-09,2025-04-18,Italy,,,16.03,Bunch,21ed58a9-d52c-46ff-9bd4-83dae8c9a370
+Flowermarketplace,Dried Flowers,2162261,GREVILLEA METAL SILVER 150 gr,2025-04-09,2025-04-18,Italy,,,16.03,Bunch,
+Flowermarketplace,Gypsophilia,2148527,GYPSOPHILIA MILLION STAR,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,9.8,Bunch,d19f261a-68e4-4089-a8af-4e0cd7ade684
+Flowermarketplace,Gypsophilia,2148526,GYPSOPHILIA XLENCE,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,9.8,Bunch,b42dc03d-b323-4929-b70c-1a62fc7522d9
+Flowermarketplace,Gypsophilia,2200722,GYPSOPHILIA XLENCE CHRISTMAS,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,
+Flowermarketplace,Gypsophilia,2148549,GYPSOPHILIA XLENCE COLD SKY RAINBOW,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,
+Flowermarketplace,Gypsophilia,2148541,GYPSOPHILIA XLENCE TINTED BROWNISH,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,89869e1d-0753-47d2-864d-a0bbe7daa5fc
+Flowermarketplace,Gypsophilia,2203425,GYPSOPHILIA XLENCE TINTED CARAMEL,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,dd026f1c-6922-48c1-b7c9-efabcdb1c13f
+Flowermarketplace,Gypsophilia,2148545,GYPSOPHILIA XLENCE TINTED COFFEE,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,09565d6b-b1d0-4ca1-84db-261a6d0676e2
+Flowermarketplace,Gypsophilia,2148553,GYPSOPHILIA XLENCE TINTED COLD SKY RAINBOW,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,
+Flowermarketplace,Gypsophilia,2148540,GYPSOPHILIA XLENCE TINTED CORAL,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,4fafb74e-eb35-4e44-9685-fab6ac651832
+Flowermarketplace,Gypsophilia,2148535,GYPSOPHILIA XLENCE TINTED DARK BLUE,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,
+Flowermarketplace,Gypsophilia,2148556,GYPSOPHILIA XLENCE TINTED FASHION RAINBOW,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,8b009b21-1171-4054-bdca-1eec92cb232a
+Flowermarketplace,Gypsophilia,2148539,GYPSOPHILIA XLENCE TINTED GREEN,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,a8938fff-8c81-4ed6-b441-fa14497c9e93
+Flowermarketplace,Gypsophilia,2148555,GYPSOPHILIA XLENCE TINTED ILLUSION RAINBOW,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,
+Flowermarketplace,Gypsophilia,2148550,GYPSOPHILIA XLENCE TINTED INDIAN SUMMER RAINBOW,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,
+Flowermarketplace,Gypsophilia,2148532,GYPSOPHILIA XLENCE TINTED LAVENDER,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,17956779-e7b9-48c9-9247-a348e1f7b31e
+Flowermarketplace,Gypsophilia,2148534,GYPSOPHILIA XLENCE TINTED LIGHT BLUE,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,f2d53e7d-16e6-4eb3-b1c0-4ec20a490482
+Flowermarketplace,Gypsophilia,2148544,GYPSOPHILIA XLENCE TINTED LIGHT ORANGE,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,05a28877-345c-42b3-8856-bd7d41f03779
+Flowermarketplace,Gypsophilia,2148537,GYPSOPHILIA XLENCE TINTED ORANGE,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,d3e6269a-1025-4e2c-ae0c-a777fb870585
+Flowermarketplace,Gypsophilia,2148533,GYPSOPHILIA XLENCE TINTED PURPLE,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,2e20d467-6d77-4695-98e1-24f05925e1d1
+Flowermarketplace,Gypsophilia,2148530,GYPSOPHILIA XLENCE TINTED RED,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,7328f3fc-e177-49ad-80f5-fdde4481a1db
+Flowermarketplace,Gypsophilia,2148552,GYPSOPHILIA XLENCE TINTED SUNRISE RAINBOW,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,
+Flowermarketplace,Gypsophilia,2148554,GYPSOPHILIA XLENCE TINTED SUNSET RAINBOW,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,
+Flowermarketplace,Gypsophilia,2148551,GYPSOPHILIA XLENCE TINTED SWEET CANDY RAINBOW,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,5e63b14f-307d-4c5f-9f36-ce75381f8b3d
+Flowermarketplace,Gypsophilia,2148542,GYPSOPHILIA XLENCE TINTED TOFEE,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,
+Flowermarketplace,Gypsophilia,2148536,GYPSOPHILIA XLENCE TINTED TURQUOISE,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,d98563da-92da-47a7-ae74-b9effbb50c79
+Flowermarketplace,Gypsophilia,2148538,GYPSOPHILIA XLENCE TINTED YELLOW,2025-04-09,2025-04-18,Ecuador,618b7a0a-f638-4007-a05d-ba1f22fbad64,,12.6,Bunch,9e655142-0577-4df3-bd53-f8e970e56407
+Flowermarketplace,Protea Pin Cushion,2160806,HEARTS ON FIRE PROTEA BOUQUET,2025-04-09,2025-04-18,Ecuador,unmapped,,14.38,Bunch,
+Flowermarketplace,Hydrangea 2,2212126,HYDRANGEA ASSORTED PREMIUM,2025-04-09,2025-04-18,Colombia,3711d6d5-1bf9-491f-8005-af223f9d3203,,3.57,Stems,
+Flowermarketplace,Hydrangea 2,2212125,HYDRANGEA ASSORTED SELECT,2025-04-09,2025-04-18,Colombia,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.71,Stems,14a3155a-6df8-412a-abc3-8401688ef1ed
+Flowermarketplace,Hydrangea 2,2161057,HYDRANGEA BLUE PREMIUM,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.63,Stems,390c9ae7-3312-4f98-8985-cbba72e32133
+Flowermarketplace,Hydrangea 2,2167305,HYDRANGEA BLUE PREMIUM,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.25,Stems,390c9ae7-3312-4f98-8985-cbba72e32133
+Flowermarketplace,Hydrangea 2,2161051,HYDRANGEA DARK MINI GREEN,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,1.5,Stems,1fa1ecea-329d-4f19-8735-9d76b64075f7
+Flowermarketplace,Hydrangea 2,2161059,HYDRANGEA EMERALD SELECT,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.38,Bunch,ffba9535-08a5-4099-8763-167ef7b25a7e
+Flowermarketplace,Hydrangea 2,2163134,HYDRANGEA JUMBO GREEN ANTIQUE,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,5.63,Stems,1342e6d1-3312-435a-8874-1484354ef213
+Flowermarketplace,Hydrangea 2,2163136,HYDRANGEA JUMBO RED ANTIQUE,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,5.63,Stems,1303d218-c7e0-40b0-b27d-cb630394ac12
+Flowermarketplace,Hydrangea 2,2163138,HYDRANGEA PREMIUM ELITE PURPLE,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,4.98,Stems,58daa90d-e523-4768-bcc5-17be6460d5b1
+Flowermarketplace,Hydrangea 2,2163140,HYDRANGEA PREMIUM ELITE RASPBERRY,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,4.98,Stems,b03853e2-048a-40a1-9d1c-72a9b9dbd432
+Flowermarketplace,Hydrangea 2,2163142,HYDRANGEA PREMIUM EMERALD VARIEGADA,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,3.13,Stems,
+Flowermarketplace,Hydrangea 2,2163144,HYDRANGEA PREMIUM LAVENDER,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,3.38,Stems,f32fcbbd-39ea-4a43-817f-b036e6674f43
+Flowermarketplace,Hydrangea 2,2163146,HYDRANGEA PREMIUM LIME GREEN,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,3.13,Stems,
+Flowermarketplace,Hydrangea 2,2163148,HYDRANGEA PREMIUM PEPPERMINT,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,3.38,Stems,a39a1e12-c6b1-4294-9f9c-e049c4bd2f66
+Flowermarketplace,Hydrangea 2,2163150,HYDRANGEA PREMIUM SHOCKING BLUE,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,3.38,Stems,6887d25c-3d34-44df-a07f-129980dbdc58
+Flowermarketplace,Hydrangea 2,2163152,HYDRANGEA SELECT BLUE,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.0,Stems,c37f38b8-824b-4db7-a84b-fddc54b8a61f
+Flowermarketplace,Hydrangea 2,2163154,HYDRANGEA SELECT EMERALD VARIEGADA,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.63,Stems,ca925719-4595-40e7-98d6-1cb766d6ec9e
+Flowermarketplace,Hydrangea 2,2163156,HYDRANGEA SELECT LIME GREEN,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.63,Stems,33c8990a-0114-456e-9e97-373fd4ad3b72
+Flowermarketplace,Hydrangea 2,2163158,HYDRANGEA SELECT SHOCKING BLUE,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.13,Stems,bd5eb44f-9b99-4a9d-88a1-f5b1f2861035
+Flowermarketplace,Hydrangea 2,2163160,HYDRANGEA WHITE PREMIUM,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.3,Stems,c4dd3be9-14d5-4083-8913-93583acedc39
+Flowermarketplace,Hydrangea 2,2167303,HYDRANGEA WHITE PREMIUM,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,2.13,Stems,c4dd3be9-14d5-4083-8913-93583acedc39
+Flowermarketplace,Hydrangea 2,2163162,HYDRANGEA WHITE SELECT,2025-04-09,2025-04-18,Ecuador,3711d6d5-1bf9-491f-8005-af223f9d3203,,1.88,Stems,311cab55-4199-453e-9fd0-a28bdaf286c6
+Flowermarketplace,Hypericum,2161337,HYPERICUM ASSORTED,2025-04-09,2025-04-18,Ecuador,8bff6b99-de91-492b-820f-83cf5c097212,,7.48,Bunch,d63058c9-f704-4146-adad-39630ab23c0e
+Flowermarketplace,Hypericum,2161327,HYPERICUM BROWN,2025-04-09,2025-04-18,Ecuador,8bff6b99-de91-492b-820f-83cf5c097212,,9.98,Bunch,c0fbd39f-e2b5-4075-8367-035a963da2e7
+Flowermarketplace,Hypericum,2161329,HYPERICUM EXCELLENT FLAIR,2025-04-09,2025-04-18,Ecuador,8bff6b99-de91-492b-820f-83cf5c097212,,9.98,Bunch,
+Flowermarketplace,Hypericum,2161331,HYPERICUM GREEN,2025-04-09,2025-04-18,Ecuador,8bff6b99-de91-492b-820f-83cf5c097212,,9.98,Bunch,12e901af-b204-4619-b85e-f9f977a9b9f6
+Flowermarketplace,Hypericum,2161333,HYPERICUM ORANGE,2025-04-09,2025-04-18,Ecuador,8bff6b99-de91-492b-820f-83cf5c097212,,9.98,Bunch,1eb3b7f7-a4ee-4dac-b324-c62e7160b5f0
+Flowermarketplace,Hypericum,2161335,HYPERICUM SALMON,2025-04-09,2025-04-18,Ecuador,8bff6b99-de91-492b-820f-83cf5c097212,,9.98,Bunch,
+Flowermarketplace,Combo Boxes,2242671,Introductory Flower Box,2025-04-09,2025-04-18,Miami,,,9.38,Bunch,
+Flowermarketplace,Combo Boxes,2242673,Introductory Rose Box,2025-04-09,2025-04-18,Miami,,,229.0,Box,
+Flowermarketplace,Combo Boxes,2242672,Introductory Roses and Flower Box,2025-04-09,2025-04-18,Miami,,,199.0,Box,
+Flowermarketplace,Green,2162191,ITALIAN RUSCUS 40/60 CM     SHORT 200 gr,2025-04-09,2025-04-18,Italy,unmapped,,15.4,Bunch,
+Flowermarketplace,Green,2162192,ITALIAN RUSCUS 40/60 CM 150 gr,2025-04-09,2025-04-18,Italy,unmapped,,11.63,Bunch,
+Flowermarketplace,Green,2162193,ITALIAN RUSCUS 40/60 CM 250 gr,2025-04-09,2025-04-18,Italy,unmapped,,19.17,Bunch,
+Flowermarketplace,Green,2162197,ITALIAN RUSCUS 40/60cm 10st,2025-04-09,2025-04-18,Italy,unmapped,,11.63,Bunch,
+Flowermarketplace,Green,2162194,ITALIAN RUSCUS 60/80 CM    LONG 200 gr,2025-04-09,2025-04-18,Italy,unmapped,,15.4,Bunch,
+Flowermarketplace,Green,2162195,ITALIAN RUSCUS 60/80 CM 150 gr,2025-04-09,2025-04-18,Italy,unmapped,,11.63,Bunch,
+Flowermarketplace,Green,2162196,ITALIAN RUSCUS 60/80 CM 250 gr,2025-04-09,2025-04-18,Italy,unmapped,,19.17,Bunch,
+Flowermarketplace,Green,2162198,ITALIAN RUSCUS 60/80cm 10st,2025-04-09,2025-04-18,Italy,unmapped,,16.66,Bunch,
+Flowermarketplace,Dried Flowers,2162238,ITALIAN RUSCUS METAL COPPER 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Dried Flowers,2162236,ITALIAN RUSCUS METAL GOLD 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Dried Flowers,2162239,ITALIAN RUSCUS METAL RED 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Dried Flowers,2162237,ITALIAN RUSCUS METAL SILVER 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Dried Flowers,2162240,ITALIAN RUSCUS SILVER 150 gr,2025-04-09,2025-04-18,Italy,,,15.57,Bunch,
+Flowermarketplace,Green,2162212,IVY green 100cm 10stems bunch 10st,2025-04-09,2025-04-18,Italy,unmapped,,15.57,Bunch,
+Flowermarketplace,Green,2162217,IVY GREEN 150gr,2025-04-09,2025-04-18,Italy,unmapped,,20.43,Bunch,
+Flowermarketplace,Green,2162213,IVY variegated 100cm 10stems bunch 10st,2025-04-09,2025-04-18,Italy,unmapped,,15.57,Bunch,
+Flowermarketplace,Lily,2162049,LA Lily Arbatax,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162035,La Lily Bach,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162029,La Lily Batistero,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162028,LA Lily Beau Soleil,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162033,La Lily Boardwalk,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162026,LA Lily Bourbon Street,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162034,La Lily Brindisi,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162050,LA Lily Brunello,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162048,LA Lily Carmine Diamond,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162047,LA Lily Courier,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162051,LA Lily Dynamix,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162025,LA Lily Ercolano Green,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162046,LA Lily Fangio,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162032,La Lily Indian Diamond,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162045,LA Lily Indian Summerset,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,3b774be4-aa55-4170-86c8-6961197e7d19
+Flowermarketplace,Lily,2162038,LA Lily Kahlua,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162030,LA Lily Mandalay Bay,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162044,LA Lily Menorca,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162042,LA Lily Nova Scotia,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162041,LA Lily Original Love,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162031,LA Lily Pavia,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162040,LA Lily Red Alert,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162039,LA Lily Richmond,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162027,LA Lily Scipione,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162036,LA Lily White Sound,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162037,LA Lliy Serrada,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Larkspur,2161339,LARKSPUR ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,10.0,Bunch,
+Flowermarketplace,Larkspur,2161341,LARKSPUR BLUE,2025-04-09,2025-04-18,Ecuador,unmapped,,13.0,Bunch,8f276eef-43a2-4229-adaf-b30b506afbdb
+Flowermarketplace,Larkspur,2161343,LARKSPUR HOT PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,13.0,Bunch,fd216936-d6d6-4b11-8024-5585c8c78bf7
+Flowermarketplace,Larkspur,2161345,LARKSPUR PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,13.0,Bunch,040a963f-be56-4a95-982d-485ac6cb1c3f
+Flowermarketplace,Larkspur,2161347,LARKSPUR WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,13.75,Bunch,3daa8270-b173-4d38-b29f-2bca8830208f
+Flowermarketplace,Sweet Pea,2229237,LATHYRUS ASSORTED,2025-04-09,2025-04-18,Holland,unmapped,,2.5,Stems,
+Flowermarketplace,Sweet Pea,2211767,LATHYRUS HOT PINK,2025-04-09,2025-04-18,Holland,unmapped,,2.5,Stems,
+Flowermarketplace,Sweet Pea,2211769,LATHYRUS LAVENDER,2025-04-09,2025-04-18,Holland,unmapped,,2.5,Stems,
+Flowermarketplace,Sweet Pea,2211766,LATHYRUS LIGHT PINK,2025-04-09,2025-04-18,Holland,unmapped,,2.5,Stems,
+Flowermarketplace,Sweet Pea,2211768,LATHYRUS PURPLE,2025-04-09,2025-04-18,Holland,unmapped,,2.5,Stems,fd385377-4425-4612-b2ff-ebea4f79a352
+Flowermarketplace,Sweet Pea,2211770,LATHYRUS SALMON,2025-04-09,2025-04-18,Holland,unmapped,,2.5,Stems,
+Flowermarketplace,Sweet Pea,2211765,LATHYRUS WHITE,2025-04-09,2025-04-18,Holland,unmapped,,2.5,Stems,
+Flowermarketplace,Liatris,2161349,LIATRIS PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,11.25,Bunch,1c6da598-12db-430d-b9c3-6b64c7221d78
+Flowermarketplace,Lily,2160848,LILY LA ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,16.25,Bunch,4baf7e06-f898-432e-b19d-33b70eb1214f
+Flowermarketplace,Lily,2160850,LILY LA LIGHT PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,c81473ca-121a-4b7f-b303-09870942635a
+Flowermarketplace,Lily,2160852,LILY LA ORANGE,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,33fdac47-27e0-4f3c-9ac0-9506ca92677f
+Flowermarketplace,Lily,2160854,LILY LA SALMON,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2160856,LILY LA WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2160858,LILY LA YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,955ac9bd-6ecc-4f2d-8d9f-435dc065ce9c
+Flowermarketplace,Lily,2160860,LILY ORIENTAL ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,22.5,Bunch,c51e36f4-13ed-4435-a1b8-e4064139ca42
+Flowermarketplace,Lily,2161253,LILY ORIENTAL FIREBOLT,2025-04-09,2025-04-18,Ecuador,unmapped,,31.25,Bunch,e10487d0-29dc-44d1-80cf-d0af9a8bcc2c
+Flowermarketplace,Lily,2160862,LILY ORIENTAL STARGAZER,2025-04-09,2025-04-18,Ecuador,unmapped,,28.0,Bunch,
+Flowermarketplace,Lily,2160864,LILY ORIENTAL YELLOW CONCADOR,2025-04-09,2025-04-18,Ecuador,unmapped,,28.0,Bunch,fd255bcc-0237-404e-8021-0cc4befb83a9
+Flowermarketplace,Lily,2160866,LILY ORIENTAL ZAMBESI,2025-04-09,2025-04-18,Ecuador,unmapped,,28.0,Bunch,
+Flowermarketplace,Limonium,2161351,LIMONIUM ASSORTED,2025-04-09,2025-04-18,Ecuador,216f9b19-3671-4899-a8f8-acb3d173dabc,,8.38,Bunch,
+Flowermarketplace,Limonium,2161353,LIMONIUM BLUE,2025-04-09,2025-04-18,Ecuador,216f9b19-3671-4899-a8f8-acb3d173dabc,,8.38,Bunch,8d2725c3-573c-4818-a924-4fbbaa575d53
+Flowermarketplace,Limonium,2161355,LIMONIUM PINK,2025-04-09,2025-04-18,Ecuador,216f9b19-3671-4899-a8f8-acb3d173dabc,,8.38,Bunch,3c93a913-9860-4ea4-9ecb-732a9525bdd8
+Flowermarketplace,Limonium,2161255,LIMONIUM PURPLE,2025-04-09,2025-04-18,Ecuador,216f9b19-3671-4899-a8f8-acb3d173dabc,,8.38,Bunch,1cca4b39-31dc-4474-8d84-0fdf0a9e516c
+Flowermarketplace,Limonium,2161357,LIMONIUM WHITE,2025-04-09,2025-04-18,Ecuador,216f9b19-3671-4899-a8f8-acb3d173dabc,,8.38,Bunch,0671eb9d-3278-44f2-80a3-aac75c1a43c6
+Flowermarketplace,Lisianthus,2161359,LISIANTHUS ASSORTED,2025-04-09,2025-04-18,Ecuador,46b13bd5-8507-433d-9446-6728d5cc2e09,,12.5,Bunch,
+Flowermarketplace,Lisianthus,2161361,LISIANTHUS LIGHT PINK,2025-04-09,2025-04-18,Ecuador,46b13bd5-8507-433d-9446-6728d5cc2e09,,16.25,Bunch,008a3cb9-be08-46a7-ba34-6aff49ff15ab
+Flowermarketplace,Lisianthus,2180399,LISIANTHUS WHITE,2025-04-09,2025-04-18,Ecuador,46b13bd5-8507-433d-9446-6728d5cc2e09,,16.25,Bunch,bf509c36-362b-452d-887e-24f0c22e504b
+Flowermarketplace,Veronica,2148558,LYSIMACHIA WHITE,2025-04-09,2025-04-18,Ecuador,d2ea2fc3-6c90-449b-9b0c-c4d9d2400fbc,,1.1,Stems,e4415abd-7e9c-48aa-9a39-aaf0eb88c677
+Flowermarketplace,Orchid,2177224,MOKARA ANNY COOL VIOLET,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,
+Flowermarketplace,Orchid,2177225,MOKARA AOMYAI ORANGE,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,b01255fe-4ae6-4e56-8d48-a1619b0e4b8a
+Flowermarketplace,Orchid,2177226,MOKARA BANGKUNTIEN,2025-04-09,2025-04-18,Thailand,unmapped,,32.5,Bunch,
+Flowermarketplace,Orchid,2177227,MOKARA BEAUTY,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,
+Flowermarketplace,Orchid,2177228,MOKARA BOON RONG,2025-04-09,2025-04-18,Thailand,unmapped,,31.72,Bunch,
+Flowermarketplace,Orchid,2177229,MOKARA CALYPSO,2025-04-09,2025-04-18,Thailand,unmapped,,31.72,Bunch,
+Flowermarketplace,Orchid,2177230,MOKARA CALYPSO JUMBO,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,
+Flowermarketplace,Orchid,2177231,MOKARA CHAOPRAYA GOLD,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,
+Flowermarketplace,Orchid,2177232,MOKARA CHAOPRAYA SUNSET,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,
+Flowermarketplace,Orchid,2177233,MOKARA CHAROOD,2025-04-09,2025-04-18,Thailand,unmapped,,32.76,Bunch,
+Flowermarketplace,Orchid,2177234,MOKARA CHRISTINE,2025-04-09,2025-04-18,Thailand,unmapped,,32.76,Bunch,
+Flowermarketplace,Orchid,2177235,MOKARA CHUB KUAN,2025-04-09,2025-04-18,Thailand,unmapped,,32.76,Bunch,
+Flowermarketplace,Orchid,2177236,MOKARA DOUNG PORN,2025-04-09,2025-04-18,Thailand,unmapped,,32.24,Bunch,
+Flowermarketplace,Orchid,2177237,MOKARA FULL MOON,2025-04-09,2025-04-18,Thailand,unmapped,,35.88,Bunch,
+Flowermarketplace,Orchid,2177238,MOKARA JAIRAK BLUE,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,
+Flowermarketplace,Orchid,2177239,MOKARA KITTY,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,
+Flowermarketplace,Orchid,2177240,MOKARA MOO DAENG,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,
+Flowermarketplace,Orchid,2177241,MOKARA NORA BLUE,2025-04-09,2025-04-18,Thailand,unmapped,,33.02,Bunch,
+Flowermarketplace,Orchid,2177242,MOKARA PANNEE,2025-04-09,2025-04-18,Thailand,unmapped,,31.98,Bunch,
+Flowermarketplace,Orchid,2177243,MOKARA PHALOR YELLOW/ORANGE,2025-04-09,2025-04-18,Thailand,unmapped,,31.98,Bunch,39a38fbb-f9ea-4d04-b933-05eb63097c3b
+Flowermarketplace,Orchid,2177244,MOKARA ROBIN,2025-04-09,2025-04-18,Thailand,unmapped,,32.76,Bunch,
+Flowermarketplace,Orchid,2177245,MOKARA SANYA ORANGE/YELLOW,2025-04-09,2025-04-18,Thailand,unmapped,,31.98,Bunch,
+Flowermarketplace,Orchid,2177247,MOKARA SARAYA GOLD,2025-04-09,2025-04-18,Thailand,unmapped,,32.76,Bunch,
+Flowermarketplace,Orchid,2177246,MOKARA SARAYA RED,2025-04-09,2025-04-18,Thailand,unmapped,,32.76,Bunch,19a9c5ba-6acc-44b8-a90b-6d90b7f59b94
+Flowermarketplace,Orchid,2177248,MOKARA TAMMY YELLOW,2025-04-09,2025-04-18,Thailand,unmapped,,31.98,Bunch,1fc16306-f623-47c3-9255-b7582e7cda46
+Flowermarketplace,Orchid,2177249,MOKARA WHITE,2025-04-09,2025-04-18,Thailand,unmapped,,32.76,Bunch,
+Flowermarketplace,Orchid,2177250,MOKARA YELLOW BANANA,2025-04-09,2025-04-18,Thailand,unmapped,,35.88,Bunch,
+Flowermarketplace,Orchid,2177252,ONCIDIUM,2025-04-09,2025-04-18,Thailand,unmapped,,29.64,Bunch,d8e7d39e-b1a0-4b21-833b-07593c79006a
+Flowermarketplace,Orchid,2177251,ONCIDIUM GOLD STARS,2025-04-09,2025-04-18,Thailand,unmapped,,35.88,Bunch,
+Flowermarketplace,Orchid,2160868,ORCHIDS ARANDA CHRISTINE ORANGE,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160870,ORCHIDS ARANDA MOCARA ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160872,ORCHIDS ARANDA MOCARA RED,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160874,ORCHIDS ARANDA MOCARA SEXY,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160876,ORCHIDS ARANDA MOCARA YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160878,ORCHIDS ARANDA NORA ORANGE,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160880,ORCHIDS ARANDA NORA PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160882,ORCHIDS ARANDA NORA WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160884,ORCHIDS ARANDA PANEE ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160886,ORCHIDS ARANDA PANEE ORANGE,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160888,ORCHIDS ARANTHERA JAMES STORIE,2025-04-09,2025-04-18,Ecuador,unmapped,,38.75,Bunch,
+Flowermarketplace,Orchid,2160890,ORCHIDS CYMBIDIUM ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,42.5,Stems,
+Flowermarketplace,Orchid,2160892,ORCHIDS CYMBIDIUM BROWN,2025-04-09,2025-04-18,Ecuador,unmapped,,42.5,Stems,0ae9e3fa-7282-4066-8e18-b2823e401246
+Flowermarketplace,Orchid,2160894,ORCHIDS CYMBIDIUM GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,42.5,Stems,f978bc80-6452-4d4b-9e17-832d3722bd20
+Flowermarketplace,Orchid,2160896,ORCHIDS CYMBIDIUM ORANGE,2025-04-09,2025-04-18,Ecuador,unmapped,,42.5,Stems,43e0c3c4-5c54-4a8d-b025-d336c88d6822
+Flowermarketplace,Orchid,2160898,ORCHIDS CYMBIDIUM PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,42.5,Stems,3f9450e9-d910-4e6b-aab7-c1c7be136b36
+Flowermarketplace,Orchid,2160900,ORCHIDS CYMBIDIUM RED,2025-04-09,2025-04-18,Ecuador,unmapped,,42.5,Stems,4da4c269-fe26-4e25-82fe-aabf274af006
+Flowermarketplace,Orchid,2160902,ORCHIDS CYMBIDIUM WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,42.5,Stems,8b09379d-1428-4fd2-8347-76be52f14edb
+Flowermarketplace,Orchid,2160904,ORCHIDS CYMBIDIUM YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,42.5,Stems,4266cd64-74da-4cb5-8428-2a8c1d542e42
+Flowermarketplace,Orchid,2160906,ORCHIDS DENDROBIUM ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,25.0,Bunch,
+Flowermarketplace,Orchid,2160908,ORCHIDS DENDROBIUM BOM PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,b483db98-efd8-4cf8-b2e0-474109284b3e
+Flowermarketplace,Orchid,2160910,ORCHIDS DENDROBIUM CANDY STRIPE,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,c4477ff1-4235-4a4d-96e9-f7c080e444fa
+Flowermarketplace,Orchid,2160912,ORCHIDS DENDROBIUM JADE GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,f093ff7b-6aca-440c-ad6b-47a2a18bdab9
+Flowermarketplace,Orchid,2160914,ORCHIDS DENDROBIUM JUREE PEACH,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160916,ORCHIDS DENDROBIUM LADY MALI,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160918,ORCHIDS DENDROBIUM LEIS,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160920,ORCHIDS DENDROBIUM MISS SINGAPORE,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160922,ORCHIDS DENDROBIUM MISS THAILAND,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160924,ORCHIDS DENDROBIUM QUEEN,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160926,ORCHIDS DENDROBIUM RED BULL,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160928,ORCHIDS DENDROBIUM SAKURA,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160930,ORCHIDS DENDROBIUM SONIA DYED BLUE,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160932,ORCHIDS DENDROBIUM SUGAR PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160934,ORCHIDS DENDROBIUM VIOLA PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160936,ORCHIDS DENDROBIUM WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160938,ORCHIDS DENDROBIUM WHITE XXL,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2160940,ORCHIDS DENDROBIUM WINKY,2025-04-09,2025-04-18,Ecuador,unmapped,,33.75,Bunch,
+Flowermarketplace,Orchid,2161363,ORCHIDS ONCIDIUM LARGE,2025-04-09,2025-04-18,Ecuador,unmapped,,32.5,Bunch,
+Flowermarketplace,Orchid,2161371,ORCHIDS PHALAENOPSIS FUCHSIA,2025-04-09,2025-04-18,Ecuador,unmapped,,32.48,Stems,
+Flowermarketplace,Orchid,2161373,ORCHIDS PHALAENOPSIS ORANGE,2025-04-09,2025-04-18,Ecuador,unmapped,,32.48,Stems,
+Flowermarketplace,Orchid,2161375,ORCHIDS PHALAENOPSIS PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,32.48,Stems,5d74d24b-603c-4bea-a471-8dcac605218c
+Flowermarketplace,Orchid,2161377,ORCHIDS PHALAENOPSIS RED,2025-04-09,2025-04-18,Ecuador,unmapped,,32.48,Stems,
+Flowermarketplace,Orchid,2161379,ORCHIDS PHALAENOPSIS WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,32.48,Stems,510c0313-11e6-4815-a04a-feb3aab779e2
+Flowermarketplace,Green,2162231,OREOPANAX Large,2025-04-09,2025-04-18,Italy,unmapped,,1.34,Stems,
+Flowermarketplace,Green,2162232,OREOPANAX Small,2025-04-09,2025-04-18,Italy,unmapped,,1.03,Stems,
+Flowermarketplace,Lily,2162065,Oriental Lily Adisson,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162054,Oriental Lily Cobra,2025-04-09,2025-04-18,Ecuador,unmapped,,21.25,Bunch,
+Flowermarketplace,Lily,2162070,Oriental Lily Concador,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162055,Oriental Lily Crystal Blanca,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162079,Oriental Lily Curie,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162075,Oriental Lily Deep Impact,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162057,Oriental Lily Ice Dreamer,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,8c523fd3-ec0a-469f-9b04-41740c0b654b
+Flowermarketplace,Lily,2162058,Oriental Lily La Mancha,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162056,Oriental Lily Lesotho,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,523b4637-e3ce-4728-89f3-3c99df307450
+Flowermarketplace,Lily,2162074,Oriental Lily Monteneu,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162059,Oriental Lily Nova Zembla,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162060,Oriental Lily Paradero,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,5b8a0fcd-a883-4719-9253-09b0dcb53f22
+Flowermarketplace,Lily,2162067,Oriental Lily Premium Blond,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,0280f441-66ab-469a-a45e-c780c8aa15de
+Flowermarketplace,Lily,2162068,Oriental Lily Rialto,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162077,Oriental Lily Sally,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162061,Oriental Lily Santander,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,4da1dd10-bfa1-490d-826a-355d24a38245
+Flowermarketplace,Lily,2162062,Oriental Lily Serano,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,d69172f4-25b0-40cc-bffc-5171c33e3666
+Flowermarketplace,Lily,2162063,Oriental Lily Sorbonne,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162064,Oriental Lily Starfighter,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,1b6d44bf-5e54-4df7-8586-b8ba170d3001
+Flowermarketplace,Lily,2213225,Oriental Lily Table Dance,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162071,Oriental Lily Universe,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162076,Oriental Lily White Shores,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,ea06fe3d-fe18-447d-bd8b-5c8cd857316f
+Flowermarketplace,Lily,2162078,Oriental Lily White Sky,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,
+Flowermarketplace,Lily,2162069,Oriental Lily Zambesi,2025-04-09,2025-04-18,Ecuador,unmapped,,28.75,Bunch,d620c33d-54fd-4267-a46c-69122a978838
+Flowermarketplace,Dried Flowers,2161365,PAMPAS GRASS JUBATA NATURAL,2025-04-09,2025-04-18,Ecuador,,100,1.23,Stems,
+Flowermarketplace,Dried Flowers,2161367,PAMPAS GRASS JUBATA TINTED MIX,2025-04-09,2025-04-18,Ecuador,,100,1.23,Stems,
+Flowermarketplace,Dried Flowers,2161369,PAMPAS GRASS SELLOANA PAINTED PURPLE,2025-04-09,2025-04-18,Ecuador,,150,3.73,Stems,
+Flowermarketplace,Dried Flowers,2162248,PARVIFOLIA METAL COPPER 150 gr,2025-04-09,2025-04-18,Italy,,,13.06,Bunch,
+Flowermarketplace,Dried Flowers,2162246,PARVIFOLIA METAL GOLD 150 gr,2025-04-09,2025-04-18,Italy,,,13.06,Bunch,
+Flowermarketplace,Dried Flowers,2162249,PARVIFOLIA METAL RED 150 gr,2025-04-09,2025-04-18,Italy,,,13.06,Bunch,
+Flowermarketplace,Dried Flowers,2271679,PARVIFOLIA METAL SILVER 150 GR,2025-04-09,2025-04-18,Italy,,,13.06,Bunch,
+Flowermarketplace,Green,2162199,PITTOSPORUM NIGRA variegated 200 gr,2025-04-09,2025-04-18,Italy,unmapped,,13.2,Bunch,bb8a5ea7-0d38-4fa2-ad1c-cb9b2c83f43b
+Flowermarketplace,Pompon,2160942,POMPON BUTTON ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,3.63,Bunch,
+Flowermarketplace,Pompon,2160944,POMPON BUTTON GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160946,POMPON BUTTON GREEN ATHOS,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160948,POMPON BUTTON LAVENDER,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160950,POMPON BUTTON PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,906cca00-794d-4067-aeef-189eaedefe31
+Flowermarketplace,Pompon,2160952,POMPON BUTTON PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160954,POMPON BUTTON WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160956,POMPON BUTTON YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160958,POMPON CDN ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,3.63,Bunch,
+Flowermarketplace,Pompon,2160960,POMPON CUSHION ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,3.63,Bunch,
+Flowermarketplace,Pompon,2160962,POMPON CUSHION GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160964,POMPON CUSHION LAVENDER,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160966,POMPON CUSHION PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,5ec5c22f-bd2c-4fb9-ad33-72c3df5ddced
+Flowermarketplace,Pompon,2160968,POMPON CUSHION PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,fc8de36f-a9ee-4e0c-9c22-08e67303923f
+Flowermarketplace,Pompon,2160970,POMPON CUSHION RED,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160972,POMPON CUSHION WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,4a468a7b-8b6b-4a65-b2c4-a8f22ce15b52
+Flowermarketplace,Pompon,2160974,POMPON CUSHION YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,dacfaf30-8364-4942-9bee-aa86f000dd8a
+Flowermarketplace,Pompon,2160976,POMPON CUSHION ZEMBLA GREEN,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,0d5d861b-b87b-4363-838e-2e8e8b37999e
+Flowermarketplace,Pompon,2160978,POMPON DAISY ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,3.63,Bunch,8ade6171-ee2e-4f05-99a6-eb41b364051a
+Flowermarketplace,Pompon,2160980,POMPON DAISY ATLANTIS WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,40666288-9c1b-4abf-9c57-0004c80f7ec3
+Flowermarketplace,Pompon,2160982,POMPON DAISY CREAM YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160984,POMPON DAISY HANDSOME PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160986,POMPON DAISY LAVENDER,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160988,POMPON DAISY ORINOCO PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160990,POMPON DAISY PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,e9d56635-b43e-47f2-9a7f-a13335aa2454
+Flowermarketplace,Pompon,2160992,POMPON DAISY PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,0ca388df-72aa-409c-b9b8-2020f78900e3
+Flowermarketplace,Pompon,2160994,POMPON DAISY REAGAN,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160996,POMPON DAISY TINTED ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,
+Flowermarketplace,Pompon,2160998,POMPON DAISY VIKING YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,e3dd5be7-cc36-4c77-8c6d-7861c1091d70
+Flowermarketplace,Pompon,2161000,POMPON DAISY WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,9c59da91-24f4-492e-baac-7640003c3e1b
+Flowermarketplace,Pompon,2161002,POMPON DAISY YELLOW,2025-04-09,2025-04-18,Ecuador,unmapped,,4.88,Bunch,26a4abc6-e9fb-4123-947e-f7ba8d3a30f8
+Flowermarketplace,Pompon,2161139,POMPON MICRO POM ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,5.05,Bunch,1d461d9d-5663-4525-a0fd-ccb10ab85fc8
+Flowermarketplace,Pompon,2161141,POMPON MICRO POM PURPLE,2025-04-09,2025-04-18,Ecuador,unmapped,,5.05,Bunch,89c0d580-8cec-47df-aac5-f6ebdbc6d58c
+Flowermarketplace,Pompon,2161143,POMPON MICRO POM WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,5.05,Bunch,21b3b64e-e2f2-4f88-b1cc-f75b00ab956c
+Flowermarketplace,Dried Flowers,2271683,POPULUS ALL METAL 150 GR,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2271681,POPULUS METAL COPPER 150 GR,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2162250,POPULUS METAL GOLD 150 gr,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2271682,POPULUS METAL RED 150 GR,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2271680,POPULUS METAL SILVER 150 GR,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Protea Pin Cushion,2161129,PROTEA PINCUSHION ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,35,4.23,Stems,e0daa57d-25f0-4372-93c9-c050623a4555
+Flowermarketplace,Protea Pin Cushion,2161131,PROTEA PINCUSHION HIGH GOLD,2025-04-09,2025-04-18,Ecuador,unmapped,35,4.23,Stems,74bb3db9-a4d7-44cf-b328-d20f59c0139c
+Flowermarketplace,Protea Pin Cushion,2161133,PROTEA PINCUSHION NEENA,2025-04-09,2025-04-18,Ecuador,unmapped,40,4.23,Stems,0848dd9c-17d2-4b6f-88f6-16e3cfedce6f
+Flowermarketplace,Protea Pin Cushion,2161135,PROTEA PINCUSHION SOLEIL,2025-04-09,2025-04-18,Ecuador,unmapped,50,4.23,Stems,8d272f1d-cdc6-4710-8e01-afc4ad058a50
+Flowermarketplace,Protea Pin Cushion,2161137,PROTEA PINCUSHION SPIDER,2025-04-09,2025-04-18,Ecuador,unmapped,40,4.23,Stems,8590825f-432f-474a-b786-4e3e9e039b27
+Flowermarketplace,Ranunculus,2161145,RANUNCULUS AAZUR ORANGE,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,a5584e7d-10a9-41fb-9dc9-5a1e51371704
+Flowermarketplace,Ranunculus,2161147,RANUNCULUS AAZUR RED BARON,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,b15ec624-8d56-4f91-b58e-87d910846914
+Flowermarketplace,Ranunculus,2161149,RANUNCULUS AAZUR SALMON,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,4b39964a-ceb1-4b7d-bbf5-4b171495a2fc
+Flowermarketplace,Ranunculus,2161151,RANUNCULUS AAZUR WHITE,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,
+Flowermarketplace,Ranunculus,2161153,RANUNCULUS ASSORTED,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,17.5,Bunch,a70a033e-a2fb-4ce7-bc43-09bd3c3c049b
+Flowermarketplace,Ranunculus,2161155,RANUNCULUS HOT PINK,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,
+Flowermarketplace,Ranunculus,2161157,RANUNCULUS LIGHT PINK,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,8dec5f0d-1ec9-4914-a540-0335e5c6933c
+Flowermarketplace,Ranunculus,2161159,RANUNCULUS PINK,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,4fa9d5fb-da93-48f8-840b-9810033c012a
+Flowermarketplace,Ranunculus,2161163,RANUNCULUS PURPLE,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,b0bd8bc7-97ce-4a47-b5df-d7ff424c815a
+Flowermarketplace,Ranunculus,2161161,RANUNCULUS WHITE,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,6645f7ea-f916-4d1e-8cd5-f9b6ed643e1c
+Flowermarketplace,Ranunculus,2161165,RANUNCULUS YELLOW,2025-04-09,2025-04-18,Ecuador,f804a637-35a9-4e33-bdc3-271e6adc9ab5,,22.48,Bunch,b1c762b1-d594-4780-913e-093638a7ef23
+Flowermarketplace,Rose,2158135,ROSE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,40,1.0,Stems,c4cff4dd-9e1b-4d8d-b213-9f9cd71bc4dd
+Flowermarketplace,Rose,2158137,ROSE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.13,Stems,c4cff4dd-9e1b-4d8d-b213-9f9cd71bc4dd
+Flowermarketplace,Rose,2158139,ROSE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.25,Stems,c4cff4dd-9e1b-4d8d-b213-9f9cd71bc4dd
+Flowermarketplace,Rose,2158141,ROSE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.38,Stems,c4cff4dd-9e1b-4d8d-b213-9f9cd71bc4dd
+Flowermarketplace,Rose,2194380,ROSE CAPPUCCINO TINTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,2.0,Stems,9b3b3b44-682c-4e97-90bf-6d2214acbba4
+Flowermarketplace,Rose,2180537,ROSE MONDIAL DYED BLACK,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.75,Stems,167fe567-78f4-4b55-aeb2-d53e95aafd7b
+Flowermarketplace,Rose,2180535,ROSE MONDIAL DYED BLUE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.75,Stems,
+Flowermarketplace,Rose,2171971,ROSE PHOENIX PEACH,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,b6eb66ea-0436-412f-a3c4-3a3933af8390
+Flowermarketplace,Rose,2171972,ROSE PHOENIX PEACH,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,b6eb66ea-0436-412f-a3c4-3a3933af8390
+Flowermarketplace,Rose,2171973,ROSE PHOENIX PEACH,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,b6eb66ea-0436-412f-a3c4-3a3933af8390
+Flowermarketplace,Rose,2177017,ROSE RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,120,3.38,Stems,
+Flowermarketplace,Rose,2211383,ROSE RED PANTHER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,2.18,Stems,
+Flowermarketplace,Rose,2211384,ROSE RED PANTHER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,2.44,Stems,
+Flowermarketplace,Rose,2194383,ROSE TERRACOTA BROWN TINTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,2.0,Stems,f596e030-1c68-4a07-8cd1-414bcbbf7f41
+Flowermarketplace,Rose,2194379,ROSE TOFFEE TINTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,2.0,Stems,d7d0dc87-3c60-460a-91ff-d82fda6ca828
+Flowermarketplace,Rose,2162702,ROSE VINTAGE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,4dc42fc8-8da5-4378-90dc-1974eb2d059d
+Flowermarketplace,Rose,2157807,ROSES ALBA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,ec9f8631-2bf7-4f2b-badd-d7a9b35fb6ea
+Flowermarketplace,Rose,2157809,ROSES ALBA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,ec9f8631-2bf7-4f2b-badd-d7a9b35fb6ea
+Flowermarketplace,Rose,2157811,ROSES AMNESIA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,c7aedaca-dac0-48fc-ad08-9945e33cbb7b
+Flowermarketplace,Rose,2157813,ROSES AMNESIA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,c7aedaca-dac0-48fc-ad08-9945e33cbb7b
+Flowermarketplace,Rose,2157815,ROSES AMSTERDAM,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,627b12e6-a245-481d-89e5-4c3d66e9849b
+Flowermarketplace,Rose,2157817,ROSES AMSTERDAM,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.38,Stems,627b12e6-a245-481d-89e5-4c3d66e9849b
+Flowermarketplace,Rose,2157821,ROSES ATOMICA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,b63afff4-5d7d-4578-a213-2c7bc6c1f566
+Flowermarketplace,Rose,2157823,ROSES ATOMICA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,b63afff4-5d7d-4578-a213-2c7bc6c1f566
+Flowermarketplace,Rose,2157725,ROSES BICOLOR PINK ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,e571be69-18ac-41fb-ab74-d00edaadd4e0
+Flowermarketplace,Rose,2157727,ROSES BICOLOR PINK ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,e571be69-18ac-41fb-ab74-d00edaadd4e0
+Flowermarketplace,Rose,2157729,ROSES BICOLOR PINK ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,e571be69-18ac-41fb-ab74-d00edaadd4e0
+Flowermarketplace,Rose,2157731,ROSES BICOLOR YELLOW ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,
+Flowermarketplace,Rose,2157733,ROSES BICOLOR YELLOW ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,
+Flowermarketplace,Rose,2157735,ROSES BICOLOR YELLOW ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,
+Flowermarketplace,Rose,2157825,ROSES BLACK MAGIC,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,91e45cb3-ed92-45dd-8031-39eebd5b0669
+Flowermarketplace,Rose,2157827,ROSES BLACK MAGIC,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.38,Stems,91e45cb3-ed92-45dd-8031-39eebd5b0669
+Flowermarketplace,Rose,2157829,ROSES BLACK MAGIC,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.5,Stems,91e45cb3-ed92-45dd-8031-39eebd5b0669
+Flowermarketplace,Rose,2157831,ROSES BLUEBERRY,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,a395d780-0678-4c0d-8813-290e161ffb3d
+Flowermarketplace,Rose,2157833,ROSES BLUEZ,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,13b0f1c3-d5c7-4900-bb2b-1bb2a30c5d8d
+Flowermarketplace,Rose,2157835,ROSES BLUEZ,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,13b0f1c3-d5c7-4900-bb2b-1bb2a30c5d8d
+Flowermarketplace,Rose,2157837,ROSES BRIGHTON,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,6cf94d7e-0d53-4cf4-b734-d3909bda388d
+Flowermarketplace,Rose,2157839,ROSES BRIGHTON,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,6cf94d7e-0d53-4cf4-b734-d3909bda388d
+Flowermarketplace,Rose,2157841,ROSES BRIGHTON,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,6cf94d7e-0d53-4cf4-b734-d3909bda388d
+Flowermarketplace,Rose,2157843,ROSES CABARET,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,2c6f8943-46db-4cac-b03c-538975fbafa4
+Flowermarketplace,Rose,2157845,ROSES CABARET,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,2c6f8943-46db-4cac-b03c-538975fbafa4
+Flowermarketplace,Rose,2157847,ROSES CABARET,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,2c6f8943-46db-4cac-b03c-538975fbafa4
+Flowermarketplace,Rose,2157737,ROSES COLOR ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.25,Stems,dc65e942-d897-4d07-b550-ca129e12280d
+Flowermarketplace,Rose,2157739,ROSES COLOR ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.5,Stems,dc65e942-d897-4d07-b550-ca129e12280d
+Flowermarketplace,Rose,2157849,ROSES COOLWATER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,13dc59bb-fe49-454f-bf15-40c0655ef9ce
+Flowermarketplace,Rose,2157851,ROSES COOLWATER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,13dc59bb-fe49-454f-bf15-40c0655ef9ce
+Flowermarketplace,Rose,2157853,ROSES COOLWATER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,13dc59bb-fe49-454f-bf15-40c0655ef9ce
+Flowermarketplace,Rose,2157855,ROSES CORAL REEF,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,0b5aee06-c8d2-46a2-b8b0-875117cedb39
+Flowermarketplace,Rose,2157857,ROSES CORAL REEF,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,0b5aee06-c8d2-46a2-b8b0-875117cedb39
+Flowermarketplace,Rose,2157741,ROSES CREAM ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,
+Flowermarketplace,Rose,2157743,ROSES CREAM ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.38,Stems,
+Flowermarketplace,Rose,2157745,ROSES CREAM ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.5,Stems,
+Flowermarketplace,Rose,2157747,ROSES DARK RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,c567493c-758b-4937-bb2b-cc578a147f2a
+Flowermarketplace,Rose,2157749,ROSES DARK RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,c567493c-758b-4937-bb2b-cc578a147f2a
+Flowermarketplace,Rose,2157751,ROSES DARK RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,c567493c-758b-4937-bb2b-cc578a147f2a
+Flowermarketplace,Rose,2157859,ROSES DEEP PURPLE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,84b77150-11ac-4312-865f-b5c6e8870fe4
+Flowermarketplace,Rose,2157861,ROSES DEEP PURPLE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,84b77150-11ac-4312-865f-b5c6e8870fe4
+Flowermarketplace,Rose,2157863,ROSES DEEP PURPLE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,84b77150-11ac-4312-865f-b5c6e8870fe4
+Flowermarketplace,Rose,2157865,ROSES ENGAGEMENT,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,ae53b478-18f4-40d4-9601-80373ecd38c1
+Flowermarketplace,Rose,2157867,ROSES ENGAGEMENT,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.5,Stems,ae53b478-18f4-40d4-9601-80373ecd38c1
+Flowermarketplace,Rose,2157869,ROSES ESPERANCE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,8ac54afc-844a-4fd6-bf75-9b9c38ca6cff
+Flowermarketplace,Rose,2157871,ROSES ESPERANCE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,8ac54afc-844a-4fd6-bf75-9b9c38ca6cff
+Flowermarketplace,Rose,2157873,ROSES ESPERANCE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,8ac54afc-844a-4fd6-bf75-9b9c38ca6cff
+Flowermarketplace,Rose,2157875,ROSES EXPLORER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,41a167bd-bf87-4f11-8afa-1c9cbb3a3cca
+Flowermarketplace,Rose,2157877,ROSES EXPLORER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,41a167bd-bf87-4f11-8afa-1c9cbb3a3cca
+Flowermarketplace,Rose,2157879,ROSES EXPLORER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,41a167bd-bf87-4f11-8afa-1c9cbb3a3cca
+Flowermarketplace,Rose,2157881,ROSES FIESTA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,97ea8320-2b0a-4a57-aab9-2ad5ed9843d1
+Flowermarketplace,Rose,2157883,ROSES FIESTA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,97ea8320-2b0a-4a57-aab9-2ad5ed9843d1
+Flowermarketplace,Rose,2157885,ROSES FIRST LADY,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,
+Flowermarketplace,Rose,2157893,ROSES FREE SPIRIT,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,40,1.25,Stems,d24a19f4-a094-4319-8be4-e711959f72db
+Flowermarketplace,Rose,2157895,ROSES FREE SPIRIT,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,d24a19f4-a094-4319-8be4-e711959f72db
+Flowermarketplace,Rose,2157887,ROSES FREEDOM,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,bb8c5298-179b-4c2b-a57a-de0b14efa71b
+Flowermarketplace,Rose,2157889,ROSES FREEDOM,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.38,Stems,bb8c5298-179b-4c2b-a57a-de0b14efa71b
+Flowermarketplace,Rose,2157891,ROSES FREEDOM,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.5,Stems,bb8c5298-179b-4c2b-a57a-de0b14efa71b
+Flowermarketplace,Rose,2157897,ROSES FRUTTETO,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,b2f39708-7d43-46d7-a629-61acd112de34
+Flowermarketplace,Rose,2157899,ROSES FRUTTETO,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,b2f39708-7d43-46d7-a629-61acd112de34
+Flowermarketplace,Rose,2157901,ROSES GARDEN SPIRIT,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,ff23babb-67ec-438c-a48e-480d8fd4f44b
+Flowermarketplace,Rose,2157903,ROSES GARDEN SPIRIT,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,ff23babb-67ec-438c-a48e-480d8fd4f44b
+Flowermarketplace,Rose,2157905,ROSES GERALDINE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,d5808360-30ad-497d-9972-ed11b9fc1186
+Flowermarketplace,Rose,2157907,ROSES GERALDINE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,d5808360-30ad-497d-9972-ed11b9fc1186
+Flowermarketplace,Rose,2157909,ROSES GOTCHA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,82f5490a-e106-43c3-87c1-33b0b166e171
+Flowermarketplace,Rose,2157911,ROSES GOTCHA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,82f5490a-e106-43c3-87c1-33b0b166e171
+Flowermarketplace,Rose,2157753,ROSES GREEN ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,218ecc71-18b0-4322-bb49-9ccb63f38dfd
+Flowermarketplace,Rose,2157755,ROSES GREEN ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,218ecc71-18b0-4322-bb49-9ccb63f38dfd
+Flowermarketplace,Rose,2157757,ROSES GREEN ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,218ecc71-18b0-4322-bb49-9ccb63f38dfd
+Flowermarketplace,Rose,2157913,ROSES GREY KNIGHTS,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,23e03356-ca36-410e-b955-42c92c8d2ba0
+Flowermarketplace,Rose,2157915,ROSES GREY KNIGHTS,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,23e03356-ca36-410e-b955-42c92c8d2ba0
+Flowermarketplace,Rose,2157917,ROSES HEARTS,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,7ad39ced-5c06-492d-9e1e-059bd39c622f
+Flowermarketplace,Rose,2157919,ROSES HEARTS,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,7ad39ced-5c06-492d-9e1e-059bd39c622f
+Flowermarketplace,Rose,2157921,ROSES HERMOSA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,b38833fc-ce8d-491b-8706-d06b7b06ed45
+Flowermarketplace,Rose,2157923,ROSES HERMOSA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,b38833fc-ce8d-491b-8706-d06b7b06ed45
+Flowermarketplace,Rose,2157925,ROSES HERMOSA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,b38833fc-ce8d-491b-8706-d06b7b06ed45
+Flowermarketplace,Rose,2157927,ROSES HIGH MAGIC,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,3d79707e-8248-40c3-b2c6-468ee560e909
+Flowermarketplace,Rose,2157929,ROSES HIGH MAGIC,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.38,Stems,3d79707e-8248-40c3-b2c6-468ee560e909
+Flowermarketplace,Rose,2157931,ROSES HIGH MAGIC,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.5,Stems,3d79707e-8248-40c3-b2c6-468ee560e909
+Flowermarketplace,Rose,2157933,ROSES HIGH YELLOW,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,40,1.25,Stems,dc7d08f2-2f09-4a9a-925d-aa0a405e994c
+Flowermarketplace,Rose,2157935,ROSES HIGH YELLOW,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,dc7d08f2-2f09-4a9a-925d-aa0a405e994c
+Flowermarketplace,Rose,2157937,ROSES HIGH YELLOW,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,dc7d08f2-2f09-4a9a-925d-aa0a405e994c
+Flowermarketplace,Rose,2157939,ROSES HIGH YELLOW,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,dc7d08f2-2f09-4a9a-925d-aa0a405e994c
+Flowermarketplace,Rose,2157941,ROSES HOT EXPLORER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,413482fe-8346-4bb3-96fe-3c039d24e137
+Flowermarketplace,Rose,2157943,ROSES HOT EXPLORER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,413482fe-8346-4bb3-96fe-3c039d24e137
+Flowermarketplace,Rose,2157945,ROSES HOT EXPLORER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,413482fe-8346-4bb3-96fe-3c039d24e137
+Flowermarketplace,Rose,2157759,ROSES HOT PINK ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,16488f7e-4206-4899-a4b5-1b771827db06
+Flowermarketplace,Rose,2157761,ROSES HOT PINK ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.38,Stems,16488f7e-4206-4899-a4b5-1b771827db06
+Flowermarketplace,Rose,2157763,ROSES HOT PINK ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.5,Stems,16488f7e-4206-4899-a4b5-1b771827db06
+Flowermarketplace,Rose,2157949,ROSES KAHALA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,f778feaf-4a0b-46bb-b961-b067946bcdb8
+Flowermarketplace,Rose,2157951,ROSES KAHALA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,f778feaf-4a0b-46bb-b961-b067946bcdb8
+Flowermarketplace,Rose,2157765,ROSES LAVENDER ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,0a54c97a-db7c-472a-9654-828d3c8e7a1b
+Flowermarketplace,Rose,2157767,ROSES LAVENDER ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,0a54c97a-db7c-472a-9654-828d3c8e7a1b
+Flowermarketplace,Rose,2157769,ROSES LAVENDER ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,0a54c97a-db7c-472a-9654-828d3c8e7a1b
+Flowermarketplace,Rose,2157953,ROSES LEMONADE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,2baa4433-e80d-426e-b5ca-a724403af683
+Flowermarketplace,Rose,2157955,ROSES LEMONADE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,2baa4433-e80d-426e-b5ca-a724403af683
+Flowermarketplace,Rose,2157957,ROSES LIGHT HOUSE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,d9443062-f397-4401-8224-8ace29c8ff43
+Flowermarketplace,Rose,2157959,ROSES LIGHT HOUSE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,d9443062-f397-4401-8224-8ace29c8ff43
+Flowermarketplace,Rose,2157961,ROSES LIGHT HOUSE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,d9443062-f397-4401-8224-8ace29c8ff43
+Flowermarketplace,Rose,2157771,ROSES LIGHT PINK ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,f14ad1b7-ce4b-457f-9f39-5ef3302382f6
+Flowermarketplace,Rose,2157773,ROSES LIGHT PINK ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,f14ad1b7-ce4b-457f-9f39-5ef3302382f6
+Flowermarketplace,Rose,2157775,ROSES LIGHT PINK ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,f14ad1b7-ce4b-457f-9f39-5ef3302382f6
+Flowermarketplace,Rose,2157963,ROSES LOLA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,74b99700-190f-4604-9790-6fc28ab478c0
+Flowermarketplace,Rose,2157965,ROSES LOLA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,74b99700-190f-4604-9790-6fc28ab478c0
+Flowermarketplace,Rose,2157967,ROSES LORRAINE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,f194a18a-2329-407d-9f22-ff14d6646a9a
+Flowermarketplace,Rose,2157969,ROSES LORRAINE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,f194a18a-2329-407d-9f22-ff14d6646a9a
+Flowermarketplace,Rose,2157971,ROSES LORRAINE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,f194a18a-2329-407d-9f22-ff14d6646a9a
+Flowermarketplace,Rose,2157973,ROSES LUCIANO,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,2914bb57-34d9-4d5b-8846-b4ba1582ed40
+Flowermarketplace,Rose,2157975,ROSES LUCIANO,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,2914bb57-34d9-4d5b-8846-b4ba1582ed40
+Flowermarketplace,Rose,2157977,ROSES LUCIANO,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,2914bb57-34d9-4d5b-8846-b4ba1582ed40
+Flowermarketplace,Rose,2157985,ROSES MAGGI,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,
+Flowermarketplace,Rose,2157987,ROSES MAGGI,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,
+Flowermarketplace,Rose,2157989,ROSES MAGGI,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,
+Flowermarketplace,Rose,2157979,ROSES MAGIC TIMES,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,8018552c-3f27-49ac-abac-6cf4f9ed3926
+Flowermarketplace,Rose,2157981,ROSES MAGIC TIMES,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,8018552c-3f27-49ac-abac-6cf4f9ed3926
+Flowermarketplace,Rose,2157983,ROSES MATILDA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,24a74264-b04e-41d9-8e33-55adfd80271a
+Flowermarketplace,Rose,2157991,ROSES MONDIAL,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,40,1.25,Stems,efe6352a-651c-4f0b-b4c1-3033d25ec988
+Flowermarketplace,Rose,2157993,ROSES MONDIAL,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,efe6352a-651c-4f0b-b4c1-3033d25ec988
+Flowermarketplace,Rose,2157995,ROSES MONDIAL,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,efe6352a-651c-4f0b-b4c1-3033d25ec988
+Flowermarketplace,Rose,2157997,ROSES MONDIAL,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,efe6352a-651c-4f0b-b4c1-3033d25ec988
+Flowermarketplace,Rose,2158001,ROSES MONDIAL DYED BLACK,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,2.0,Stems,547fb017-41f1-4495-b0f5-c87aed848fc2
+Flowermarketplace,Rose,2157999,ROSES MONDIAL DYED BLUE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,2.0,Stems,1cf939cc-7ecf-41d1-8030-6c7bef5af2c0
+Flowermarketplace,Rose,2158003,ROSES MONDIAL DYED PURPLE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.75,Stems,
+Flowermarketplace,Rose,2158005,ROSES MONDIAL DYED PURPLE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,2.0,Stems,
+Flowermarketplace,Rose,2158007,ROSES MONDIAL RAINBOW DYED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,2.0,Stems,2423893a-b468-4b6d-9d62-ea0d4e065064
+Flowermarketplace,Rose,2158009,ROSES MONDIAL RAINBOW DYED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,2.25,Stems,2423893a-b468-4b6d-9d62-ea0d4e065064
+Flowermarketplace,Rose,2158013,ROSES MOODY BLUES,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,e865e5d2-b621-4c0d-9bf3-274e831a2c2e
+Flowermarketplace,Rose,2158015,ROSES MOODY BLUES,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,e865e5d2-b621-4c0d-9bf3-274e831a2c2e
+Flowermarketplace,Rose,2158017,ROSES MOODY BLUES,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,e865e5d2-b621-4c0d-9bf3-274e831a2c2e
+Flowermarketplace,Rose,2158019,ROSES MOONSTONE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,5a2208c0-94b1-453b-8c8a-ea07c07f28f0
+Flowermarketplace,Rose,2158021,ROSES MOONSTONE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,5a2208c0-94b1-453b-8c8a-ea07c07f28f0
+Flowermarketplace,Rose,2158011,ROSES MOONSTONE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,5a2208c0-94b1-453b-8c8a-ea07c07f28f0
+Flowermarketplace,Rose,2158025,ROSES MOTHER OF PEARL,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,c7115ff9-51a8-4896-b691-56fcf3e2e55d
+Flowermarketplace,Rose,2158023,ROSES MOTHER OF PEARL,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,c7115ff9-51a8-4896-b691-56fcf3e2e55d
+Flowermarketplace,Rose,2158027,ROSES MOTHER OF PEARL,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,c7115ff9-51a8-4896-b691-56fcf3e2e55d
+Flowermarketplace,Rose,2158029,ROSES MOVIE STAR,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,ffcda1d9-1a65-48d9-938a-c48a7b62dc7a
+Flowermarketplace,Rose,2158031,ROSES MOVIE STAR,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,ffcda1d9-1a65-48d9-938a-c48a7b62dc7a
+Flowermarketplace,Rose,2158033,ROSES NENA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,99b66806-4e0f-4655-a78f-ecf47b8c8ea9
+Flowermarketplace,Rose,2158035,ROSES NENA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,99b66806-4e0f-4655-a78f-ecf47b8c8ea9
+Flowermarketplace,Rose,2158037,ROSES NINA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,f5e624fd-f516-49c2-9ea7-b6f14f2a731d
+Flowermarketplace,Rose,2158039,ROSES NINA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,f5e624fd-f516-49c2-9ea7-b6f14f2a731d
+Flowermarketplace,Rose,2158041,ROSES NINA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,f5e624fd-f516-49c2-9ea7-b6f14f2a731d
+Flowermarketplace,Rose,2158043,ROSES NOVIA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,4b5c6979-e7a7-42b7-860b-c5b49e5314de
+Flowermarketplace,Rose,2158045,ROSES NOVIA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,4b5c6979-e7a7-42b7-860b-c5b49e5314de
+Flowermarketplace,Rose,2158047,ROSES NOVIA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,4b5c6979-e7a7-42b7-860b-c5b49e5314de
+Flowermarketplace,Rose,2158049,ROSES OPALA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,602c24cc-486e-4a69-bc82-b5599de0423d
+Flowermarketplace,Rose,2157777,ROSES ORANGE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,64bec08c-0a46-4da1-8492-5a0cb90ecc98
+Flowermarketplace,Rose,2157779,ROSES ORANGE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.38,Stems,64bec08c-0a46-4da1-8492-5a0cb90ecc98
+Flowermarketplace,Rose,2157781,ROSES ORANGE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,64bec08c-0a46-4da1-8492-5a0cb90ecc98
+Flowermarketplace,Rose,2158051,ROSES ORANGE CRUSH,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,c55d52c9-04eb-47c3-a945-d4ac99042f4e
+Flowermarketplace,Rose,2158053,ROSES ORANGE CRUSH,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,c55d52c9-04eb-47c3-a945-d4ac99042f4e
+Flowermarketplace,Rose,2158055,ROSES ORANGE UNIQUE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,8e6c70d4-794c-40fb-8785-b5eff86a738e
+Flowermarketplace,Rose,2158057,ROSES PALOMA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,ed9472da-9aa2-4d66-afe3-db8ff659b0c7
+Flowermarketplace,Rose,2158059,ROSES PALOMA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,ed9472da-9aa2-4d66-afe3-db8ff659b0c7
+Flowermarketplace,Rose,2158061,ROSES PALOMA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,ed9472da-9aa2-4d66-afe3-db8ff659b0c7
+Flowermarketplace,Rose,2158063,ROSES PARMIDA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,
+Flowermarketplace,Rose,2158065,ROSES PARMIDA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.63,Stems,
+Flowermarketplace,Rose,2158067,ROSES PARMIDA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,
+Flowermarketplace,Rose,2157783,ROSES PEACH ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,aa2b80ee-eb35-4e1a-9bfc-3afb90d0b012
+Flowermarketplace,Rose,2157785,ROSES PEACH ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,aa2b80ee-eb35-4e1a-9bfc-3afb90d0b012
+Flowermarketplace,Rose,2157787,ROSES PEACH ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,aa2b80ee-eb35-4e1a-9bfc-3afb90d0b012
+Flowermarketplace,Rose,2158069,ROSES PIACERE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,d92a0b50-3d75-4bcf-96fc-08290a6b6674
+Flowermarketplace,Rose,2158071,ROSES PIACERE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,d92a0b50-3d75-4bcf-96fc-08290a6b6674
+Flowermarketplace,Rose,2158073,ROSES PIACERE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,d92a0b50-3d75-4bcf-96fc-08290a6b6674
+Flowermarketplace,Rose,2158075,ROSES PINK FLOYD,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,c5de60f2-0625-423b-81c6-ca5abf7b9295
+Flowermarketplace,Rose,2158077,ROSES PINK FLOYD,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,c5de60f2-0625-423b-81c6-ca5abf7b9295
+Flowermarketplace,Rose,2158079,ROSES PINK FLOYD,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,c5de60f2-0625-423b-81c6-ca5abf7b9295
+Flowermarketplace,Rose,2158081,ROSES PINK MONDIAL,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,452eeb34-2851-4dd6-82ae-a37402468c65
+Flowermarketplace,Rose,2158083,ROSES PINK MONDIAL,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,452eeb34-2851-4dd6-82ae-a37402468c65
+Flowermarketplace,Rose,2158085,ROSES PLAYA BLANCA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,3276d79d-695d-4f45-87c4-d53166e34ef3
+Flowermarketplace,Rose,2158087,ROSES PLAYA BLANCA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,3276d79d-695d-4f45-87c4-d53166e34ef3
+Flowermarketplace,Rose,2158089,ROSES PLAYA BLANCA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.75,Stems,3276d79d-695d-4f45-87c4-d53166e34ef3
+Flowermarketplace,Rose,2158091,ROSES POMAROSA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,
+Flowermarketplace,Rose,2158093,ROSES POMAROSA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,
+Flowermarketplace,Rose,2158095,ROSES POMAROSA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,
+Flowermarketplace,Rose,2158097,ROSES POMPEII,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,17d1b346-a167-4252-b937-fbb16b9d0ddd
+Flowermarketplace,Rose,2158099,ROSES POMPEII,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,17d1b346-a167-4252-b937-fbb16b9d0ddd
+Flowermarketplace,Rose,2158101,ROSES PROUD,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,3d09da30-61c4-45f5-a4a8-34b938dfedcd
+Flowermarketplace,Rose,2158103,ROSES PROUD,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,3d09da30-61c4-45f5-a4a8-34b938dfedcd
+Flowermarketplace,Rose,2158105,ROSES PROUD,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,3d09da30-61c4-45f5-a4a8-34b938dfedcd
+Flowermarketplace,Rose,2158107,ROSES QUEENBERRY,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,38da837a-b9b8-4ddb-a956-8dd1416f84b5
+Flowermarketplace,Rose,2158109,ROSES QUEENBERRY,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,38da837a-b9b8-4ddb-a956-8dd1416f84b5
+Flowermarketplace,Rose,2158111,ROSES QUICKSAND,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,
+Flowermarketplace,Rose,2158113,ROSES QUICKSAND,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,
+Flowermarketplace,Rose,2158115,ROSES QUICKSAND,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,
+Flowermarketplace,Rose,2157789,ROSES RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,d5cffdd4-35fc-4059-9050-7b60329cb7a6
+Flowermarketplace,Rose,2158117,ROSES RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,d5cffdd4-35fc-4059-9050-7b60329cb7a6
+Flowermarketplace,Rose,2157791,ROSES RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,d5cffdd4-35fc-4059-9050-7b60329cb7a6
+Flowermarketplace,Rose,2158123,ROSES RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.38,Stems,d5cffdd4-35fc-4059-9050-7b60329cb7a6
+Flowermarketplace,Rose,2157793,ROSES RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,d5cffdd4-35fc-4059-9050-7b60329cb7a6
+Flowermarketplace,Rose,2158133,ROSES RED ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.5,Stems,d5cffdd4-35fc-4059-9050-7b60329cb7a6
+Flowermarketplace,Rose,2158151,ROSES SALMA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.25,Stems,f29d2388-d0e1-49b7-9471-e66ba45d8770
+Flowermarketplace,Rose,2158153,ROSES SECRET GARDEN,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,e673d850-a421-4b5a-b831-af62a32b1d07
+Flowermarketplace,Rose,2158155,ROSES SENORITA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,039f0186-7cbf-443d-b903-d354ad62f7c6
+Flowermarketplace,Rose,2158157,ROSES SENORITA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,039f0186-7cbf-443d-b903-d354ad62f7c6
+Flowermarketplace,Rose,2158159,ROSES SENORITA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,039f0186-7cbf-443d-b903-d354ad62f7c6
+Flowermarketplace,Rose,2158161,ROSES SHIMMER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,30f161ca-f066-4432-8b5e-b0f24e4a36e5
+Flowermarketplace,Rose,2158163,ROSES SHIMMER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,30f161ca-f066-4432-8b5e-b0f24e4a36e5
+Flowermarketplace,Rose,2158165,ROSES SHIMMER,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,30f161ca-f066-4432-8b5e-b0f24e4a36e5
+Flowermarketplace,Rose,2158173,ROSES STARDUST,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,18eb2af1-e3ee-478a-91eb-01923528a330
+Flowermarketplace,Rose,2158175,ROSES STARDUST,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,18eb2af1-e3ee-478a-91eb-01923528a330
+Flowermarketplace,Rose,2158177,ROSES STARDUST,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,18eb2af1-e3ee-478a-91eb-01923528a330
+Flowermarketplace,Rose,2158185,ROSES SWEET UNIQUE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,0d0b2974-88cc-44f4-b26d-420e6188251a
+Flowermarketplace,Rose,2158187,ROSES SWEET UNIQUE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,0d0b2974-88cc-44f4-b26d-420e6188251a
+Flowermarketplace,Rose,2158179,ROSES SWEETNESS,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.25,Stems,3799423d-b9c8-46fc-9e05-1abc29fed4db
+Flowermarketplace,Rose,2158181,ROSES SWEETNESS,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.38,Stems,3799423d-b9c8-46fc-9e05-1abc29fed4db
+Flowermarketplace,Rose,2158183,ROSES SWEETNESS,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.5,Stems,3799423d-b9c8-46fc-9e05-1abc29fed4db
+Flowermarketplace,Rose,2158189,ROSES TIARA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,40,1.25,Stems,a967f68a-a6ab-497c-a5ad-a6bcc11538ec
+Flowermarketplace,Rose,2158191,ROSES TIARA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,a967f68a-a6ab-497c-a5ad-a6bcc11538ec
+Flowermarketplace,Rose,2158193,ROSES TIBET,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,b1b6b639-31e1-46fa-bd71-be74b64a9471
+Flowermarketplace,Rose,2158195,ROSES TIBET,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,b1b6b639-31e1-46fa-bd71-be74b64a9471
+Flowermarketplace,Rose,2158197,ROSES TIFFANY,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,9aa80507-45f2-4226-b8a1-bcd1c07a82b6
+Flowermarketplace,Rose,2158199,ROSES TIFFANY,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,9aa80507-45f2-4226-b8a1-bcd1c07a82b6
+Flowermarketplace,Rose,2158201,ROSES TOFFEE,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,2.25,Stems,023b9270-dbf2-42e5-bf03-d3d0b2d95d6a
+Flowermarketplace,Rose,2158207,ROSES TOPAZ,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,0071b7b4-0147-4960-bdb0-ac337f5171e1
+Flowermarketplace,Rose,2158209,ROSES TOPAZ,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,0071b7b4-0147-4960-bdb0-ac337f5171e1
+Flowermarketplace,Rose,2158211,ROSES TOPAZ,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,0071b7b4-0147-4960-bdb0-ac337f5171e1
+Flowermarketplace,Rose,2158213,ROSES VENDELA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,40,1.13,Stems,9c8fb9d5-8777-419d-9a66-081c8d720bba
+Flowermarketplace,Rose,2158215,ROSES VENDELA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,9c8fb9d5-8777-419d-9a66-081c8d720bba
+Flowermarketplace,Rose,2158217,ROSES VENDELA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,9c8fb9d5-8777-419d-9a66-081c8d720bba
+Flowermarketplace,Rose,2158219,ROSES VENDELA,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,9c8fb9d5-8777-419d-9a66-081c8d720bba
+Flowermarketplace,Rose,2157721,ROSES WASABI 50CM 25ST,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,,1.75,Stems,4b02cba0-6b6c-4bf6-935d-02048f6a2eb9
+Flowermarketplace,Rose,2157795,ROSES WHITE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.38,Stems,b06787cf-2b7a-47e6-a1d1-bff70f8efeff
+Flowermarketplace,Rose,2157797,ROSES WHITE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.5,Stems,b06787cf-2b7a-47e6-a1d1-bff70f8efeff
+Flowermarketplace,Rose,2157799,ROSES WHITE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,1.63,Stems,b06787cf-2b7a-47e6-a1d1-bff70f8efeff
+Flowermarketplace,Rose,2157801,ROSES YELLOW ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,50,1.5,Stems,5ee68b19-6916-4dd3-8def-841747402a06
+Flowermarketplace,Rose,2157803,ROSES YELLOW ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,60,1.75,Stems,5ee68b19-6916-4dd3-8def-841747402a06
+Flowermarketplace,Rose,2157805,ROSES YELLOW ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,70,2.0,Stems,5ee68b19-6916-4dd3-8def-841747402a06
+Flowermarketplace,Green,2261049,RUMEX UNICORN,2025-04-09,2025-04-18,Ecuador,unmapped,,16.0,Bunch,
+Flowermarketplace,Dried Flowers,2162270,RUSCUS ACULEATUS GLITTERED Blue 5 st,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2162266,RUSCUS ACULEATUS GLITTERED Gold 5 st,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2162269,RUSCUS ACULEATUS GLITTERED Green 5 st,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2271689,RUSCUS ACULEATUS GLITTERED MIX 5 ST,2025-04-09,2025-04-18,Italy,,,10.06,Bunch,
+Flowermarketplace,Dried Flowers,2271688,RUSCUS ACULEATUS GLITTERED RED 5 ST,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2162267,RUSCUS ACULEATUS GLITTERED Silver 5 st,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2162265,RUSCUS ACULEATUS snow red flocked 5 st,2025-04-09,2025-04-18,Italy,,,12.26,Bunch,
+Flowermarketplace,Snapdragon,2161061,SNAPDRAGON ASSORTED,2025-04-09,2025-04-18,Ecuador,3f7d62c8-1ad6-46de-840d-4563a5545a3d,,7.23,Bunch,54f45a3d-bfad-4f03-8b52-ce0a4fb9fcbb
+Flowermarketplace,Snapdragon,2161063,SNAPDRAGON BURGUNDY,2025-04-09,2025-04-18,Ecuador,3f7d62c8-1ad6-46de-840d-4563a5545a3d,,9.73,Bunch,
+Flowermarketplace,Snapdragon,2161065,SNAPDRAGON ORANGE,2025-04-09,2025-04-18,Ecuador,3f7d62c8-1ad6-46de-840d-4563a5545a3d,,9.73,Bunch,42997f80-812e-423c-9ed4-e600dfdbb818
+Flowermarketplace,Snapdragon,2161067,SNAPDRAGON PINK,2025-04-09,2025-04-18,Ecuador,3f7d62c8-1ad6-46de-840d-4563a5545a3d,,9.73,Bunch,8b46cd80-c47d-4788-826c-3c5295a61e62
+Flowermarketplace,Snapdragon,2161069,SNAPDRAGON PURPLE,2025-04-09,2025-04-18,Ecuador,3f7d62c8-1ad6-46de-840d-4563a5545a3d,,9.73,Bunch,fb26a069-962d-40cb-96ce-92d8f9594813
+Flowermarketplace,Snapdragon,2161071,SNAPDRAGON RED,2025-04-09,2025-04-18,Ecuador,3f7d62c8-1ad6-46de-840d-4563a5545a3d,,9.73,Bunch,5fa6d79e-ea85-4a68-a939-4c8e2cc32ed5
+Flowermarketplace,Snapdragon,2161073,SNAPDRAGON WHITE,2025-04-09,2025-04-18,Ecuador,3f7d62c8-1ad6-46de-840d-4563a5545a3d,,9.73,Bunch,fcb9d70c-f2c5-4ca0-9eff-0759f19d93c3
+Flowermarketplace,Snapdragon,2161075,SNAPDRAGON YELLOW,2025-04-09,2025-04-18,Ecuador,3f7d62c8-1ad6-46de-840d-4563a5545a3d,,9.73,Bunch,0a7db376-3513-45ad-8f4e-3f382fe8f0eb
+Flowermarketplace,Disbuds,2227853,SPIDER TINTED ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,10.5,Bunch,
+Flowermarketplace,Spray Rose Premium,2161247,SPRAY ROSE ASSORTED,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.0,Stems,d7ffbf14-996d-4fbe-b265-7cd0b2e7774b
+Flowermarketplace,Spray Rose Premium,2161095,SPRAY ROSE CHERRY FOLLIES,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,742a9d78-5ad7-423b-9910-555ba5ca1769
+Flowermarketplace,Spray Rose Premium,2252004,Spray Rose Cream Irishka,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.2,Stems,
+Flowermarketplace,Spray Rose Premium,2252007,Spray Rose Electra,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.2,Stems,
+Flowermarketplace,Spray Rose Premium,2252002,Spray Rose Fire Flash,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.38,Stems,ba72598d-52ab-497b-b1ab-c8c0c532b55d
+Flowermarketplace,Spray Rose Premium,2252001,Spray Rose Flame Club,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.38,Stems,
+Flowermarketplace,Spray Rose Premium,2161097,SPRAY ROSE HOT PINK,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,
+Flowermarketplace,Spray Rose Premium,2161099,SPRAY ROSE ILSE,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,
+Flowermarketplace,Spray Rose Premium,2161101,SPRAY ROSE LAVENDER,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,44560f6d-c593-4883-8519-c89377e85582
+Flowermarketplace,Spray Rose Premium,2161103,SPRAY ROSE LOVELY LYDIA,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,bc9a9930-194d-4656-bab2-c8792a2d311c
+Flowermarketplace,Spray Rose Premium,2161105,SPRAY ROSE LYDIA,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,3d05d1ad-64e4-4e85-8477-8b2ad17180e0
+Flowermarketplace,Spray Rose Premium,2161107,SPRAY ROSE MAMBO ORANGE,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,69b40e96-63e0-489d-8704-6ab6a4bf94af
+Flowermarketplace,Spray Rose Premium,2161109,SPRAY ROSE PEACH,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,db592b1e-d54e-4093-82f5-13db501724f5
+Flowermarketplace,Spray Rose Premium,2161111,SPRAY ROSE PINK,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,84b24f96-cf34-476f-8ab4-5e117bf9af16
+Flowermarketplace,Spray Rose Premium,2252003,Spray Rose Pink Irishka,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.2,Stems,f406e22e-948c-4073-a6b2-c30c955b9d43
+Flowermarketplace,Spray Rose Premium,2161113,SPRAY ROSE PINK MAJOLICA,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,96c6b8ba-c1ef-4f84-838e-e753fd3cc71d
+Flowermarketplace,Spray Rose Premium,2252008,Spray Rose Portrait,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.2,Stems,
+Flowermarketplace,Spray Rose Premium,2252000,Spray Rose Purple Irishka,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.2,Stems,e94a8bcd-d7d8-4337-89dc-1dd84d8e6617
+Flowermarketplace,Spray Rose Premium,2161115,SPRAY ROSE PURPLE SKY,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,66863ee1-1b58-4878-a809-2e1be29d7361
+Flowermarketplace,Spray Rose Premium,2161117,SPRAY ROSE RED,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,b1e18d64-da8e-4088-aa6f-17b93d2f0725
+Flowermarketplace,Spray Rose Premium,2161119,SPRAY ROSE RUBICON,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,896abed4-5b18-49f5-b1fd-6f679c044a87
+Flowermarketplace,Spray Rose Premium,2252006,Spray Rose Shestar,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.2,Stems,
+Flowermarketplace,Spray Rose Premium,2219612,SPRAY ROSE SNOWFLAKE,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.2,Stems,810e5e94-fb96-4879-90a4-decc97d92094
+Flowermarketplace,Spray Rose Premium,2252005,Spray Rose Star Blush,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.2,Stems,fdf3447c-076d-41ee-a62c-e3753c348797
+Flowermarketplace,Spray Rose Premium,2161121,SPRAY ROSE WHITE,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.38,Stems,8fa753ab-5273-4115-962a-3e5688f4db42
+Flowermarketplace,Spray Rose Premium,2161123,SPRAY ROSE WHITE MAJOLICA,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.38,Stems,f740603f-e493-4a07-a9e7-cc73c854215b
+Flowermarketplace,Spray Rose Premium,2161125,SPRAY ROSE YELLOW,2025-04-09,2025-04-18,Ecuador,f65b435b-c531-4639-99d9-2805fb8cd131,,1.13,Stems,c988654b-7a11-4e10-bdc2-d54ca771c029
+Flowermarketplace,Statice,2161127,STATICE ASSORTED,2025-04-09,2025-04-18,Ecuador,0fe1b331-a9eb-46d8-b354-81a9f944723a,,5.63,Stems,47b4fa4a-bd92-49f1-882b-991b1fb7e741
+Flowermarketplace,Statice,2161004,STATICE HOT PINK,2025-04-09,2025-04-18,Ecuador,0fe1b331-a9eb-46d8-b354-81a9f944723a,,8.33,Bunch,
+Flowermarketplace,Statice,2161006,STATICE LAVENDER,2025-04-09,2025-04-18,Ecuador,0fe1b331-a9eb-46d8-b354-81a9f944723a,,8.33,Bunch,49c8dc4c-8895-42a9-9d90-66a150b66dc5
+Flowermarketplace,Statice,2161008,STATICE PINK,2025-04-09,2025-04-18,Ecuador,0fe1b331-a9eb-46d8-b354-81a9f944723a,,8.33,Bunch,ea19e485-3536-4082-9b03-0053e90d76e3
+Flowermarketplace,Statice,2161010,STATICE PURPLE,2025-04-09,2025-04-18,Ecuador,0fe1b331-a9eb-46d8-b354-81a9f944723a,,8.33,Bunch,cca7bf2f-1471-42a4-bd4d-fec92b81954c
+Flowermarketplace,Statice,2161012,STATICE WHITE,2025-04-09,2025-04-18,Ecuador,0fe1b331-a9eb-46d8-b354-81a9f944723a,,8.33,Bunch,b34b35b0-2ad5-4824-aa4f-dd907edb76d4
+Flowermarketplace,Statice,2161014,STATICE YELLOW,2025-04-09,2025-04-18,Ecuador,0fe1b331-a9eb-46d8-b354-81a9f944723a,,8.33,Bunch,40235410-ac07-4419-b641-ca32a2f8fdd2
+Flowermarketplace,Stock,2161016,STOCK ASSORTED,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,8.33,Bunch,0f6112ef-bf40-4bc4-a053-f6766e388199
+Flowermarketplace,Stock,2161018,STOCK BURGANDY,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,
+Flowermarketplace,Stock,2161020,STOCK CREAM,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,
+Flowermarketplace,Stock,2161022,STOCK HOT PINK,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,2e077bc0-d072-44ef-ae0b-3d4c639387b5
+Flowermarketplace,Stock,2161024,STOCK LAVENDER,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,b5bfd498-0086-4c2c-8901-6e605037465e
+Flowermarketplace,Stock,2161026,STOCK LIGHT PINK,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,7dc29cc5-d734-449a-922c-60621994b4ed
+Flowermarketplace,Stock,2161028,STOCK PEACH,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,1497f7fe-776d-4f1f-b891-dbb609a82ef5
+Flowermarketplace,Stock,2161030,STOCK PURPLE,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,3e93f0c4-b325-4a21-ba3e-24062578698e
+Flowermarketplace,Stock,2161034,STOCK REDDISH PURPLE,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,
+Flowermarketplace,Stock,2161037,STOCK SPRAY ASSORTED,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,1cdd0e18-f022-4bf4-b588-0e3bfe47b671
+Flowermarketplace,Stock,2161039,STOCK WHITE,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,5de3bbad-c3b8-4c77-aa4e-ec49154b374a
+Flowermarketplace,Stock,2161041,STOCK YELLOW,2025-04-09,2025-04-18,Ecuador,ab301a1f-7596-45ee-a689-dfc531f7b0c2,,10.83,Bunch,0e8851b0-ba33-4ca7-a9bb-e230832d409b
+Flowermarketplace,Dried Flowers,2271687,STUARTIANA ALL METAL 150 GR,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2271686,STUARTIANA METAL COPPER 150 GR,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2271684,STUARTIANA METAL GOLD 150 GR,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2162258,STUARTIANA METAL RED 150 gr,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Dried Flowers,2271685,STUARTIANA METAL SILVER 150 GR,2025-04-09,2025-04-18,Italy,,,14.14,Bunch,
+Flowermarketplace,Sunflower,2161043,SUNFLOWERS PETITE,2025-04-09,2025-04-18,Ecuador,72193b6f-3745-43d3-b566-73346bb5db71,,7.5,Bunch,afae1454-294d-40a4-8f28-628f08616bdc
+Flowermarketplace,Sunflower,2161045,SUNFLOWERS XXL HOMESTEAD,2025-04-09,2025-04-18,Ecuador,72193b6f-3745-43d3-b566-73346bb5db71,,8.75,Bunch,
+Flowermarketplace,Dried Flowers,2162214,SUPER BLUE DRIED LAVENDER 100g,2025-04-09,2025-04-18,Italy,,,12.89,Bunch,
+Flowermarketplace,Dried Flowers,2162215,SUPER BLUE DRIED LAVENDER 100g,2025-04-09,2025-04-18,Italy,,,12.57,Bunch,
+Flowermarketplace,Dried Flowers,2162216,SUPER BLUE DRIED LAVENDER sleeved 120/150st,2025-04-09,2025-04-18,Italy,,,7.23,Bunch,
+Flowermarketplace,Trachelium,2148559,TRACHELIUM GREEN,2025-04-09,2025-04-18,Ecuador,b786bc7a-255b-4f3b-8bbf-d8c7562e8dcd,,1.13,Stems,
+Flowermarketplace,Trachelium,2148561,TRACHELIUM PURPLE,2025-04-09,2025-04-18,Ecuador,b786bc7a-255b-4f3b-8bbf-d8c7562e8dcd,,1.13,Stems,666a78d9-1a3b-405d-b4d5-f8db3a84cd38
+Flowermarketplace,Trachelium,2148560,TRACHELIUM WHITE,2025-04-09,2025-04-18,Ecuador,b786bc7a-255b-4f3b-8bbf-d8c7562e8dcd,,1.13,Stems,100a588d-2d2c-42d1-b30b-7a5e0e07a25f
+Flowermarketplace,Rose,2258208,VALENTINES ROSE ASSORTED,2025-04-09,2025-04-18,Ecuador,7a68bebd-2346-4e73-9906-a7665c22ce20,,2.05,Stems,ea3262c3-00ad-4540-b8c0-0a48287e6309
+Flowermarketplace,Orchid,2177253,VANDA VANDA,2025-04-09,2025-04-18,Thailand,unmapped,,15.39,Stems,
+Flowermarketplace,Orchid,2177258,VANDA VANDA DARK PURPLE,2025-04-09,2025-04-18,Thailand,unmapped,,15.39,Stems,
+Flowermarketplace,Orchid,2177256,VANDA VANDA HOT PINK,2025-04-09,2025-04-18,Thailand,unmapped,,15.39,Stems,532b7816-1d87-4eb9-a385-b9f6619c2b2f
+Flowermarketplace,Orchid,2177254,VANDA VANDA PINK,2025-04-09,2025-04-18,Thailand,unmapped,,15.39,Stems,
+Flowermarketplace,Orchid,2177260,VANDA VANDA PINK FUSHIA,2025-04-09,2025-04-18,Thailand,unmapped,,15.39,Stems,
+Flowermarketplace,Orchid,2177255,VANDA VANDA PURPLE,2025-04-09,2025-04-18,Thailand,unmapped,,15.39,Stems,93b59814-8560-4a3b-aa9d-5d5c07daddcd
+Flowermarketplace,Orchid,2177257,VANDA VANDA PURPLE BLACK,2025-04-09,2025-04-18,Thailand,unmapped,,15.39,Stems,3d4c44f3-0977-4ef1-bb56-79ba01376036
+Flowermarketplace,Orchid,2177259,VANDA VANDA RED,2025-04-09,2025-04-18,Thailand,unmapped,,15.39,Stems,f956056e-57f9-426d-bf64-0320167f0f59
+Flowermarketplace,Veronica,2161047,VERONICA ASSORTED,2025-04-09,2025-04-18,Ecuador,d2ea2fc3-6c90-449b-9b0c-c4d9d2400fbc,,9.98,Bunch,d1f3c9a1-7b58-4fca-b75b-0400c7910585
+Flowermarketplace,Veronica,2161049,VERONICA BLUE,2025-04-09,2025-04-18,Ecuador,d2ea2fc3-6c90-449b-9b0c-c4d9d2400fbc,,12.48,Bunch,a9f36181-093c-47b7-987c-372f71ce25b4
+Flowermarketplace,Veronica,2161053,VERONICA PINK,2025-04-09,2025-04-18,Ecuador,d2ea2fc3-6c90-449b-9b0c-c4d9d2400fbc,,12.48,Bunch,9d57cd8b-410a-4281-80cf-a66024c543ae
+Flowermarketplace,Veronica,2161055,VERONICA PURPLE,2025-04-09,2025-04-18,Ecuador,d2ea2fc3-6c90-449b-9b0c-c4d9d2400fbc,,12.48,Bunch,b88b58c0-5fb8-435d-91a8-d74abbf01d12
+Flowermarketplace,Waxflower,2212502,WAXFLOWER ASSORTED,2025-04-09,2025-04-18,Ecuador,unmapped,,17.38,Bunch,fbfe2922-98a3-4eab-9fd9-e4156ee643b0
+Flowermarketplace,Waxflower,2212503,WAXFLOWER PINK,2025-04-09,2025-04-18,Ecuador,unmapped,,17.38,Bunch,c521c8eb-efc0-462c-9ab2-87975ad2f6dd
+Flowermarketplace,Waxflower,2167167,WAXFLOWER WHITE,2025-04-09,2025-04-18,Ecuador,unmapped,,17.38,Bunch,5d79c163-42db-4b83-a400-5c4b92f87c1b
+Flowermarketplace,Green,2162233,XANADU extra,2025-04-09,2025-04-18,Italy,unmapped,,1.97,Stems,
+Flowermarketplace,Green,2162234,XANADU I,2025-04-09,2025-04-18,Italy,unmapped,,1.66,Stems,
+Flowermarketplace,Green,2162235,XANADU II,2025-04-09,2025-04-18,Italy,unmapped,,1.43,Stems,
