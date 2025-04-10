@@ -13,7 +13,7 @@ dataset_id = os.getenv("DATASET_ID")
 table_id = os.getenv("TABLE_ID_PETALJET")
 table_full_id = f"{project_id}.{dataset_id}.{table_id}"
 
-data = pd.read_csv("output/petaljet/petaljet_inventory....csv")
+data = pd.read_csv("output/petaljet/petaljet....csv")
 data.columns = [col.strip().replace(" ", "_").replace(",", "").lower() for col in data.columns]
 
 pandas_gbq.to_gbq(

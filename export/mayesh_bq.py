@@ -13,7 +13,7 @@ dataset_id = os.getenv("DATASET_ID")
 table_id = os.getenv("TABLE_ID_MAYESH")
 table_full_id = f"{project_id}.{dataset_id}.{table_id}"
 
-data = pd.read_csv("output/mayesh/mayesh_inventory....csv")
+data = pd.read_csv("output/mayesh/mayesh_inventory_2025-04-18.csv")
 data.columns = [col.strip().replace(" ", "_").replace(",", "").lower() for col in data.columns]
 
 pandas_gbq.to_gbq(
