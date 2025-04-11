@@ -60,7 +60,7 @@ def process_inventory_data(products, date):
             "freight_price": product.get("freight", 0),
             "margin": (1 - (1 / product["markup"])) * 100 if product.get("markup") else 0,
             "competitor_highlight_name": product.get("highlight_name", None), # will give products tagged with f.e m'day
-            "competitor_main_landed_cost": product.get("main_landed_cost", 0),
+            # "competitor_main_landed_cost": product.get("main_landed_cost", 0),
         })
 
     print(f"✅ Processed {len(products)} products for {date}")
