@@ -17,9 +17,6 @@ from export.export_to_bq import upload_flowermarketplace_to_bigquery
 
 load_dotenv()
 
-# Add a function that will call the export to bq function within export/flowermarketplace_bq.py 
-# might have to refert from csv output to directly in bq
-
 try:
     product_group_mapping = pd.read_csv('mapping/flowermarketplace_productgroups.csv', engine='python', on_bad_lines='skip')
     product_group_dict = {}
@@ -243,5 +240,12 @@ async def main():
         print("No products found")
 
     print(f"processing complete for {eta_date}")
+
+    try:
+        upload_flowermarketplace_to_bigquery(csv_file)
+        print("✅ Data successfully uploaded to BigQuery")
+    except Exception as e:
+        print(f"❌ Failed to upload data to BigQuery: {e}")
+
 if __name__ == "__main__":
     asyncio.run(main())

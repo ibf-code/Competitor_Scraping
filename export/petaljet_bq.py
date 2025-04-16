@@ -1,3 +1,6 @@
+# Legacy code for exporting data to BigQuery , replaced by export_to_bq.py refer to commit 4fc7a5e
+
+
 import pandas as pd
 import pandas_gbq
 from google.oauth2 import service_account

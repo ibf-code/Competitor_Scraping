@@ -2,7 +2,6 @@ import pandas as pd
 from datetime import datetime
 import re
 from pathlib import Path
-# import os
 
 MAYESH_INVENTORY = "mayesh_inventory_"
 FLOWERMARKETPLACE_INVENTORY = "flowermarketplace_inventory_"
@@ -58,6 +57,6 @@ def get_latest_eta_date_flowermarketplace(directory: str, prefix: str = FLOWERMA
     latest_eta = max(date_files, key=lambda x: x[0])[1]
     return latest_eta  
 
-print(get_latest_eta_date_mayesh("./output/mayesh"))
-print(get_latest_eta_date_flowermarketplace("./output/flowermarketplace"))
-print(get_latest_eta_date_petaljet("./output/petaljet"))
+# print(get_latest_eta_date_mayesh("./output/mayesh"))
+# print(get_latest_eta_date_flowermarketplace("./output/flowermarketplace"))
+# print(get_latest_eta_date_petaljet("./output/petaljet"))
