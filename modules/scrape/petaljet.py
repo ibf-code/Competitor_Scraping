@@ -11,6 +11,9 @@ import os
 from modules.stealth import get_random_user_agent 
 from modules.auth import authenticate
 from modules.scrape.mayesh import fetch_available_dates # used for earliest_eta
+from export.export_to_bq import upload_petaljet_to_bigquery # WIP
+
+## upload_to_bq function to be inserted somewhere here
 
 load_dotenv()
 
@@ -129,6 +132,12 @@ async def main():
     output_file = f"output/petaljet/PetalJet_inventory_{eta_date}.csv"
     df.to_csv(output_file, index=False)
     print(f"✅ Scraped {len(df)} product variants to {output_file}")
+
+    try:
+        upload_petaljet_to_bigquery(output_file)
+        print("✅ Data successfully uploaded to BigQuery")
+    except Exception as e:
+        print(f"❌ Failed to upload data to BigQuery: {e}")
 
 if __name__ == "__main__":
     asyncio.run(main())

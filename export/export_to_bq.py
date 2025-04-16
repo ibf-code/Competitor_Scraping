@@ -4,7 +4,11 @@ from google.oauth2 import service_account
 from dotenv import load_dotenv
 import os
 import datetime
-from modules import get_latest_eta_date_flowermarketplace, get_latest_eta_date_mayesh, get_latest_eta_date_petaljet
+from modules.latest_eta_date import (
+    get_latest_eta_date_flowermarketplace,
+    get_latest_eta_date_mayesh,
+    get_latest_eta_date_petaljet
+)
 
 load_dotenv()
 
@@ -12,22 +16,6 @@ credentials = service_account.Credentials.from_service_account_file('config/serv
 
 project_id = os.getenv("PROJECT_ID")
 dataset_id = os.getenv("DATASET_ID")
-table_id = os.getenv("TABLE_ID_FLOWERMARKETPLACE")
-table_full_id = f"{project_id}.{dataset_id}.{table_id}"
-
-data = pd.read_csv("output/flowermarketplace/flowermarketplace_inventory.....csv")
-data.columns = [col.strip().replace(" ", "_").replace(",", "").lower() for col in data.columns]
-
-pandas_gbq.to_gbq(
-    data,  
-    table_full_id, 
-    project_id=project_id,  
-    credentials=credentials,
-    if_exists="append",  
-    chunksize=1000, 
-)
-
-print("✅ Data successfully uploaded to BigQuery")
 
 def upload_flowermarketplace_to_bigquery():
     latest_file_path = get_latest_eta_date_flowermarketplace("./output/flowermarketplace")

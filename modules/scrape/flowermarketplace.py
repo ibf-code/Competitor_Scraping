@@ -13,9 +13,12 @@ from datetime import datetime, date
 from modules.stealth import get_random_user_agent 
 from modules.auth import authenticate
 from modules.scrape.mayesh import fetch_available_dates # used for earliest_eta
+from export.export_to_bq import upload_flowermarketplace_to_bigquery
 
 load_dotenv()
 
+# Add a function that will call the export to bq function within export/flowermarketplace_bq.py 
+# might have to refert from csv output to directly in bq
 
 try:
     product_group_mapping = pd.read_csv('mapping/flowermarketplace_productgroups.csv', engine='python', on_bad_lines='skip')
