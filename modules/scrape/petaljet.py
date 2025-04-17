@@ -25,7 +25,7 @@ PAGES = [
 TIMEOUT = 15
 
 today = datetime.date.today().strftime("%Y-%m-%d")
-OUTPUT_FILE = f"output/petaljet/PetalJet_inventory_{today}.csv"
+OUTPUT_FILE = f"output/petaljet/petaljet_inventory_{today}.csv"
 HEADERS = {
     "User-Agent": get_random_user_agent(), 
     "Referer": "https://petaljet.com/",
@@ -129,12 +129,12 @@ async def main():
     df["max_stems_each"] = grouped.transform("max")
     df.sort_values(by=["competitor_product_name", "stem_length", "stems_per_unit"], inplace=True)
 
-    output_file = f"output/petaljet/PetalJet_inventory_{eta_date}.csv"
+    output_file = f"output/petaljet/petaljet_inventory_{eta_date}.csv"
     df.to_csv(output_file, index=False)
     print(f"✅ Scraped {len(df)} product variants to {output_file}")
 
     try:
-        upload_petaljet_to_bigquery(output_file)
+        upload_petaljet_to_bigquery()
         print("✅ Data successfully uploaded to BigQuery")
     except Exception as e:
         print(f"❌ Failed to upload data to BigQuery: {e}")

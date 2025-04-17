@@ -242,7 +242,7 @@ async def main():
     print(f"processing complete for {eta_date}")
 
     try:
-        upload_flowermarketplace_to_bigquery(csv_file)
+        upload_flowermarketplace_to_bigquery()
         print("✅ Data successfully uploaded to BigQuery")
     except Exception as e:
         print(f"❌ Failed to upload data to BigQuery: {e}")

@@ -4,7 +4,7 @@ from google.oauth2 import service_account
 from dotenv import load_dotenv
 import os
 import datetime
-from modules.latest_eta_date import (
+from modules.latest_eta_date import (       # ETA's are the same but output is spread out over 3 directories
     get_latest_eta_date_flowermarketplace,
     get_latest_eta_date_mayesh,
     get_latest_eta_date_petaljet
@@ -17,6 +17,7 @@ credentials = service_account.Credentials.from_service_account_file('config/serv
 project_id = os.getenv("PROJECT_ID")
 dataset_id = os.getenv("DATASET_ID")
 
+# Each of the following functions can be used to push the freshest csv to BigQuery
 def upload_flowermarketplace_to_bigquery():
     latest_file_path = get_latest_eta_date_flowermarketplace("./output/flowermarketplace")
     data = pd.read_csv(latest_file_path)
