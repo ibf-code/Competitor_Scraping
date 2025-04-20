@@ -30,7 +30,7 @@ if session and headers:
 
             csv_path = os.path.join("output", "mayesh", filename)
             try:
-                upload_mayesh_to_bigquery(csv_path)
+                upload_mayesh_to_bigquery()
                 print(f"✅ Data with date {delivery_date} for Mayesh successfully uploaded to BigQuery")
             except Exception as e:
                 print(f"Error uploading data to BigQuery: {e}")
