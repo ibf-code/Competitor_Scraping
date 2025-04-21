@@ -1,0 +1,323 @@
+ibf_product_group,ibf_product_group_name,competitor_product_group_id,competitor_product_group_name,similarity_score
+ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,Alstroemeria,00000292,Alstroemeria,1.0
+edf288cd-9ad2-4367-8fe3-2d47494ab2f9,Aster,00000299,Aster-Focal,0.844
+507f66ab-2a79-43a1-9bdb-66e690d1aaa5,Aster Spray,00000298,Aster-Spray,0.97
+fe74eca1-cbad-4962-8102-4c5b7d6adc21,Bells Of Ireland,00000304,Bells of Ireland,1.0
+5c2ebc74-f0d5-409f-83f2-a1d33372c246,Bouquets,00000306,Bouquets,1.0
+abc3802a-cdb2-4f92-874a-fe36927e8ec1,Calla's,00000312,Calla lily,0.824
+3322369c-cdde-479c-a465-e03c0826111e,Carnation,00000314,Carnations,0.938
+4e76dde5-60e9-4cb0-8afb-f099f89ebc3a,Mini Carnation (Spray),00000369,Carnations-Mini,0.871
+1692521f-3547-4454-adf5-3b8bfb414633,Try Out Box,00000320,Combo Box,0.754
+b1ef4367-f130-48df-ae2a-4eaf50653424,Daffodils,00000326,Daffodil,0.947
+3cdd743c-9824-4d55-963a-b7bfdf555466,Dahlias,00000327,Dahlia,0.923
+decde47b-6c08-4330-88cd-78d642cf8823,Delphinium,00000329,Delphinium,1.0
+8da21cb6-6ce2-4cdf-a974-2f5d0c69e260,Gerbera Spiders,00000340,Gerbera,0.853
+89aff8fb-4551-421d-ab29-54b548824f1d,Gladiolus Large Flowered,00000343,Gladiolus,0.821
+0c9f14f5-d919-4590-bbb6-f8f0f14a30e2,Gypsophilia (Babys breath),00000348,Gypsophila,0.657
+3711d6d5-1bf9-491f-8005-af223f9d3203,Hydrangea,00000351,Hydrangea,1.0
+8bff6b99-de91-492b-820f-83cf5c097212,Hypericum,00000352,Hypericum,1.0
+e7188a6f-198d-4287-97ed-1c326bf248c3,Iris,00000353,Iris,1.0
+e8f988ec-9663-49d7-99cc-db57e6240e3d,Strawflower,00000356,Laceflower,0.752
+4ec49f8d-67d8-4658-b005-4792e9b2daee,Larkspur,00000357,Larkspur,1.0
+dfe0279c-c792-4f6d-abb1-39426af229b4,Liatris,00000359,Liatris,1.0
+c473d7cf-f8df-400f-a2b7-6dc964f6d274,Lilies Asiatic,00000361,Lilies,0.854
+216f9b19-3671-4899-a8f8-acb3d173dabc,Limonium,00000363,Limonium,1.0
+a7515350-5cfb-4423-86ee-95fb6836db4e,Lisianthus Double,00000364,Lisianthus,0.821
+73eebcd2-6c71-4e23-939a-410a82bd675a,Chrysanthemum Disbuds/ Mums,00000375,Mums-Bunched,0.702
+73eebcd2-6c71-4e23-939a-410a82bd675a,Chrysanthemum Disbuds/ Mums,00000376,Mums-Stem,0.702
+47c397da-36d2-4e19-abac-315b05d83a9a,Novelty (Do not use anymore),00000285,Novelty,0.78
+f22cd647-5eca-4c2f-812d-6e7661052a85,Acacia,00000286,Acacia,1.0
+d3cc79f1-282f-4f7e-95fd-ebae15a38a6b,Centaurea,00000478,Achillea,0.621
+b786bc7a-255b-4f3b-8bbf-d8c7562e8dcd,Trachelium,00000586,Acontium,0.665
+3261737f-f6a8-415d-825e-431841e44ac7,Agapanthus,00000287,Agapanthus,1.0
+5564fbf5-0dc0-4324-90ef-c50fc990cc66,Ageratum,00000288,Ageratum,1.0
+64fd43d4-6acb-4334-ad1b-0afed2a1b86c,Eriostemon,00000585,Agrostemma,0.65
+dc1ceaf7-5976-42e8-b01b-076d2c87a30f,Matricaria (feverfew),00000289,Alchemilla,0.592
+1e2ee4e0-904b-4068-87fd-c74123f53af1,Allium,00000290,Allium,1.0
+83a8817f-88b8-45a9-bc11-f9e3868e1882,Amaranthus,00000293,Amaranthus,1.0
+0c148eb6-c79e-4edb-888e-b54ad4bdad73,Amaryllis,00000294,Amaryllis,1.0
+0c148eb6-c79e-4edb-888e-b54ad4bdad73,Amaryllis,00000502,Amaryllis bunch,0.835
+c6857541-7426-4f90-b64f-1af4002f66b0,Gardenia,00000541,Amsonia,0.633
+0b6221f4-9306-4e15-9949-d403524c3a7d,Anemone,00000295,Anemone,1.0
+0b6221f4-9306-4e15-9949-d403524c3a7d,Anemone,00000479,Anise,0.724
+bae04ec5-38c1-4410-96ca-bb392a42be58,Artichoke,00000594,Apricot,0.68
+ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,Alstroemeria,00000444,Armeria,0.629
+d3952f93-516d-4197-a525-d61331bc0e13,Sandersonia,00000602,Aronia,0.714
+1628479c-77fd-4490-bac3-b35b0f90540b,Lunaria,00000426,Artemisia,0.69
+bae04ec5-38c1-4410-96ca-bb392a42be58,Artichoke,00000433,Artichoke,1.0
+ee659885-dd5f-48dd-ab89-bc989e290c46,Asclepia,00000474,Asclepias,0.933
+ee659885-dd5f-48dd-ab89-bc989e290c46,Asclepia,00000543,Asclepias Pink,0.796
+ee659885-dd5f-48dd-ab89-bc989e290c46,Asclepia,00000423,Asclepsia,0.784
+ee659885-dd5f-48dd-ab89-bc989e290c46,Asclepia,00000296,Astartea,0.656
+09cbb165-445b-4c82-9a3b-b033cbac9f12,Astilbe,00000300,Astilbe,1.0
+dec31f8d-05ae-40dd-8d32-369bd1f36169,Astrantia,00000301,Astrantia,1.0
+6b35d620-4a44-49f3-b883-40fe01f311ce,Phlox,00000458,Atriplex,0.666
+6f26599c-b963-4bee-b20a-0be8c62c4bef,Schefflera,00000302,Baeckea,0.589
+2e1d7302-05c9-424a-be40-5995489ce486,Banksia,00000623,Banksia,1.0
+3cd9964f-c427-460e-b6fe-5fc5457e6988,Godetia,00000445,Baptisia,0.565
+00b2ffa0-43f8-4176-96da-ab027ebfa460,Herbs,00000493,Basil,0.761
+a53c980f-bf0e-436b-948d-5b604cfd9930,Tweedia,00000591,Baxteri,0.625
+6b53fe9a-1bb0-467d-b6cd-90f28603d29d,Bay Leaf,00000434,Bay Leaf,1.0
+0d5b7722-4a5a-4e2c-b4d1-f0caf57e39a7,Chrysanthemum Spray Pom,00000460,Bee Balm,0.629
+58d7e9cb-5990-444c-bda1-90165d7e34c3,Berries,00000459,Berry,0.9
+1a761bf2-f7fa-44e5-9199-decfc0f2f9cb,Snow Berries,00000612,Berry Winter,0.839
+4b9c45d8-5865-4ccd-8095-216be56a7977,Berzelia,00000484,Berzelia,1.0
+4b9c45d8-5865-4ccd-8095-216be56a7977,Berzelia,00000581,Berzilia,0.795
+d9b10ce5-3ef2-4127-a69c-b38d88ec6517,Boronia,00000305,Boronia,1.0
+e53e86c2-f5ea-43c2-8fb5-764bca6e94e1,Bouvardia,00000307,Bouvardia,1.0
+f52b1857-9754-4b90-a154-a7556aa3c045,Blooming branches,00000309,Branch,0.711
+58e658f3-eecb-4dd8-b9e4-b1d009557a03,Brodea,00000435,Brodea,1.0
+29153aeb-8cfc-4149-97e3-b86c43036592,Corn Flower,00000467,Broom Corn,0.702
+25de2642-9262-4877-a505-70bff5a8ba5a,Brunia,00000511,Brunia,1.0
+b1ef4367-f130-48df-ae2a-4eaf50653424,Daffodils,00000619,Brussel Sprouts,0.638
+1191a80c-1726-43d7-b4e2-4e239d0a5598,Ruscus,00000510,Bubble Ruscus,0.822
+f52b1857-9754-4b90-a154-a7556aa3c045,Blooming branches,00000466,Buddleia,0.635
+b0669d59-c36e-40d0-a8f8-044614bf9411,Bupleurum,00000310,Bupleurum,1.0
+46fe247c-87a5-4fb9-b6c0-74369693c2ed,Calendula,00000311,Calendula,1.0
+abc3802a-cdb2-4f92-874a-fe36927e8ec1,Calla's,00000503,Callicarpa,0.689
+abc3802a-cdb2-4f92-874a-fe36927e8ec1,Calla's,00000565,Callistephus,0.575
+1dc7ebac-ec79-439e-b916-09f304bb4ba0,Campanula,00000313,Campanula,1.0
+fe74eca1-cbad-4962-8102-4c5b7d6adc21,Bells Of Ireland,00000454,Canterbury Bells,0.767
+bc40be62-1a9a-4614-b993-b3dc939a894e,Vines,00000710,Cathedral Vine,0.799
+04c41587-99cb-4e1b-ae1e-c30b50b391b4,Cattails,00000492,Cattails,1.0
+c3db8d45-a5e0-40e9-ae61-e46a8a8f35fe,Celosia,00000316,Celosia,1.0
+d3cc79f1-282f-4f7e-95fd-ebae15a38a6b,Centaurea,00000524,Centaurrea,0.878
+ebfb79cc-4ae7-4b53-a8e4-e3c02edfd7ac,Curcuma,00000519,Cestrum,0.621
+3acf7d6a-9220-44bd-8e71-38406c5ad278,Boutonniere,00000534,Chasmanthe,0.56
+bae04ec5-38c1-4410-96ca-bb392a42be58,Artichoke,00000317,Chelone,0.572
+1a761bf2-f7fa-44e5-9199-decfc0f2f9cb,Snow Berries,00000487,China Berries,0.818
+92cea9e4-37ec-46ff-b3d6-dbcb0ccf79c4,Smoke Bush,00000512,Christmas Bush,0.755
+d2e0f284-7c08-4e14-a896-72ecf484fa30,Mistletoe,00000614,Christmas Carol,0.636
+25de2642-9262-4877-a505-70bff5a8ba5a,Brunia,00000572,Cineraria,0.575
+67102dd4-d3c1-49cb-be5d-97d85dcf0a8a,Clematis,00000571,Clematis,1.0
+c53dc561-0690-4551-82aa-09466a5f5ed5,Huck,00000597,Columbine,0.573
+0e51295c-2758-4a3e-8b87-05eb5cdd2951,Gladiolus Colvillei,00000318,Colville,0.665
+7c6b80d8-ab63-4b26-9e3c-63c4ec632365,Cocculus,00000491,Continus,0.675
+6ef11896-c551-4772-963f-f732d5c019e2,Copper Beech,00000322,Copperbeech,0.706
+fe74eca1-cbad-4962-8102-4c5b7d6adc21,Bells Of Ireland,00000599,Coral Bells,0.691
+d5baba9a-471d-44bb-9f8c-45a75726eda6,Marigold,00000457,Coreopsis,0.592
+29153aeb-8cfc-4149-97e3-b86c43036592,Corn Flower,00000588,Corn Stalk,0.807
+29153aeb-8cfc-4149-97e3-b86c43036592,Corn Flower,00000443,corncockle,0.684
+29153aeb-8cfc-4149-97e3-b86c43036592,Corn Flower,00000323,Cornflower,0.86
+abd12a8c-1933-4a93-9f0b-ff4cb1f9c6ee,Cosmos,00000324,Cosmos,1.0
+7c6b80d8-ab63-4b26-9e3c-63c4ec632365,Cocculus,00000587,Cotinus,0.642
+9cd8afec-c0b2-4df3-a772-fbb038ff376a,Pine Cones,00000499,Cotoneaster,0.556
+ddd1b091-f766-4f24-976a-5c5629727d39,Flax,00000596,Cotton,0.661
+1692521f-3547-4454-adf5-3b8bfb414633,Try Out Box,00000446,Coxcomb,0.566
+95c517b2-2d68-49fb-b4ff-c982c5077636,Apple Tree,00000577,Crab Apple,0.703
+6f369f6b-b858-4a66-a10a-d3f1d9a9c4b2,Pineapple,00000580,Crabapple,0.801
+706c77c1-1a85-4492-84c8-24f8f54a215b,Crocosmia,00000325,Craspedia,0.58
+706c77c1-1a85-4492-84c8-24f8f54a215b,Crocosmia,00000468,Crocosmia,1.0
+a2e9b8e0-05ec-497a-830e-2dfbe8ee9f58,Cyclamen,00000628,Cyclamen,1.0
+67cf5a2d-f8ce-4a3c-a9df-d3a328aabc09,Dianthus,00000578,Cyranthus,0.691
+67cf5a2d-f8ce-4a3c-a9df-d3a328aabc09,Dianthus,00000579,Cyrtanthus,0.738
+34acab87-686f-4348-a1e3-c674a1380eb6,Costus,00000629,Cytisus,0.644
+fe035b2d-31cf-4ace-8e23-a5f21125b765,Moss,00000328,Daisy,0.68
+3cdd743c-9824-4d55-963a-b7bfdf555466,Dahlias,00000560,Daisy Gaillardia,0.619
+3c157c83-bb55-49ab-bfda-813514178168,Fern,00000424,Daisy Marguerite,0.568
+f65b435b-c531-4639-99d9-2805fb8cd131,Spray Roses,00000622,Dames Rocket,0.551
+67cf5a2d-f8ce-4a3c-a9df-d3a328aabc09,Dianthus,00000330,Dianthus,1.0
+040fc290-a59f-4034-9a25-2e3cc2af6d60,Dill,00000455,Dill,1.0
+c0864600-caeb-4d44-8ae3-11569e1d375a,Diosma (breath of heaven),00000331,Diosma,0.912
+0232243b-1b67-4347-adf9-1977e91ff007,Other Containers,00000542,Dock,0.642
+12932620-8484-4dba-bd71-205ed8e5da22,Eucalyptus,00000610,Dryandra,0.685
+,,00000527,Dutch Book,0.532
+6f26599c-b963-4bee-b20a-0be8c62c4bef,Schefflera,00000567,Echeveria,0.654
+3711d6d5-1bf9-491f-8005-af223f9d3203,Hydrangea,00000475,Echinacea,0.63
+c1f2e201-3b47-49a6-be06-3b5d2822bd9a,Scabiosa,00000462,Echinops,0.558
+58d7e9cb-5990-444c-bda1-90165d7e34c3,Berries,00000573,Egg,0.65
+64317c5b-3400-4e52-a1f7-dc8d62e29fcc,Lavender,00000471,English Lavender,0.861
+1ee96c2d-4154-4df1-81cd-8945de104113,Helleborus,00000334,Eremurus,0.635
+64fd43d4-6acb-4334-ad1b-0afed2a1b86c,Eriostemon,00000600,Erigeron,0.686
+64fd43d4-6acb-4334-ad1b-0afed2a1b86c,Eriostemon,00000335,Eriostemon,1.0
+5fffaeeb-eba9-48b9-90ee-e25b9da729ba,Origanum,00000584,Eryngium,0.693
+1f25d5a8-111d-4b42-9785-f1183758721b,Eucharis,00000556,Eucharis,1.0
+1f25d5a8-111d-4b42-9785-f1183758721b,Eucharis,00000564,Eucomis,0.665
+5cc4b2b9-adbc-45c4-95ce-d372ea7fc19b,Euonymus,00000603,Euonymus,1.0
+5cc4b2b9-adbc-45c4-95ce-d372ea7fc19b,Euonymus,00000549,Eupatorium,0.6
+483d5981-c64f-4e06-8859-f38f29d0694a,Euphorbia,00000336,Euphorbia,1.0
+3c157c83-bb55-49ab-bfda-813514178168,Fern,00000658,Fern,1.0
+dc1ceaf7-5976-42e8-b01b-076d2c87a30f,Matricaria (feverfew),00000437,Fever Few,0.604
+7851d1aa-857c-4e1b-b76a-94a5e6a050e1,Wearable flowers,00000666,Flannel Flower,0.728
+c27c080d-3862-455a-a1e1-c60bf0873167,Forsythia,00000338,Forsythia,1.0
+e0f8825a-9e8e-438f-ba0b-1e2cd196a01f,Foxgloves,00000441,Foxglove,0.95
+84132732-29d4-4525-bc0f-9f27fd22c94d,Freesia Single,00000339,Freesia,0.841
+0c148eb6-c79e-4edb-888e-b54ad4bdad73,Amaryllis,00000523,Fritillaria,0.638
+c27c080d-3862-455a-a1e1-c60bf0873167,Forsythia,00000483,Gaillardia,0.597
+85745c88-c9de-43da-9b87-2cf3c5cce0a3,Gentiana,00000477,Gentiana,1.0
+4b9da7a7-4f4f-4c97-bf88-1bc4a3c6f726,Geranium,00000448,Geranium,1.0
+42bf8b87-fab2-496c-88ec-a2d80c2aac5e,Geum,00000576,Gerrondo,0.627
+42bf8b87-fab2-496c-88ec-a2d80c2aac5e,Geum,00000665,Geum,1.0
+42bf8b87-fab2-496c-88ec-a2d80c2aac5e,Geum,00000655,Geum Mango,0.795
+e7188a6f-198d-4287-97ed-1c326bf248c3,Iris,00000341,Ginestra,0.589
+eaf00339-480a-4cc4-a02a-e309f9399303,Muscari,00000342,Ginestri,0.62
+c6857541-7426-4f90-b64f-1af4002f66b0,Gardenia,00000657,Globularia,0.624
+5f5756ca-89dc-4dd5-a706-3fa2cb241882,Gloriosa,00000470,Gloriosa,1.0
+3cd9964f-c427-460e-b6fe-5fc5457e6988,Godetia,00000345,Godetia,1.0
+de66a6d7-4e84-4b4d-858e-ee80a0375e7c,Gomphrena,00000346,Gomphrenia,0.903
+2efd16cb-7721-4303-a454-5392bd40eac1,Grasses,00000347,Grass,0.883
+bdc74c69-a222-4cc5-9edc-0d5b24343814,Grevillea,00000425,Grevillea,1.0
+7f230c98-7c4c-47cb-90d1-3c00361231c8,Heather,00000349,Heather,1.0
+decde47b-6c08-4330-88cd-78d642cf8823,Delphinium,00000494,Helenium,0.64
+71ed2d86-2509-40f1-973a-0df53ea86737,Heliconia,00000463,Heliopsis,0.684
+1ee96c2d-4154-4df1-81cd-8945de104113,Helleborus,00000653,Helleborus,1.0
+2937a5ba-56a1-475d-bc34-c86128f859bf,Hebes,00000559,Hesperis,0.635
+cc23c4b4-802b-44b8-8391-8efb78f27de5,Ilex (holly),00000659,Holly,0.782
+a5006f8c-a0b5-4146-9af6-d10f8099fa7d,Hosta,00000452,Hosta,1.0
+66776f44-37c4-417c-a05b-654c962b0e7a,Hyacinth,00000350,Hyacinth,1.0
+cc23c4b4-802b-44b8-8391-8efb78f27de5,Ilex (holly),00000506,Ilex,0.907
+eefc9f4d-0ce3-4997-8fa4-589d76066fe0,Ixia,00000354,Ixia,1.0
+c473d7cf-f8df-400f-a2b7-6dc964f6d274,Lilies Asiatic,00000504,Japanese Lanterns,0.625
+da7c167c-9db6-48b8-961d-f4e02ac1afab,Jasmine,00000538,Jasmine,1.0
+51421091-9deb-46ca-94d2-8d23c499d22a,Joe Pye Weed,00000486,Joe Pye Weed,1.0
+618b7a0a-f638-4007-a05d-ba1f22fbad64,Garlands,00000590,Jubilee Crown,0.606
+7e568fb8-3159-4049-a6cd-241404e3e560,Kalanchoe (cut),00000660,Kalanchoe,0.878
+a06f225f-b6ca-4dc8-8b80-f3cb014b1794,Kale,00000529,Kale/Brassic,0.833
+df017349-ea53-40c5-a62b-88739aceb448,Kangaroo Paws,00000355,Kangaroo Paw,0.927
+a06f225f-b6ca-4dc8-8b80-f3cb014b1794,Kale,00000550,Kape Green,0.646
+bc40be62-1a9a-4614-b993-b3dc939a894e,Vines,00000488,Kiwi Vine,0.754
+0b7852ad-da9d-4677-98ac-fe50e0ed2abe,Lamb's Ear,00000436,Lamb's Ear,1.0
+64317c5b-3400-4e52-a1f7-dc8d62e29fcc,Lavender,00000428,Lavender,1.0
+6f26599c-b963-4bee-b20a-0be8c62c4bef,Schefflera,00000604,Lavertera,0.614
+22074565-0d71-42a6-8c25-d06df697bf06,Stephanotis,00000531,Leonotis,0.767
+5a2f74e6-c17b-4204-bda0-b20d6ed4090d,Leptospermum,00000625,Lepto,0.689
+5a2f74e6-c17b-4204-bda0-b20d6ed4090d,Leptospermum,00000358,Leptospurnum,0.729
+0710e11f-44bf-4a80-a37c-bae43ccb8439,Leucocoryne,00000566,Leucocoryne,1.0
+ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,Alstroemeria,00000521,Leycesteria,0.602
+1c236f05-d61f-4024-9f38-078a1f5ffb62,Lilac,00000360,Lilac,1.0
+719163b0-86f3-4127-b1c9-8d890af4e8f7,Lily of the valley,00000516,Lily,0.779
+719163b0-86f3-4127-b1c9-8d890af4e8f7,Lily of the valley,00000362,Lily of the Valley,1.0
+ddd1b091-f766-4f24-976a-5c5629727d39,Flax,00000582,Lindera,0.606
+b2e5ea78-51a9-426f-8b40-9d6a5094cd8c,Oak,00000719,Liquid Amber,0.614
+09cbb165-445b-4c82-9a3b-b033cbac9f12,Astilbe,00000561,Loosestrife,0.621
+df0cc4d4-b488-4e61-99d5-8410d9ede0bf,Airplants,00000613,Lotus Pods,0.649
+1628479c-77fd-4490-bac3-b35b0f90540b,Lunaria,00000427,Lunaria,1.0
+cec25414-a3ab-47ed-9cdd-5f54f1b0ce93,Lysimachia,00000367,Lysimachia,1.0
+4d13ff4b-7f3a-44dc-9398-408bcf803caa,Tulips French,00000540,Marguerite Daisy,0.551
+d5baba9a-471d-44bb-9f8c-45a75726eda6,Marigold,00000368,Marigold,1.0
+34acab87-686f-4348-a1e3-c674a1380eb6,Costus,00000624,Matsumoto,0.507
+7af4c515-5d95-4637-a043-9c5ca2162fae,Millet,00000453,Millet,1.0
+40181326-f863-4491-9d7f-314b3016f6a6,Gerbera Mini,00000517,Mini Gerbera,0.955
+3d56c2e4-1be4-427d-a415-5873527eaf87,Emerald,00000449,Mint,0.666
+47c397da-36d2-4e19-abac-315b05d83a9a,Novelty (Do not use anymore),00000337,Misc.Fillers,0.659
+6f26599c-b963-4bee-b20a-0be8c62c4bef,Schefflera,00000371,Monarda,0.572
+,,00000373,Monkshood,0.552
+6f26599c-b963-4bee-b20a-0be8c62c4bef,Schefflera,00000374,Montbretia,0.585
+eaf00339-480a-4cc4-a02a-e309f9399303,Muscari,00000377,Muscari,1.0
+fc86a278-4c40-48a6-a213-5464aca5fb41,Cedar,00000711,Mustard,0.648
+ca52870f-816a-41fc-87d7-05df229d972d,Agonis,00000520,Myosotis,0.59
+9dcc57f9-9bed-49d2-bb82-046531d14e20,Nerine,00000378,Nerine,1.0
+feabfa27-3e63-4602-82af-b3a6a4861083,Nigella,00000447,Nigella,1.0
+6278d067-c71d-4311-869d-5ae588723f00,Consumer Bunch,00000379,Novelties,0.675
+ddd1b091-f766-4f24-976a-5c5629727d39,Flax,00000380,Oats,0.671
+0dcda386-b34f-4425-9ee2-9c237d4d3d35,Olive,00000485,Okra,0.64
+8f9a0e73-1a98-4ef5-b732-b2ec4900ae3a,Dendrobium,00000661,Orchid,0.701
+5fffaeeb-eba9-48b9-90ee-e25b9da729ba,Origanum,00000472,Oregano,0.671
+a7331d2a-6ad1-4158-8a62-73fa7a786757,Lilies Oriental,00000606,Oriental,0.807
+5fffaeeb-eba9-48b9-90ee-e25b9da729ba,Origanum,00000513,Ornithagalum,0.757
+5fffaeeb-eba9-48b9-90ee-e25b9da729ba,Origanum,00000381,Ornithogalum,0.719
+41db75ce-f377-4de2-9379-00def4d51a53,Prayer Plant,00000667,Pagoda,0.596
+0ed0264f-3587-4077-9752-4cee47549e5e,Palm,00000382,Palm Buds,0.777
+0ed0264f-3587-4077-9752-4cee47549e5e,Palm,00000618,Palm Tree,0.802
+ce77e974-9c1a-4264-9005-4f15a92f5508,Mossy Branches,00000654,Pansy,0.559
+d5baba9a-471d-44bb-9f8c-45a75726eda6,Marigold,00000598,Papaver,0.641
+decde47b-6c08-4330-88cd-78d642cf8823,Delphinium,00000464,Paphiopedilum,0.635
+6278d067-c71d-4311-869d-5ae588723f00,Consumer Bunch,00000601,Partygirl,0.567
+bc40be62-1a9a-4614-b993-b3dc939a894e,Vines,00000627,Passion Vine,0.752
+0dcda386-b34f-4425-9ee2-9c237d4d3d35,Olive,00000592,Peach,0.699
+cf9dbe05-f6ba-4e29-ab06-758bd096452c,Pennycress,00000442,Pennycress,1.0
+64fd43d4-6acb-4334-ad1b-0afed2a1b86c,Eriostemon,00000605,Penstemon,0.699
+00b2ffa0-43f8-4176-96da-ab027ebfa460,Herbs,00000481,Pepper,0.692
+58d7e9cb-5990-444c-bda1-90165d7e34c3,Berries,00000384,Pepper Berry,0.802
+00b2ffa0-43f8-4176-96da-ab027ebfa460,Herbs,00000607,Peppermint,0.693
+2efd16cb-7721-4303-a454-5392bd40eac1,Grasses,00000473,Persicaria,0.61
+6b35d620-4a44-49f3-b883-40fe01f311ce,Phlox,00000385,Phlox,1.0
+b786bc7a-255b-4f3b-8bbf-d8c7562e8dcd,Trachelium,00000617,Phormium,0.605
+000f4c0e-8e87-4771-a907-847c708e2d6d,Photinia,00000490,Photina,0.868
+abd12a8c-1933-4a93-9f0b-ff4cb1f9c6ee,Cosmos,00000528,Physo-Diablo,0.598
+cec25414-a3ab-47ed-9cdd-5f54f1b0ce93,Lysimachia,00000609,Physostegia,0.613
+0c9f14f5-d919-4590-bbb6-f8f0f14a30e2,Gypsophilia (Babys breath),00000386,Physostesia,0.587
+cb54108f-f27f-491f-8be7-23178b465e83,Pieris,00000533,Pieris Japonica,0.723
+0f33319e-2f72-44fa-894f-ccdce1f36116,Pistacia,00000539,Pimelia,0.666
+6b025779-674a-43ee-be46-d32b4a7f6d62,Pincushion Proteas,00000476,Pincushion,0.768
+43ac8638-45ec-4063-ab29-eb8e5fde5fd3,Golden Polypody,00000530,Platycodon,0.544
+0dcda386-b34f-4425-9ee2-9c237d4d3d35,Olive,00000595,Plum,0.681
+0232243b-1b67-4347-adf9-1977e91ff007,Other Containers,00000526,Pods,0.654
+b2acffd7-6180-4b2e-a7f3-4ff71daeb2a7,Poppies,00000456,Poppy,0.796
+b2acffd7-6180-4b2e-a7f3-4ff71daeb2a7,Poppies,00000430,Poppy Mix,0.692
+0b7852ad-da9d-4677-98ac-fe50e0ed2abe,Lamb's Ear,00000469,Prince's Feather,0.589
+d64b553f-70c7-4631-a0da-54c59be3cf81,Privet,00000482,Privet,1.0
+d64b553f-70c7-4631-a0da-54c59be3cf81,Privet,00000489,Privettberry,0.754
+3fb376a4-98b8-4815-9b25-53f3e6f5bcf6,Birch,00000593,Prunus,0.633
+097c1e4e-66c3-4f7d-9742-f0ced7bea22b,Pumpkin Tree,00000495,Pumpkin Tree,1.0
+5c27e2c4-ccd9-4d10-ad3a-0f8d8a33a346,Waxflower,00000501,Pyracanthus,0.649
+b2e5f5a7-808e-4b62-91fe-8b7038a36d6c,Quince,00000461,Quinine,0.704
+f387d464-7f75-4ff1-a1c8-5cb5f8a162ae,Rice Flower,00000390,Rice flower,1.0
+065128c0-72e5-4e00-975a-39c8a717eafd,Rose Petals,00000608,Rosehip,0.65
+065128c0-72e5-4e00-975a-39c8a717eafd,Rose Petals,00000574,Rosehips,0.721
+b2855498-5f59-43f3-846a-7bd5a86a0421,Rosemary,00000429,Rosemary,1.0
+09cbb165-445b-4c82-9a3b-b033cbac9f12,Astilbe,00000395,Rudbekia,0.548
+4d3773a4-cb85-42a6-92fd-ffdac1b1bf57,Rumex,00000722,Rumex,1.0
+ca37e70d-60e4-4f5f-98a0-f8a7a4308a05,Safflower,00000396,Safflower,1.0
+2d8d8a84-b6f7-41af-a370-8209dda4bd36,Sage,00000497,Sage,1.0
+98b1739e-8152-4985-9f3a-6d2b60b46aae,Willow,00000611,Salix,0.689
+2d8d8a84-b6f7-41af-a370-8209dda4bd36,Sage,00000397,Salvia,0.723
+d3952f93-516d-4197-a525-d61331bc0e13,Sandersonia,00000505,Sandersonia,1.0
+a2c5a270-0f69-4c94-a034-d84f6aa8628d,Saponaria,00000439,Saponaria,1.0
+10b20333-d122-4699-b140-96914c6046aa,Aralia,00000438,Saracena,0.605
+d3952f93-516d-4197-a525-d61331bc0e13,Sandersonia,00000662,Sarracenia,0.658
+8635a569-c48a-4ef7-98ae-1dda090903d3,Saxicola,00000398,Saxicola,1.0
+c1f2e201-3b47-49a6-be06-3b5d2822bd9a,Scabiosa,00000399,Scabiosa,1.0
+cf9a69d8-e94b-4d7e-90ed-0773638b6026,Weigela,00000555,Scholtzia,0.638
+608c1e23-8f5d-4f81-83ab-c13ef2740211,Scilla,00000400,Scilla,1.0
+c1f2e201-3b47-49a6-be06-3b5d2822bd9a,Scabiosa,00000508,Scoparia,0.658
+7db31eeb-d1f8-485e-85ed-c662e7c5c3c8,Sedum,00000401,Sedum,1.0
+ecaa1c68-87fc-4f4e-b088-ba5e94c7b7bc,Alstroemeria,00000525,Serruria,0.621
+a06f225f-b6ca-4dc8-8b80-f3cb014b1794,Kale,00000620,Silene,0.562
+1a761bf2-f7fa-44e5-9199-decfc0f2f9cb,Snow Berries,00000498,Snowberry,0.895
+854e7e1f-6094-4d82-adcc-979bab5b19e3,Saltbush,00000721,Solomon Seal,0.5
+2efd16cb-7721-4303-a454-5392bd40eac1,Grasses,00000480,Sorghum,0.687
+c1ebf780-5d98-4265-b510-da9aeab241df,Deflexus,00000616,Sparaxis,0.607
+33301339-d0f3-433b-94bb-3aba934deb5f,Spirea,00000404,Spirea,1.0
+040fc290-a59f-4034-9a25-2e3cc2af6d60,Dill,00000532,Squill,0.632
+e8f988ec-9663-49d7-99cc-db57e6240e3d,Strawflower,00000407,Strawflower,1.0
+8dd89459-0abb-413d-aafa-d2bc5ac3e040,Sweet Peas,00000409,Sweet Pea,0.944
+8dd89459-0abb-413d-aafa-d2bc5ac3e040,Sweet Peas,00000451,Sweet William,0.684
+dc1ceaf7-5976-42e8-b01b-076d2c87a30f,Matricaria (feverfew),00000630,Swertia,0.627
+dc1ceaf7-5976-42e8-b01b-076d2c87a30f,Matricaria (feverfew),00000615,Symphoricarpos,0.577
+58d7e9cb-5990-444c-bda1-90165d7e34c3,Berries,00000507,Tallowberry,0.653
+ae64f257-727e-4050-8f6b-bbf1de63fc7f,Smilax,00000465,Tamarix,0.604
+4b9da7a7-4f4f-4c97-bf88-1bc4a3c6f726,Geranium,00000562,Tanacetum,0.629
+3ac230e1-ab31-4da6-9c4e-5a36764cdc4a,Ti Leaves,00000410,Tansy,0.574
+b0a75c5d-1cd5-4177-9cd7-bc23b2f68d52,Star Thistle,00000411,Thistle,0.823
+00b2ffa0-43f8-4176-96da-ab027ebfa460,Herbs,00000621,Thyme,0.701
+58d7e9cb-5990-444c-bda1-90165d7e34c3,Berries,00000509,Toyanberry,0.684
+b786bc7a-255b-4f3b-8bbf-d8c7562e8dcd,Trachelium,00000412,Trachelium,1.0
+dfe0279c-c792-4f6d-abb1-39426af229b4,Liatris,00000500,Tricyrtis,0.606
+f34eaca7-c4d0-4824-a331-ce601ee98869,Mini Calla,00000440,Tritoma,0.555
+b04b3288-adfd-4727-abff-6405f2347606,Tuberosa,00000413,Tuberose,0.746
+a53c980f-bf0e-436b-948d-5b604cfd9930,Tweedia,00000416,Tweedia,1.0
+09cbb165-445b-4c82-9a3b-b033cbac9f12,Astilbe,00000626,Verbascum,0.615
+d2ea2fc3-6c90-449b-9b0c-c4d9d2400fbc,Veronica,00000417,Veronica,1.0
+dab8888f-bae4-4611-8819-28280167b568,Viburnum,00000418,Viburnum,1.0
+a53c980f-bf0e-436b-948d-5b604cfd9930,Tweedia,00000522,Watsonia,0.677
+cf9a69d8-e94b-4d7e-90ed-0773638b6026,Weigela,00000496,Weigelia,0.896
+2efd16cb-7721-4303-a454-5392bd40eac1,Grasses,00000450,Wheat,0.726
+a457ca34-3e66-41ba-8ddc-16e793044ce3,Yarrow,00000420,Yarrow,1.0
+854e7e1f-6094-4d82-adcc-979bab5b19e3,Saltbush,00000589,Yearning Desert,0.578
+c6857541-7426-4f90-b64f-1af4002f66b0,Gardenia,00000421,Zinnia,0.689
+44158241-eff8-400e-9fd6-967384de466b,Peony,00000383,Peony,1.0
+77e80550-8ed3-4d02-8e97-982365e4d611,Chrysanthemum Micro Pom,00000387,Pom Pons,0.662
+f804a637-35a9-4e33-bdc3-271e6adc9ab5,Ranunculus,00000389,Ranunculus,1.0
+7a68bebd-2346-4e73-9906-a7665c22ce20,Roses,00000570,Roses-Garden,0.879
+f65b435b-c531-4639-99d9-2805fb8cd131,Spray Roses,00000394,Roses-Spray,0.957
+7a68bebd-2346-4e73-9906-a7665c22ce20,Roses,00000392,Roses-Standard,0.852
+e4e58d80-9d72-4c90-b3a0-11f5afdb607c,Sweetheart Roses,00000422,Roses-Sweetheart,0.926
+3f7d62c8-1ad6-46de-840d-4563a5545a3d,Snapdragons,00000403,Snapdragon,0.94
+0fe1b331-a9eb-46d8-b354-81a9f944723a,Statice,00000405,Statice,1.0
+ab301a1f-7596-45ee-a689-dfc531f7b0c2,Stock,00000406,Stock,1.0
+72193b6f-3745-43d3-b566-73346bb5db71,Sunflower,00000408,Sunflower,1.0
+8dd89459-0abb-413d-aafa-d2bc5ac3e040,Sweet Peas,00000409,Sweet Pea,0.944
+7984a977-5ba6-46fd-82fe-99f37c6b3c07,Tulips Fringed,00000415,Tulips,0.827
+4d13ff4b-7f3a-44dc-9398-408bcf803caa,Tulips French,00000414,Tulips-French,0.971
+5c27e2c4-ccd9-4d10-ad3a-0f8d8a33a346,Waxflower,00000419,Waxflower,1.0

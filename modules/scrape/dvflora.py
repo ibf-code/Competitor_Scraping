@@ -41,55 +41,49 @@ def extract_products(html: str, group: str, variety: str, color: str, url: str):
     tbody = tree.css_first("#PageText > form:nth-of-type(2) > table > tbody")
     if not tbody:
         return []
-    
+
     products = []
     seen = set()
 
-    # Iterate through each row in the table body
     for row in tbody.css("tr"):
         cells = row.css("td")
         if len(cells) < 8:
             continue
-        
-        # Extract item number and check for duplicates
+
         item_number = cells[1].text(strip=True)
-        if item_number in seen:
+        if not item_number or item_number in seen:
             continue
         seen.add(item_number)
 
         name_node = cells[2].css_first("a")
         product_name = name_node.text(strip=True) if name_node else None
-        origin_text = cells[2].text() # initiate country of origin
+
+        origin_text = cells[2].text()
         origin = origin_text.split("Origin:")[-1].strip() if "Origin:" in origin_text else None
-        sold_as = cells[3].text(strip=True) # bunch stem whatever
+        sold_as = cells[3].text(strip=True)
+
         stock_img = cells[4].css_first("img")
         in_stock = "yes" in stock_img.attrs.get("src", "").lower() if stock_img else False
 
+        # Search all cells for any visible price
         unit_price = None
-        for td in cells[5:]:
-            nested_text = " ".join([n.text(strip=True) for n in td.iter() if n.text()])
-            match = re.search(r"(\d+)\s*@\s*\$?(\d+\.\d+)", nested_text)
-            if match:
-                unit_price = float(match.group(2))
+        for td in cells:
+            text = td.text(strip=True)
+            match_qty_price = re.search(r"(\d+)\s*@\s*\$?(\d+\.\d+)", text)
+            match_price_only = re.search(r"\$?(\d+\.\d+)", text)
+            if match_qty_price:
+                unit_price = float(match_qty_price.group(2))
                 break
-            match_simple = re.search(r"\$?(\d+\.\d+)", nested_text)
-            if match_simple:
-                unit_price = float(match_simple.group(1))
+            elif match_price_only:
+                unit_price = float(match_price_only.group(1))
                 break
 
         if product_name and item_number:
             products.append((
-                item_number,
-                product_name,
-                origin,
-                sold_as,
-                in_stock,
-                unit_price,
-                group,
-                variety,
-                color,
-                url
+                item_number, product_name, origin, sold_as, in_stock,
+                unit_price, group, variety, color, url
             ))
+
     return products
 
 async def fetch_and_extract(session, row):
